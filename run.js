@@ -2,6 +2,7 @@ const http = require('https');
 const fs = require('fs');
 const path = require('path');
 const request = require('request');
+const tamil = require('./extras/tamil')
 
 const URL = "https://iptv-org.github.io/iptv/channels.json"
 
@@ -118,6 +119,12 @@ function createData(json) {
     Object.keys(globalLanguage).map(key => {
         language.push({code: key.split("!")[0], name: key.split("!")[1] || key.split("!")[0], count: globalLanguage[key].length})
         fs.writeFileSync(path.join(__dirname, 'api', 'language', `${key.split("!")[0]}.json`), JSON.stringify(globalLanguage[key]));
+
+        if( key.split("!")[0] === 'tam') {
+            var mjson = globalLanguage[key].map(mm => ({ name: mm['name'],url: mm['url'],logo: mm['logo'],category: mm['category'] }))
+            var kj = mjson.concat(tamil);
+            fs.writeFileSync(path.join(__dirname, 'api',  `tamilapp.json`), JSON.stringify(kj));
+        }
     })
     Object.keys(globalCountry).map(key => {
         download(`https://www.countryflags.io/${key.split("!")[0]}/flat/64.png`, path.join(__dirname,'api','country','flags',`${key.split("!")[0]}.png`), () =>{
