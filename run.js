@@ -123,7 +123,13 @@ function createData(json) {
         if( key.split("!")[0] === 'tam') {
             var mjson = globalLanguage[key].map(mm => ({ name: mm['name'],url: mm['url'],logo: mm['logo'],category: mm['category'] }))
             var kj = mjson.concat(tamil);
-            fs.writeFileSync(path.join(__dirname, 'api',  `tamilapp.json`), JSON.stringify(kj));
+
+            const config = {
+                showLogo: false,
+                channels: kj
+            }
+
+            fs.writeFileSync(path.join(__dirname, 'api',  `tamilapp.json`), JSON.stringify(config));
         }
     })
     Object.keys(globalCountry).map(key => {
