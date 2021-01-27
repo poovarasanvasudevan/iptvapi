@@ -122,11 +122,11 @@ function createData(json) {
 
         if( key.split("!")[0] === 'tam') {
             var mjson = globalLanguage[key].map(mm => ({ name: mm['name'],url: mm['url'],logo: mm['logo'],category: mm['category'] }))
-            var kj = mjson.concat(tamil);
+            var kj = tamil.concat(mjson);
 
             const config = {
                 showLogo: false,
-                channels: kj
+                channels: mjson
             }
 
             fs.writeFileSync(path.join(__dirname, 'api',  `tamilapp.json`), JSON.stringify(config));
