@@ -66,7 +66,7 @@ function createData(json) {
             }
 
 
-            if (item.country == null) {
+            if (item.countries == null || item.languages.length === 0) {
                 if (globalCountry.hasOwnProperty("nocountry")) {
                     globalCountry['nocountry'].push(item)
                 } else {
@@ -74,16 +74,18 @@ function createData(json) {
                     globalCountry['nocountry'].push(item)
                 }
             } else {
-                if (globalCountry.hasOwnProperty(item.country.code + "!" + item.country.name)) {
-                    globalCountry[item.country.code + "!" + item.country.name].push(item)
-                } else {
-                    globalCountry[item.country.code + "!" + item.country.name] = []
-                    globalCountry[item.country.code + "!" + item.country.name].push(item)
-                }
+                item.countries.forEach((country) => {
+                    if (globalCountry.hasOwnProperty(country.code + "!" + country.name)) {
+                        globalCountry[country.code + "!" + country.name].push(item)
+                    } else {
+                        globalCountry[country.code + "!" + country.name] = []
+                        globalCountry[country.code + "!" + country.name].push(item)
+                    }
+                })
             }
 
 
-            if (item.language == null || item.language.length === 0) {
+            if (item.languages == null || item.languages.length === 0) {
                 if (globalLanguage.hasOwnProperty("nolanguage")) {
                     globalLanguage['nolanguage'].push(item)
                 } else {
@@ -92,7 +94,7 @@ function createData(json) {
                 }
             } else {
 
-                item.language.forEach((lang) => {
+                item.languages.forEach((lang) => {
                     if (globalLanguage.hasOwnProperty(lang.code + "!" + lang.name)) {
                         globalLanguage[lang.code + "!" + lang.name].push(item)
                     } else {
@@ -132,14 +134,15 @@ function createData(json) {
             fs.writeFileSync(path.join(__dirname, 'api',  `tamilapp.json`), JSON.stringify(config));
         }
     })
-    Object.keys(globalCountry).map(key => {
-        download(`https://www.countryflags.io/${key.split("!")[0]}/flat/64.png`, path.join(__dirname,'api','country','flags',`${key.split("!")[0]}.png`), () =>{
-            console.log(`https://www.countryflags.io/${key.split("!")[0]}/flat/64.png`);
-        });
-    });
+
 
 
     fs.writeFileSync(path.join(__dirname, 'api', 'category.json'), JSON.stringify(category));
     fs.writeFileSync(path.join(__dirname, 'api', 'country.json'), JSON.stringify(country));
     fs.writeFileSync(path.join(__dirname, 'api', 'language.json'), JSON.stringify(language));
+    Object.keys(globalCountry).map(key => {
+        download(`https://www.countryflags.io/${key.split("!")[0]}/flat/64.png`, path.join(__dirname,'api','country','flags',`${key.split("!")[0]}.png`), () =>{
+            console.log(`https://www.countryflags.io/${key.split("!")[0]}/flat/64.png`);
+        });
+    });
 }

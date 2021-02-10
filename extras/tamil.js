@@ -142,5 +142,11 @@ module.exports = [
         logo: 'http://7startv.in/astv.png',
         url: 'http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w365086533.m3u8',
         category: 'Local'
+    },
+    {
+        name:  'Marutam TV',
+        url : 'http://mntv.livebox.co.in/mntvhls/mntv.m3u8',
+        category: 'Local',
+        logo: 'http://mntv.in/style/images/logo-dark.png'
     }
 ]

@@ -1,0 +1,11 @@
+{
+  "name": "iptvapin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/poovarasanvasudevan/iptvapi.git",
+  "author": "poovarasan <poosan9@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
