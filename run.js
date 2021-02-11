@@ -141,8 +141,8 @@ function createData(json) {
       var kj = tamil.concat(mjson);
 
       const config = {
-        showLogo: false,
-        channels: mjson
+        showLogo: true,
+        channels: kj
       }
 
       fs.writeFileSync(path.join(__dirname, 'api', `tamilapp.json`), JSON.stringify(config));
