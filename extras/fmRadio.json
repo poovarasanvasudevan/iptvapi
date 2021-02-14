@@ -1,0 +1,73 @@
+
+[
+  {
+    "language": "Malayalam",
+    "radio": [
+      {
+        "title" : "Suriyan FM",
+        "url" : "https://str2b.openstream.co/1451"
+      }
+    ]
+  },
+  {
+    "language": "Hindi",
+    "radio": [
+      {
+        "title": "Radio Mirchi 98.3 FM",
+        "image": "https://onlineradiofm.in/assets/image/radio/100/radio-mirchi11111.jpg",
+        "url": "https://radioindia.net/radio/mirchi98/icecast.audio"
+      },
+      {
+        "title": "Radio City 91.1 FM in Chennai",
+        "image": "https://onlineradiofm.in/assets/image/radio/180/radiocity9911.jpg",
+        "url": "https://radioindia.net/radio/radio-city/icecast.audio"
+      },
+
+      https://radioindia.net/radio/sc-bb/icecast.audio
+      https://onlineradiofm.in/assets/image/radio/180/big-fm-5001.png
+      Big FM Chennai,
+
+      https://radioindia.net/radio/hungama90/icecast.audio
+      https://onlineradiofm.in/assets/image/radio/180/Hungama90sOnceAgain.jpg
+      Radio Hungama 90s Once Again,
+
+      https://onlineradiofm.in/assets/image/radio/180/club_fm.png
+      94.3 Club FM,
+      https://eu10.fastcast4u.com/clubfmuae
+
+
+
+    ]
+  },
+  {
+    "language": "Tamil",
+    "radio": [
+      {
+        "name": "Radio Vividh Bharati 100.5 FM",
+        "logo": "https://onlineradiofm.in/assets/image/radio/180/chennaivbs.jpg",
+        "url": "https://radioindia.net/radio/air_vbs_chennai/icecast.audio"
+      }
+      {
+        Radio Hello
+        https://node-05.zeno.fm/7a3d4s28ptzuv?rj-ttl=5&rj-tok=AAABd5D5f78AIxatJKBswqEpIg
+        https://onlineradiofm.in/assets/image/radio/180/logo-hellofm.png
+      }
+      https://radioindia.net/radio/air_gold_chennai/icecast.audio
+      https://onlineradiofm.in/assets/image/radio/180/chennai-fm-gold.jpg
+      Air Gold 621 MW in Chennai,
+
+
+      Radio Gyan Vani 104.2 FM in Chennai,
+      https://onlineradiofm.in/assets/image/radio/180/gayanvani.png
+      https://radioindia.net/radio/gayn/icecast.audio
+
+      https://onlineradiofm.in/assets/image/radio/180/air-chennai-b.jpg
+      https://radioindia.net/radio/air_chennaib/icecast.audio
+      All India Radio AIR CHENNAI,
+
+      All India Radio AIR CHENNAI PC 720 AM,
+      https://onlineradiofm.in/assets/image/radio/180/air-chennai-pc.jpg
+      https://radioindia.net/radio/air_chennaipc/icecast.audio
+    ]
+  }
+]
