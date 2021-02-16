@@ -120,7 +120,16 @@ function createData(json) {
       name: key.split("!")[1] || key.split("!")[0],
       count: globalCountry[key].length
     })
-    fs.writeFileSync(path.join(__dirname, 'api', 'country', `${key.split("!")[0]}.json`), JSON.stringify(globalCountry[key]));
+
+    const fJson = globalCountry[key]
+
+    // const mpath = path.join(__dirname , 'extras','country',`${key.split("!")[0]}.json`)
+    // if(fs.exists(mpath)) {
+    //   let rawdata = fs.readFileSync(mpath);
+    //   let raw = JSON.parse(rawdata);
+    //   fJson.concat(raw)
+    // }
+    fs.writeFileSync(path.join(__dirname, 'api', 'country', `${key.split("!")[0]}.json`), JSON.stringify(fJson));
   })
 
   Object.keys(globalLanguage).map(key => {
