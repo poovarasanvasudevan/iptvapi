@@ -24,7 +24,7 @@ fs.readFile(path.join(__dirname, 'extras', 'tamil.txt'), 'utf8', function (err, 
   })
 
   const aData = {
-    showLogo: false,
+    showLogo: true,
     radio: fullChannel
   }
 
