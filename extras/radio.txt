@@ -1,0 +1,16 @@
+https://prod-34-82-27-12.wostreaming.net/espn-networkmp3-48?session-id=68c7510ed572305d3ec1ca7459e37b53&source=TuneIn&gdpr=0&us_privacy=1YNY&listenerid=4123a3a3ef9cd2aab5297fa10c6be85e&aw_0_1st_playerid=RadioTime&aw_0_1st_skey=1613495582&aw_0_1st_premium=false&aw_0_1st_lotamesegments=%3Bx739x%3Bx2x%3Bx588x%3Bx588x%3Ball%3BW11%3BW17%3B
+ESPN Radio
+https://cdn-profiles.tunein.com/s25876/images/logoq.jpg?t=1
+-----
+https://prod-34-82-27-12.wostreaming.net/espn-wepnmp3-32?session-id=5cc7f70b3709113de2fb4ad6ef10a78c&source=TuneIn&gdpr=0&us_privacy=1YNY&listenerid=4123a3a3ef9cd2aab5297fa10c6be85e&aw_0_1st_playerid=RadioTime&aw_0_1st_skey=1613495716&aw_0_1st_premium=false&aw_0_1st_lotamesegments=%3Bx739x%3Bx2x%3Bx588x%3Bx588x%3Ball%3BW11%3BW17%3B
+ESPN New York
+https://cdn-profiles.tunein.com/s22469/images/logoq.jpg?t=1
+-----
+https://prod-35-233-227-225.wostreaming.net/espn-kspnmp3-48?session-id=c185da840da2793b5234ffad32c277af&source=TuneIn&gdpr=0&us_privacy=1YNY&listenerid=4123a3a3ef9cd2aab5297fa10c6be85e&aw_0_1st_playerid=RadioTime&aw_0_1st_skey=1613495767&aw_0_1st_premium=false&aw_0_1st_lotamesegments=%3Bx739x%3Bx2x%3Bx588x%3Bx588x%3Ball%3BW11%3BW17%3B
+ESPN Los Angeles
+https://cdn-profiles.tunein.com/s32301/images/logoq.jpg?t=1
+-------
+https://prod-34-83-24-218.wostreaming.net/goodkarma-wknramaac-ibc2?session-id=625444e291dad40c840d93bd6b03d060&source=TuneIn&gdpr=0&us_privacy=1YNY
+ESPN Cleveland
+https://cdn-profiles.tunein.com/s30315/images/logoq.png?t=152347
+-----
