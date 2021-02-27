@@ -1,4 +1,10 @@
 module.exports = [
+  // {
+  //   url: 'https://www.youtube.com/watch?v=ft6eNplg5BQ',
+  //   category: 'News',
+  //   logo: 'https://sund-images.sunnxt.com/38926/1920x1080_SunNews_38926_a7738065-a3d0-4031-b469-ad3c15d86b32.jpg',
+  //   name: 'Sun News Live'
+  // },
   {
     url: 'https://ca.streamjo.com/live/samugam.m3u8',
     category: 'Local',
