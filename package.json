@@ -6,6 +6,7 @@
   "author": "poovarasan <poosan9@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "jssoup": "^0.0.12",
     "request": "^2.88.2"
   }
 }
