@@ -6,6 +6,34 @@ module.exports = [
   //   name: 'Sun News Live'
   // },
   {
+    url : "https://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/index.m3u8",
+    category: 'Devotional',
+    name: "Sri Sankara TV",
+    logo: 'http://jenohdtv.gq/wp-content/uploads/2019/11/Sri-Sankara-TV.png'
+  },
+  {
+    url : "http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8",
+    category: 'Devotional',
+    name: "SVBC Tamil",
+    logo: 'http://jenohdtv.gq/wp-content/uploads/2019/11/SVBC-Tamil.png'
+  },
+
+
+  {
+    url : "http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8",
+    category: 'Devotional',
+    name: "Sivan TV",
+    logo: 'http://jenohdtv.gq/wp-content/uploads/2019/11/Sivan-TV.png'
+  },
+
+  {
+    url : "http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w794457741.m3u8",
+    category: 'Devotional',
+    name: "Blessings TV",
+    logo: 'http://jenohdtv.gq/wp-content/uploads/2019/11/Aaseervatham-TV.png'
+  },
+
+  {
     url: 'https://ca.streamjo.com/live/samugam.m3u8',
     category: 'Local',
     "logo": "http://jenohdtv.gq/wp-content/uploads/2020/09/Samugam-TV.png",
