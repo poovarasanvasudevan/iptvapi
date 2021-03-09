@@ -38,7 +38,7 @@ const download = (url, path, callback) => {
 }
 
 function createData(json) {
-
+  console.log("Data Got")
   fs.writeFileSync(path.join(__dirname, 'api', 'channel.json'), JSON.stringify(json));
 
   const category = []
@@ -166,4 +166,6 @@ function createData(json) {
 
     fs.copyFile(path.join(__dirname ,'flag',`${key.split("!")[0]}_64.png`) , path.join(__dirname ,'api','country','flags',`${key.split("!")[0]}.png`),() => {})
   });
+
+  console.log("end all")
 }

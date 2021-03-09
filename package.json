@@ -5,7 +5,11 @@
   "repository": "https://github.com/poovarasanvasudevan/iptvapi.git",
   "author": "poovarasan <poosan9@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "cc": "casperjs intlradio.js"
+  },
   "dependencies": {
+    "casperjs": "^1.1.4",
     "jssoup": "^0.0.12",
     "request": "^2.88.2"
   }
