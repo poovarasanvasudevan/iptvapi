@@ -23,6 +23,20 @@ fs.readFile(path.join(__dirname, 'extras', 'tamil.txt'), 'utf8', function (err, 
     }
   })
 
+
+  fullChannel.sort((a, b) => {
+    let fa = a.name.toLowerCase(),
+      fb = b.name.toLowerCase();
+
+    if (fa < fb) {
+      return -1;
+    }
+    if (fa > fb) {
+      return 1;
+    }
+    return 0;
+  });
+
   const aData = {
     showLogo: true,
     language: "Tamil",
