@@ -666,11 +666,11 @@ https://node-23.zeno.fm/yp73agy93qzuv?rj-ttl=5&rj-tok=AAABd5FYwqoA4m87jUejZNYAqA
 Tamil kuyil tamil
 https://radiosindia.com/images/tamilkuyilradio.jpg
 =====
-http://stream.zeno.fm/nxb2dpmmhm8uv.m3u
+https://stream.zeno.fm/nxb2dpmmhm8uv.m3u
 YAAZHISAI FM
 https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/yaazhisaifm.jpg
 =====
-http://stream.zeno.fm/2r9w3gumhm8uv.m3u
+https://stream.zeno.fm/2r9w3gumhm8uv.m3u
 DHARISANAM FM
 https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/DharisanamFM.PNG
 =====
