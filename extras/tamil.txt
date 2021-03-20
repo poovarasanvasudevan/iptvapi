@@ -668,9 +668,9 @@ https://radiosindia.com/images/tamilkuyilradio.jpg
 =====
 http://stream.zeno.fm/nxb2dpmmhm8uv.m3u
 YAAZHISAI FM
-https://radiosindia.com/images/tamilkuyilradio.jpg
+https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/yaazhisaifm.jpg
 =====
 http://stream.zeno.fm/2r9w3gumhm8uv.m3u
 DHARISANAM FM
-https://radiosindia.com/images/tamilkuyilradio.jpg
+https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/DharisanamFM.PNG
 =====
