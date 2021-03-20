@@ -290,6 +290,18 @@ module.exports = [
     url: 'http://mntv.livebox.co.in/mntvhls/mntv.m3u8',
     category: 'Local',
     logo: 'http://mntv.in/style/images/logo-dark.png'
+  },
+  {
+    name : "Yaal Tv",
+    url : "http://198.144.149.82:8080/NOTV/VETRITV/index.m3u8?token=GTR",
+    category: 'Entertainment',
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/YAALTVLOGO.png"
+  },
+  {
+    name : "Dharisanam Tv",
+    url : "http://198.144.149.82:8080/NOTV/DHARISANAMTV/index.m3u8?token=GTR",
+    category: 'Devotional',
+    logo: " https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/DHARISANAM.png"
   }
 ]
 
