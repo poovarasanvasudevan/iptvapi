@@ -302,6 +302,12 @@ module.exports = [
     url : "http://198.144.149.82:8080/NOTV/DHARISANAMTV/index.m3u8?token=GTR",
     category: 'Devotional',
     logo: " https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/DHARISANAM.png"
+  },
+  {
+    name : "RamTv",
+    category: "Local",
+    logo: "http://ambitious.in.net/new/cloudTv/uploads/images/channel_IMG2922.png",
+    url : "http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8",
   }
 ]
 
