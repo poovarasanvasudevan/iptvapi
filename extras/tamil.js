@@ -342,23 +342,17 @@ module.exports = [
   {
     name: "Singam TV",
     category: "Local",
-    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1597555868_s3tv.png",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602588016_1601609507_singam.jpg",
     url: "http://singamcloud.in:8080/singamtv/singamtv/playlist.m3u8"
   },
   {
     name: "Reach TV",
     category: "Local",
-    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1597555868_s3tv.png",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1597387502_Reach.jpg",
     url: "http://103.98.62.134:8080/hls/reach.m3u8"
   },
   {
     name: "Vanavil Plus",
-    category: "Local",
-    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1597421994_vanavil.png",
-    url: "http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8"
-  },
-  {
-    name: "Krishna TV",
     category: "Local",
     logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1597421994_vanavil.png",
     url: "http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8"
@@ -370,7 +364,7 @@ module.exports = [
     url: "http://139.99.41.37:1935/dream/live/playlist.m3u8"
   },
   {
-    name: "iDream TV",
+    name: "Nagaram TV",
     category: "Local",
     logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1609655953_nagaramcopy.png",
     url: "http://bmlive.net:8000/BMW/BMW/bms.m3u8"
