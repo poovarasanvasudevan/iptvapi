@@ -6,13 +6,13 @@ module.exports = [
   //   name: 'Sun News Live'
   // },
   {
-    url : "https://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/index.m3u8",
+    url: "https://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/index.m3u8",
     category: 'Devotional',
     name: "Sri Sankara TV",
     logo: 'http://jenohdtv.gq/wp-content/uploads/2019/11/Sri-Sankara-TV.png'
   },
   {
-    url : "http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8",
+    url: "http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8",
     category: 'Devotional',
     name: "SVBC Tamil",
     logo: 'http://jenohdtv.gq/wp-content/uploads/2019/11/SVBC-Tamil.png'
@@ -20,14 +20,14 @@ module.exports = [
 
 
   {
-    url : "http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8",
+    url: "http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8",
     category: 'Devotional',
     name: "Sivan TV",
     logo: 'http://jenohdtv.gq/wp-content/uploads/2019/11/Sivan-TV.png'
   },
 
   {
-    url : "http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w794457741.m3u8",
+    url: "http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w794457741.m3u8",
     category: 'Devotional',
     name: "Blessings TV",
     logo: 'http://jenohdtv.gq/wp-content/uploads/2019/11/Aaseervatham-TV.png'
@@ -49,9 +49,9 @@ module.exports = [
 
   {
     url: 'http://7starcloud.com:1935/madhimugamtv/madhimugamtv/playlist.m3u8',
-    category: 'Local',
+    category: 'News',
     "logo": "http://jenohdtv.gq/wp-content/uploads/2019/11/Madhimugam-TV.png",
-    name: "Madhimugam TV"
+    name: "Mathimugam TV"
   },
   {
     url: 'http://103.199.161.254/Content/kalaignarchittiram/Live/Channel(KalaignarChittiram)/Stream(01)/index.m3u8',
@@ -292,23 +292,241 @@ module.exports = [
     logo: 'http://mntv.in/style/images/logo-dark.png'
   },
   {
-    name : "Yaal Tv",
-    url : "http://198.144.149.82:8080/NOTV/VETRITV/index.m3u8?token=GTR",
+    name: "Yaal Tv",
+    url: "http://198.144.149.82:8080/NOTV/VETRITV/index.m3u8?token=GTR",
     category: 'Entertainment',
     logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/YAALTVLOGO.png"
   },
   {
-    name : "Dharisanam Tv",
-    url : "http://198.144.149.82:8080/NOTV/DHARISANAMTV/index.m3u8?token=GTR",
+    name: "Dharisanam Tv",
+    url: "http://198.144.149.82:8080/NOTV/DHARISANAMTV/index.m3u8?token=GTR",
     category: 'Devotional',
-    logo: " https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/DHARISANAM.png"
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/DHARISANAM.png"
   },
   {
-    name : "RamTv",
+    name: "Ram Tv",
     category: "Local",
     logo: "http://ambitious.in.net/new/cloudTv/uploads/images/channel_IMG2922.png",
-    url : "http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8",
-  }
+    url: "http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8",
+  },
+  {
+    name: "Capital Music",
+    category: "Music",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1609587276_Musiclogo.png",
+    url: "http://89.187.162.89/Capital_Music/index.m3u8"
+  },
+  {
+    name: "Udhayam TV",
+    category: "Local",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602589537_udhayamcopy.jpg",
+    url: "http://media.7starcloud.com:1935/harimedia/live3/playlist.m3u8"
+  },
+  {
+    name: "VIP TV",
+    category: "Local",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602166664_VIP.png",
+    url: "http://media.7starcloud.com:1935/harimedia/viptv/playlist.m3u8"
+  },
+  {
+    name: "Boss TV",
+    category: "Local",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602562947_1597838074_bosscopy.jpg",
+    url: "http://bosstv-notv.chennaistream.net/bosstv/bosstvlive/playlist.m3u8"
+  },
+  {
+    name: "S3 TV",
+    category: "Local",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1597555868_s3tv.png",
+    url: "http://media.7starcloud.com:1935/harimedia/live6/playlist.m3u8"
+  },
+  {
+    name: "Singam TV",
+    category: "Local",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1597555868_s3tv.png",
+    url: "http://singamcloud.in:8080/singamtv/singamtv/playlist.m3u8"
+  },
+  {
+    name: "Reach TV",
+    category: "Local",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1597555868_s3tv.png",
+    url: "http://103.98.62.134:8080/hls/reach.m3u8"
+  },
+  {
+    name: "Vanavil Plus",
+    category: "Local",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1597421994_vanavil.png",
+    url: "http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8"
+  },
+  {
+    name: "Krishna TV",
+    category: "Local",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1597421994_vanavil.png",
+    url: "http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8"
+  },
+  {
+    name: "iDream TV",
+    category: "Local",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1609652365_idream.png",
+    url: "http://139.99.41.37:1935/dream/live/playlist.m3u8"
+  },
+  {
+    name: "iDream TV",
+    category: "Local",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1609655953_nagaramcopy.png",
+    url: "http://bmlive.net:8000/BMW/BMW/bms.m3u8"
+  },
+  {
+    name: "Vani TV",
+    category: "Local",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1609652171_vanitv.jpg",
+    url: "http://hdserver.7starcloud.com:1935/vanitv/livemedia/playlist.m3u8"
+  },
+  {
+    name: "Jayam TV",
+    category: "Local",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1609651454_jayaamtv.png",
+    url: "http://hdserver.7starcloud.com:1935/jayaamtv/livetv/playlist.m3u8"
+  },
+  {
+    name: "OM TV",
+    category: "Local",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602587339_1599302178_omtvcopy.jpg",
+    url: "http://media.7starcloud.com:1935/omtv/livestream/playlist.m3u8"
+  },
+  {
+    name: "OM TV",
+    category: "Local",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602587339_1599302178_omtvcopy.jpg",
+    url: "http://media.7starcloud.com:1935/omtv/livestream/playlist.m3u8"
+  },
+  {
+    name: "My TV",
+    category: "Local",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602589084_1598780744_Mytvlogocopy.jpg",
+    url: "http://account19.livebox.co.in/mytvhls/live.m3u8"
+  },
+  {
+    name: "Capital News",
+    category: "News",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1609586495_capitalnews.png",
+    url: "http://89.187.162.89/Capital_NEWS/index.m3u8"
+  },
+  {
+    name: "News J",
+    category: "News",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1603524085_1597388865_newsjcopy.jpg",
+    url: "http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:newsj_,b256,b512,b1024,b1824,.smil/chunklist.m3u8"
+  },
+  {
+    name: "Polimer News",
+    category: "News",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1596281361_poli.png",
+    url: "http://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist.m3u8"
+  },
+  {
+    name: "News 7 Tamil",
+    category: "News",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1596281548_news7.jpg",
+    url: "http://versewsa.pc.cdn.bitgravity.com/versewsa/live/tamilnews7.smil/chunklist_b1000000.m3u8"
+  },
+  {
+    name: "Mirror Now",
+    category: "News",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602587859_1598793299_mirrorcopy.jpg",
+    url: "http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8"
+  },
+  {
+    name: "TV9",
+    category: "News",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602587877_1598793237_TV9copy.jpg",
+    url: "http://103.199.161.254/Content/tv9telungu/Live/Channel(TV9Telungu)/index.m3u8"
+  },
+  {
+    name: "ET Now",
+    category: "News",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602587920_1598792614_ETNowcopy.jpg",
+    url: "https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8"
+  },
+  {
+    name: "NDTV",
+    category: "News",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1603524142_1598792353_NDTVcopy.jpg",
+    url: "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8"
+  },
+  {
+    name: "1 Yes TV",
+    category: "News",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602588730_1597388646_oneyescopy.jpg",
+    url: "http://livematrix.in:1935/1yestv/1yestv/playlist.m3u8"
+  },
+  {
+    name: "Aram TV",
+    category: "News",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602589068_1597388940_aramcopy.jpg",
+    url: "http://51.79.158.179:1935/aramtv/live/playlist.m3u8"
+  },
+  {
+    name: "Sathiyam TV",
+    category: "News",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602589120_1598779936_sathiyamlogo.png",
+    url: "http://hdserver.7starcloud.com:1935/sathiyamtv/livestreaming/playlist.m3u8"
+  },
+  {
+    name: "DD Sports",
+    category: "Sports",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1603524158_1598791651_DD Sportscopy.jpg",
+    url: "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8"
+  },
+  {
+    name: "Tamil Three",
+    category: "International",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1603524158_1598791651_DD Sportscopy.jpg",
+    url: "https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
+  },
+  {
+    name: "Sooriyan TV",
+    category: "Local",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1597387276_soorian.jpg",
+    url: "http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8"
+  },
+  {
+    name: "Capital TV",
+    category: "Local",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602588427_1597400963_capitelcopy.jpg",
+    url: "http://89.187.162.89/Capital_TV-LIVE/index.m3u8"
+  },
+  {
+    name: "TVI TV",
+    category: "International",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1597394379_tvicopy.jpg",
+    url: "http://89.187.162.89/Capital_TV-LIVE/index.m3u8"
+  },
+  {
+    name: "Swasthik TV",
+    category: "Religion",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1609588616_swasthiktv.png",
+    url: "http://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8"
+  },
+  {
+    name: "Nambikkai TV",
+    category: "Religion",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602588047_1596971871_nambikkaicopy.jpg",
+    url: "http://live.wmncdn.net/nambikkaitv/live.stream/index.m3u8"
+  },
+  {
+    name: "Angel TV",
+    category: "Religion",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602588077_1596971809_angelcopy.jpg",
+    url: "https://wowzaprod270-i.akamaihd.net/hls/live/1007388/e7a2aac8/playlist.m3u8"
+  },
+  {
+    name: "Capital Dharisanam",
+    category: "Religion",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1597395405_capitaldari.jpg",
+    url: "http://89.187.162.89/Capital_Tharisanam/index.m3u8"
+  },
+
+
 ]
 
 
