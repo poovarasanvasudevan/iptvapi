@@ -519,6 +519,12 @@ module.exports = [
     logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1597395405_capitaldari.jpg",
     url: "http://89.187.162.89/Capital_Tharisanam/index.m3u8"
   },
+  {
+    name: "Thiraikadal TV",
+    category: "Local",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/thiraikadal.jpg",
+    url: "http://stream.blackmoon.in:8000/thiraikadaltv/ThiraikadalTV/bms.m3u8"
+  },
 
 
 ]
