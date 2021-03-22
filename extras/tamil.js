@@ -519,6 +519,32 @@ module.exports = [
     logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1597395405_capitaldari.jpg",
     url: "http://89.187.162.89/Capital_Tharisanam/index.m3u8"
   },
+  {
+    name : "Neem TV",
+    category: 'Local',
+    url : "http://bmlive.net:8000/NEEMTv/neemlivetv/bms.m3u8",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/65.png"
+  },
+  {
+    name : "VAC TV",
+    category: 'Religion',
+    url : "http://bmlive.net:8000/kumari/kumari/bms.m3u8",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/71.png"
+  },
+  {
+    name : "N TV",
+    category: 'Local',
+    url : "http://7starcloud.com:1935/ntv/live/playlist.m3u8",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/79.png"
+  },
+  {
+    name : "Isai Saaral",
+    category: 'Local',
+    url : "http://bmlive.net:8000/srmusix/srmusix/bms.m3u8",
+    logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/85.png"
+  }
+
+
   // {
   //   name: "Thiraikadal TV",
   //   category: "Local",
