@@ -497,25 +497,25 @@ module.exports = [
   },
   {
     name: "Swasthik TV",
-    category: "Religion",
+    category: "Religious",
     logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1609588616_swasthiktv.png",
     url: "http://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8"
   },
   {
     name: "Nambikkai TV",
-    category: "Religion",
+    category: "Religious",
     logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602588047_1596971871_nambikkaicopy.jpg",
     url: "http://live.wmncdn.net/nambikkaitv/live.stream/index.m3u8"
   },
   {
     name: "Angel TV",
-    category: "Religion",
+    category: "Religious",
     logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602588077_1596971809_angelcopy.jpg",
     url: "https://wowzaprod270-i.akamaihd.net/hls/live/1007388/e7a2aac8/playlist.m3u8"
   },
   {
     name: "Capital Dharisanam",
-    category: "Religion",
+    category: "Religious",
     logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1597395405_capitaldari.jpg",
     url: "http://89.187.162.89/Capital_Tharisanam/index.m3u8"
   },
@@ -527,7 +527,7 @@ module.exports = [
   },
   {
     name : "VAC TV",
-    category: 'Religion',
+    category: 'Religious',
     url : "http://bmlive.net:8000/kumari/kumari/bms.m3u8",
     logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/71.png"
   },
@@ -560,7 +560,7 @@ module.exports = [
   //
   // {
   //   name: "ACV Tv",
-  //   category: "Religion",
+  //   category: "Religious",
   //   logo: "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/49.png",
   //   url: "http://bmlive.net:8000/acv/acv/bms.m3u8"
   // },

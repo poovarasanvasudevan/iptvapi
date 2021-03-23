@@ -3,6 +3,7 @@ const fs = require('fs');
 const path = require('path');
 const request = require('request');
 const tamil = require('./extras/tamil')
+const tamil2 = require('./extras/tamil2')
 
 const URL = "https://iptv-org.github.io/iptv/channels.json"
 
@@ -49,6 +50,7 @@ function createData(json) {
   const globalCategory = {}
   const globalCountry = {}
   const globalLanguage = {}
+
   json.forEach((item) => {
     if (item.category !== 'XXX') {
       if (item.category === null) {
@@ -168,6 +170,28 @@ function createData(json) {
       }
 
       fs.writeFileSync(path.join(__dirname, 'api', `tamilapp.json`), JSON.stringify(config));
+
+      var mc = kj.concat(tamil2)
+      var cs = {
+        showLogo: true,
+        channels: mc
+      }
+      fs.writeFileSync(path.join(__dirname, 'api', `tamilapp2.json`), JSON.stringify(cs));
+
+      var temp3 = {};
+      mc.map(x => {
+        if(temp3[x.category]) {
+          temp3[x.category].push(x)
+        } else {
+          temp3[x.category] = []
+          temp3[x.category].push(x)
+        }
+      })
+
+      Object.keys(temp3).map(key => {
+        fs.writeFileSync(path.join(__dirname, 'api', 'tamilapp',`${key}.json`), JSON.stringify(temp3[key]));
+      })
+
     }
   })
 
