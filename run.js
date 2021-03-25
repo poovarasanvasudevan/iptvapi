@@ -142,57 +142,57 @@ function createData(json) {
     })
     fs.writeFileSync(path.join(__dirname, 'api', 'language', `${key.split("!")[0]}.json`), JSON.stringify(globalLanguage[key]));
 
-    if (key.split("!")[0] === 'tam') {
-      var mjson = globalLanguage[key].map(mm => ({
-        name: mm['name'],
-        url: mm['url'],
-        logo: mm['logo'],
-        category: mm['category']
-      }))
-      var kj = tamil.concat(mjson);
-
-      kj.sort((a, b) => {
-        let fa = a.name.toLowerCase(),
-          fb = b.name.toLowerCase();
-
-        if (fa < fb) {
-          return -1;
-        }
-        if (fa > fb) {
-          return 1;
-        }
-        return 0;
-      });
-
-      const config = {
-        showLogo: true,
-        channels: kj
-      }
-
-      fs.writeFileSync(path.join(__dirname, 'api', `tamilapp.json`), JSON.stringify(config));
-
-      var mc = kj.concat(tamil2)
-      var cs = {
-        showLogo: true,
-        channels: mc
-      }
-      fs.writeFileSync(path.join(__dirname, 'api', `tamilapp2.json`), JSON.stringify(cs));
-
-      var temp3 = {};
-      mc.map(x => {
-        if(temp3[x.category]) {
-          temp3[x.category].push(x)
-        } else {
-          temp3[x.category] = []
-          temp3[x.category].push(x)
-        }
-      })
-
-      Object.keys(temp3).map(key => {
-        fs.writeFileSync(path.join(__dirname, 'api', 'tamilapp',`${key}.json`), JSON.stringify(temp3[key]));
-      })
-
-    }
+    // if (key.split("!")[0] === 'tam') {
+    //   var mjson = globalLanguage[key].map(mm => ({
+    //     name: mm['name'],
+    //     url: mm['url'],
+    //     logo: mm['logo'],
+    //     category: mm['category']
+    //   }))
+    //   var kj = tamil.concat(mjson);
+    //
+    //   kj.sort((a, b) => {
+    //     let fa = a.name.toLowerCase(),
+    //       fb = b.name.toLowerCase();
+    //
+    //     if (fa < fb) {
+    //       return -1;
+    //     }
+    //     if (fa > fb) {
+    //       return 1;
+    //     }
+    //     return 0;
+    //   });
+    //
+    //   const config = {
+    //     showLogo: true,
+    //     channels: kj
+    //   }
+    //
+    //   fs.writeFileSync(path.join(__dirname, 'api', `tamilapp.json`), JSON.stringify(config));
+    //
+    //   var mc = kj.concat(tamil2)
+    //   var cs = {
+    //     showLogo: true,
+    //     channels: mc
+    //   }
+    //   fs.writeFileSync(path.join(__dirname, 'api', `tamilapp2.json`), JSON.stringify(cs));
+    //
+    //   var temp3 = {};
+    //   mc.map(x => {
+    //     if(temp3[x.category]) {
+    //       temp3[x.category].push(x)
+    //     } else {
+    //       temp3[x.category] = []
+    //       temp3[x.category].push(x)
+    //     }
+    //   })
+    //
+    //   Object.keys(temp3).map(key => {
+    //     fs.writeFileSync(path.join(__dirname, 'api', 'tamilapp',`${key}.json`), JSON.stringify(temp3[key]));
+    //   })
+    //
+    // }
   })
 
 
