@@ -472,5 +472,23 @@
     "category": "Local",
     "url": "https://live-ak.vimeocdn.com/exp=1616590174~acl=%2Fbec71450-fd4d-4019-a55b-cd9782f3b697%2F%2A~hmac=5d98b2e4ac3e002df81c25c60527836d46e5602c53fb7b3d2eb5a44aec155b31/bec71450-fd4d-4019-a55b-cd9782f3b697/hls.m3u8?min_seconds=30",
     "logo": "https://www.vaigaitv.com/images/vaigai-logo-01.png"
+  },
+  {
+    "name": "DeepamTV",
+    "category": "Local",
+    "url": "https://cdn.rjdigilink.in/deepamtv/livetv/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/deepam.png"
+  },
+  {
+    "name": "JJ MAX",
+    "category": "Local",
+    "url": "https://cdn.rjdigilink.in/deepamtv/livetv/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/jeyson.jpg"
+  },
+  {
+    "name": "JEYSON TV",
+    "category": "Local",
+    "url": "https://cdn.rjdigilink.in/jeysontv/livetv/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/deepam.png"
   }
 ]

@@ -852,6 +852,31 @@
       "category": "Local",
       "url": "rtmp://bmlive.net:1935/asokatv/asokatvv",
       "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/102.png"
+    },
+    {
+      "name": "Mercy TV",
+      "category": "Religious",
+      "url": "https://cdn.rjdigilink.in/mercytv/livetv/playlist.m3u8",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/mercy.jpg"
+    },
+    {
+      "name": "DeepamTV",
+      "category": "Local",
+      "url": "https://cdn.rjdigilink.in/deepamtv/livetv/playlist.m3u8",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/deepam.png"
+    },
+    {
+      "name": "JJ MAX",
+      "category": "Local",
+      "url": "https://cdn.rjdigilink.in/deepamtv/livetv/playlist.m3u8",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/jeyson.jpg"
+    },
+    {
+      "name": "JEYSON TV",
+      "category": "Local",
+      "url": "https://cdn.rjdigilink.in/jeysontv/livetv/playlist.m3u8",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/deepam.png"
     }
+
   ]
 }
