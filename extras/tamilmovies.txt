@@ -22,7 +22,7 @@ https://image.tmdb.org/t/p/w185/4IS2gdRLlaWBrFuyly4TXgGNTHV.jpg
 Horror movies, known for scary
 2021
 ------
-Chaka
+Chakra
 http://files.inditechman.com/video/Chakra.mp4
 https://image.tmdb.org/t/p/w185/ooqrLhOVfyF2Zqfnirw95BUTzjz.jpg
 The film plot is made revolving around the robbery by a gang of hackers and cyber criminals on the Independence Day of India.
@@ -69,3 +69,9 @@ http://files.inditechman.com/video/mib3.mp4
 https://image.tmdb.org/t/p/w185/90DdoEStzeObs96fsYf4GG544iN.jpg
 After breaking out of LunarMax, a moon-based maximum security prison, Boris the Animal (Jemaine Clement) decides to go back in time and eliminate the person who arrested him - Agent K (Josh Brolin)
 2012
+------
+Lucy
+http://files.inditechman.com/video/lucy.mp4
+https://1.bp.blogspot.com/-GmKuZGqF3Os/XhdUQTTLo4I/AAAAAAAABTM/qAKeWUq5SZonhP6bRkXq7viHoTeUhpD0QCNcBGAsYHQ/s1600/107946.jpg
+A woman, accidentally caught in a dark deal, turns the tables on her captors and transforms into a merciless warrior evolved beyond human logic.
+2014
