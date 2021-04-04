@@ -51,6 +51,7 @@ function createData(json) {
   const globalCountry = {}
   const globalLanguage = {}
 
+  const xxx = []
   json.forEach((item) => {
     if (item.category !== 'XXX') {
       if (item.category === null) {
@@ -107,9 +108,11 @@ function createData(json) {
           }
         })
       }
+    } else {
+      xxx.push(item)
     }
   })
-
+  fs.writeFileSync(path.join(__dirname, 'api', 'category', `xxxxx.json`), JSON.stringify(xxx));
 
   Object.keys(globalCategory).map(key => {
     category.push({name: key, code: key, count: globalCategory[key].length})
@@ -196,12 +199,50 @@ function createData(json) {
   })
 
 
+  country.sort((a, b) => {
+    let fa = a.name.toLowerCase(),
+      fb = b.name.toLowerCase();
+
+    if (fa < fb) {
+      return -1;
+    }
+    if (fa > fb) {
+      return 1;
+    }
+    return 0;
+  });
+  category.sort((a, b) => {
+    let fa = a.name.toLowerCase(),
+      fb = b.name.toLowerCase();
+
+    if (fa < fb) {
+      return -1;
+    }
+    if (fa > fb) {
+      return 1;
+    }
+    return 0;
+  });
+  language.sort((a, b) => {
+    let fa = a.name.toLowerCase(),
+      fb = b.name.toLowerCase();
+
+    if (fa < fb) {
+      return -1;
+    }
+    if (fa > fb) {
+      return 1;
+    }
+    return 0;
+  });
+
   fs.writeFileSync(path.join(__dirname, 'api', 'category.json'), JSON.stringify(category));
   fs.writeFileSync(path.join(__dirname, 'api', 'country.json'), JSON.stringify(country));
   fs.writeFileSync(path.join(__dirname, 'api', 'language.json'), JSON.stringify(language));
   Object.keys(globalCountry).map(key => {
 
-    fs.copyFile(path.join(__dirname ,'flag',`${key.split("!")[0]}_64.png`) , path.join(__dirname ,'api','country','flags',`${key.split("!")[0]}.png`),() => {})
+    fs.copyFile(path.join(__dirname, 'flag', `${key.split("!")[0]}_64.png`), path.join(__dirname, 'api', 'country', 'flags', `${key.split("!")[0]}.png`), () => {
+    })
   });
 
   console.log("end all")
