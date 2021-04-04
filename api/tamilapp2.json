@@ -876,7 +876,24 @@
       "category": "Local",
       "url": "https://cdn.rjdigilink.in/jeysontv/livetv/playlist.m3u8",
       "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/deepam.png"
+    },
+    {
+      "name": "K TV",
+      "category": "Movies",
+      "url": "http://uk1.zecast.com:1935/star-live/ktv/index.m3u8",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/5/57/K_TV.jpg/revision/latest?cb=20181104100739"
+    },
+    {
+      "name": "Raj TV",
+      "category": "Local",
+      "url": "http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(02)/index.m3u8",
+      "logo": "https://www.logolynx.com/images/logolynx/s_07/07a630cdfc84f486eeefd860b94fdcaa.jpeg"
+    },
+    {
+      "name": "Colors Tamil",
+      "category": "Local",
+      "url": "http://uk1.zecast.com:1935/star-live/colours/index.m3u8",
+      "logo": "https://img.favpng.com/7/21/6/viacom-18-logo-color-television-colors-png-favpng-7KQH4kbTqUNq5xnjqLEmPYpKW.jpg"
     }
-
   ]
 }
