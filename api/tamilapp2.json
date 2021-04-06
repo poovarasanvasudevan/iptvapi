@@ -2,6 +2,80 @@
   "showLogo": true,
   "channels": [
     {
+      "name": "Ultra MAX",
+      "category": "Local",
+      "url": "https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8",
+      "logo": "https://static.ultramaxnet.com/images/utv_720p_d2.png"
+    },
+    {
+      "name": "Amma",
+      "category": "Local",
+      "url": "https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ammatvvdr_low/index.m3u8",
+      "logo": "https://static.ultramaxnet.com/images/ammatvvdr_logo.jpeg"
+    },
+    {
+      "name": "Jeevan TV",
+      "category": "Local",
+      "url": "https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ammatvvdr_low/index.m3u8",
+      "logo": "http://site1.ultramaxnet.com/client/ultramax/images/jeevantv.jpg"
+    },
+    {
+      "name": "Kavin TV",
+      "category": "Local",
+      "url": "https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kavintv_low/index.m3u8",
+      "logo": "https://static.ultramaxnet.com/images/kavin_tv_logo.jpeg"
+    },
+    {
+      "name": "Jayam TV TVM",
+      "category": "Local",
+      "url": "https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/jayamtvtvm_low/index.m3u8",
+      "logo": "http://site1.ultramaxnet.com/client/ultramax/images/jayamtv.jpg"
+    },
+    {
+      "name": "Nanban TV",
+      "category": "Local",
+      "url": "https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/nanbantv_low/index.m3u8",
+      "logo": "https://static.ultramaxnet.com/images/nanban_tv_logo.png?v=1"
+    },
+    {
+      "name": "Sigaram TV",
+      "category": "Local",
+      "url": "https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/sigaramtv_low/index.m3u8",
+      "logo": "https://static.ultramaxnet.com/images/sigaram_tv_logo.png?v=1"
+    },
+    {
+      "name": "Sri Kannimar TV",
+      "categoty": "Local",
+      "url": "https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/srikannimartv_low/index.m3u8",
+      "logo": "http://site1.ultramaxnet.com/client/ultramax/images/kannimartv.jpg"
+    },
+    {
+      "name": "MK HD",
+      "category": "Local",
+      "url": "https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/mktv_low/index.m3u8",
+      "logo": "https://static.ultramaxnet.com/images/mk_tv_logo.jpeg"
+    },
+    {
+      "name": "Nila TV",
+      "category": "Local",
+      "url": "https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/nilatv321_low/index.m3u8",
+      "logo": "http://site1.ultramaxnet.com/client/ultramax/images/nilaatv.png"
+    },
+    {
+      "name": "Maya TV",
+      "category": "Local",
+      "url": "https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/mayatv_low/index.m3u8",
+      "logo": "https://static.ultramaxnet.com/images/maya_tv_logo.png"
+    },
+    {
+      "name": "Alpha TV",
+      "category": "Religious",
+      "url": "https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/alphatv_low/index.m3u8",
+      "logo": "http://site1.ultramaxnet.com/client/ultramax/images/alphatv.jpg"
+    },
+
+
+    {
       "name": "K TV",
       "category": "Movies",
       "url": "http://uk1.zecast.com:1935/star-live/ktv/index.m3u8",
