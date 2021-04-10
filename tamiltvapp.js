@@ -2,10 +2,10 @@ const json = require('./api/tamilapp2.json')
 const path = require('path')
 const fs = require('fs')
 
-z
 const tvC = []
 const tempC = {}
 json.channels.map(x => {
+  x.logo = "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/placeholder.png"
   if(tempC[x.category]) {
     tempC[x.category].push(x)
   } else {
