@@ -2,6 +2,12 @@
   "showLogo": true,
   "channels": [
     {
+      "name": "Dheeran TV",
+      "category": "Local",
+      "url": "https://stream1.playbox.co.in:1936/dheeran/dheeran/playlist.m3u8",
+      "logo": "https://live-tv-channels.org/pt-data/uploads/logo/in-dheeran-tv-9411-300x225.jpg"
+    },
+    {
       "name": "Ultra MAX",
       "category": "Local",
       "url": "https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8",
@@ -847,7 +853,5 @@
       "url": "https://cdn.rjdigilink.in/jeysontv/livetv/playlist.m3u8",
       "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/deepam.png"
     }
-
-
   ]
 }
