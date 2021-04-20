@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Tamil",
+    "file": "tamil.json"
+  },
+  {
+    "title": "Telegu",
+    "file": "telegu.json"
+  },
+  {
+    "title": "Urdu",
+    "file": "urdu.json"
+  },
+  {
+    "title": "Punjabi",
+    "file": "punjabi.json"
+  },
+  {
+    "title": "Oriya",
+    "file": "punoriyajabi.json"
+  },
+  {
+    "title": "Marathi",
+    "file": "marathi.json"
+  },
+  {
+    "title": "Malayalam",
+    "file": "malayalam.json"
+  },
+  {
+    "title": "Kashmiri",
+    "file": "kashmiri.json"
+  },
+  {
+    "title": "Kannada",
+    "file": "kannada.json"
+  },
+  {
+    "title": "Hindi",
+    "file": "hindi.json"
+  },
+  {
+    "title": "Hariyani",
+    "file": "hariyani.json"
+  },
+  {
+    "title": "Gujarathi",
+    "file": "gujarathi.json"
+  },
+  {
+    "title": "English",
+    "file": "english.json"
+  },
+  {
+    "title": "Bhojpuri",
+    "file": "bhojpuri.json"
+  },
+  {
+    "title": "Bengali",
+    "file": "belgali.json"
+  },
+  {
+    "title": "Assamese",
+    "file": "assamese.json"
+  }
+]
