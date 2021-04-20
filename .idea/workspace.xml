@@ -54,17 +54,17 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSON" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.19.0" />
-    <property name="javascript.nodejs.core.library.typings.version" value="10.17.56" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="javascript.nodejs.core.library.typings.version" value="10.17.58" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/extras/images" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="show.migrate.to.gradle.popup" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/extras/images" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/extras" />
-      <recent name="$PROJECT_DIR$/extras/images" />
       <recent name="$PROJECT_DIR$/ips" />
     </key>
   </component>
@@ -189,97 +189,19 @@
       <workItem from="1617780837194" duration="8000" />
       <workItem from="1617780899066" duration="12000" />
       <workItem from="1617872574523" duration="1278000" />
-    </task>
-    <task id="LOCAL-00050" summary="new channels">
-      <created>1615882202571</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1615882202572</updated>
-    </task>
-    <task id="LOCAL-00051" summary="new channels">
-      <created>1615909302808</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1615909302808</updated>
-    </task>
-    <task id="LOCAL-00052" summary="new channels">
-      <created>1615909323042</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1615909323042</updated>
-    </task>
-    <task id="LOCAL-00053" summary="new update">
-      <created>1616120782817</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1616120782818</updated>
-    </task>
-    <task id="LOCAL-00054" summary="added images">
-      <created>1616234407098</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1616234407098</updated>
-    </task>
-    <task id="LOCAL-00055" summary="added images&#10;and new channels">
-      <created>1616234665328</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1616234665328</updated>
-    </task>
-    <task id="LOCAL-00056" summary="added images&#10;and new channels">
-      <created>1616234675137</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1616234675138</updated>
-    </task>
-    <task id="LOCAL-00057" summary="channel https">
-      <created>1616237486903</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1616237486904</updated>
-    </task>
-    <task id="LOCAL-00058" summary="imgadded">
-      <created>1616248856504</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1616248856505</updated>
-    </task>
-    <task id="LOCAL-00059" summary="TV added">
-      <created>1616249158405</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1616249158405</updated>
-    </task>
-    <task id="LOCAL-00060" summary="new channels update">
-      <created>1616292199869</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1616292199869</updated>
-    </task>
-    <task id="LOCAL-00061" summary="channels added">
-      <created>1616323861170</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1616323861171</updated>
-    </task>
-    <task id="LOCAL-00062" summary="channels added">
-      <created>1616328878195</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1616328878195</updated>
+      <workItem from="1617964059285" duration="2252000" />
+      <workItem from="1617978398845" duration="1216000" />
+      <workItem from="1618023408250" duration="2377000" />
+      <workItem from="1618105069618" duration="650000" />
+      <workItem from="1618118795176" duration="17000" />
+      <workItem from="1618192405050" duration="769000" />
+      <workItem from="1618206613880" duration="13000" />
+      <workItem from="1618284624796" duration="60000" />
+      <workItem from="1618297513985" duration="13000" />
+      <workItem from="1618506769746" duration="54000" />
+      <workItem from="1618535666098" duration="240000" />
+      <workItem from="1618724864760" duration="1462000" />
+      <workItem from="1618754184072" duration="10000" />
     </task>
     <task id="LOCAL-00063" summary="channels added">
       <created>1616329005095</created>
@@ -533,7 +455,98 @@
       <option name="project" value="LOCAL" />
       <updated>1617872605076</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="channels update">
+      <created>1617964104581</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1617964104582</updated>
+    </task>
+    <task id="LOCAL-00100" summary="channels update">
+      <created>1617966988772</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1617966988772</updated>
+    </task>
+    <task id="LOCAL-00101" summary="placeholder">
+      <created>1618023500429</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1618023500430</updated>
+    </task>
+    <task id="LOCAL-00102" summary="placeholder">
+      <created>1618023696277</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1618023696277</updated>
+    </task>
+    <task id="LOCAL-00103" summary="added channels">
+      <created>1618032446563</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1618032446563</updated>
+    </task>
+    <task id="LOCAL-00104" summary="channel update">
+      <created>1618105113103</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1618105113104</updated>
+    </task>
+    <task id="LOCAL-00105" summary="channel update">
+      <created>1618192428099</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1618192428099</updated>
+    </task>
+    <task id="LOCAL-00106" summary="added kmovie">
+      <created>1618192535968</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1618192535968</updated>
+    </task>
+    <task id="LOCAL-00107" summary="channel update">
+      <created>1618284665712</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1618284665713</updated>
+    </task>
+    <task id="LOCAL-00108" summary="channels updatge">
+      <created>1618506807903</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1618506807904</updated>
+    </task>
+    <task id="LOCAL-00109" summary="sss">
+      <created>1618535738463</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1618535738464</updated>
+    </task>
+    <task id="LOCAL-00110" summary="channels update">
+      <created>1618724891943</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1618724891944</updated>
+    </task>
+    <task id="LOCAL-00111" summary="added tv">
+      <created>1618749451952</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1618749451952</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -554,13 +567,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="loader" />
-    <MESSAGE value="channel Fixes" />
-    <MESSAGE value="pdate" />
-    <MESSAGE value="channel commit" />
-    <MESSAGE value="new Updates" />
-    <MESSAGE value="added images" />
-    <MESSAGE value="added images&#10;and new channels" />
     <MESSAGE value="channel https" />
     <MESSAGE value="imgadded" />
     <MESSAGE value="TV added" />
@@ -577,8 +583,15 @@
     <MESSAGE value="channes" />
     <MESSAGE value="movie added" />
     <MESSAGE value="tvapp" />
-    <MESSAGE value="channel update" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="placeholder" />
+    <MESSAGE value="added channels" />
+    <MESSAGE value="added kmovie" />
+    <MESSAGE value="channel update" />
+    <MESSAGE value="channels updatge" />
+    <MESSAGE value="sss" />
+    <MESSAGE value="channels update" />
+    <MESSAGE value="added tv" />
+    <option name="LAST_COMMIT_MESSAGE" value="added tv" />
   </component>
 </project>
