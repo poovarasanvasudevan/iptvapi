@@ -658,5 +658,20 @@
     "logo": "https://qqcdnpictest.mxplay.com/pic/8045.AnaadiTV.in/en/1x1/208x208/test_pic1618114596164.jpg",
     "title": "Anaadi TV",
     "stream": "https://m-c050-j2apps.s.llnwi.net/hls/8045.AnaadiTV.in_480p/index.m3u8"
+  },
+  {
+    "url": "https://live-tv-channels.org/livetv/in-maharishi-channel-6.html",
+    "logo": "https://live-tv-channels.org/pt-data/uploads/logo/in-maharishi-channel-6-1176-300x225.jpg",
+    "title": "Maharishi Channel",
+    "stream": "https://mh01-ch6.delivery.fuugo.com/smil:mh01-ch6.smil/playlist.m3u8"
+  },
+  {
+    "stream": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8",
+    "logo": "https://live-tv-channels.org/pt-data/uploads/logo/in-ndtv-india-7381-300x225.jpg",
+    "title": "NDTV India",
+    "url": "https://live-tv-channels.org/livetv/in-ndtv-india.html"
+  },
+  {
+    "stream": "",
   }
 ]

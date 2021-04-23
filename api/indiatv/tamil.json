@@ -1,1 +1,74 @@
-[{"url": "https://www.mxplayer.in/live-tv/nambikkai-tv-live-channel-4154nambikkaitvin?language=ta", "logo": "https://qqcdnpictest.mxplay.com/pic/4154.NambikkaiTV.in/en/1x1/208x208/test_pic1543828333380.jpg", "title": "Nambikkai TV", "stream": "https://m-c08-j2apps.s.llnwi.net/hls/4154.NambikkaiTV.in_480p/index.m3u8"}, {"url": "https://www.mxplayer.in/live-tv/dd-podhigai-live-channel-0250ddpodhigaiin?language=ta", "logo": "https://qqcdnpictest.mxplay.com/pic/0250.DDPodhigai.in/en/1x1/208x208/test_pic1535463516112.jpg", "title": "DD Podhigai", "stream": "https://m-c15-j2apps.s.llnwi.net/hls/0250.DDPodhigai.in_480p/index.m3u8"}, {"url": "https://www.mxplayer.in/live-tv/captain-tv-live-channel-0680captaintvin?language=ta", "logo": "https://qqcdnpictest.mxplay.com/pic/0680.CaptainTV.in/en/1x1/208x208/test_pic1535463113447.jpg", "title": "Captain TV", "stream": "https://m-c29-j2apps.s.llnwi.net/hls/0680.CaptainTV.in_480p/index.m3u8"}, {"url": "https://www.mxplayer.in/live-tv/tunes-6-live-channel-3731tunes6in?language=ta", "logo": "https://qqcdnpictest.mxplay.com/pic/3731.Tunes6.in/en/1x1/208x208/test_pic1552387113014.jpg", "title": "Tunes 6", "stream": "https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in_480p/index.m3u8"}, {"url": "https://www.mxplayer.in/live-tv/makkal-tv-live-channel-0211makkaltvin?language=ta", "logo": "https://qqcdnpictest.mxplay.com/pic/0211.MakkalTV.in/en/1x1/208x208/test_pic1535464283279.jpg", "title": "Makkal TV", "stream": "https://m-c18-j2apps.s.llnwi.net/hls/0211.MakkalTV.in_480p/index.m3u8"}, {"url": "https://www.mxplayer.in/live-tv/puthiya-thalaimurai-live-channel-0727puthiyathalaimuraiin?language=ta", "logo": "https://qqcdnpictest.mxplay.com/pic/0727.PuthiyaThalaimurai.in/en/1x1/208x208/test_pic1535537717842.jpg", "title": "Puthiya Thalaimurai", "stream": "https://m-c18-j2apps.s.llnwi.net/hls/0727.PuthiyaThalaimurai.in_480p/index.m3u8"}, {"url": "https://www.mxplayer.in/live-tv/svbc-2-live-channel-5331svbc2in?language=ta", "logo": "https://qqcdnpictest.mxplay.com/pic/5331.SVBC2.in/en/1x1/208x208/test_pic1558352400877.jpg", "title": "SVBC 2", "stream": "https://m-c049-j2apps.s.llnwi.net/hls/5331.SVBC2.in_480p/index.m3u8"}, {"url": "https://www.mxplayer.in/live-tv/malai-murasu-tv-live-channel-7074malaimurasutvin?language=ta", "logo": "https://qqcdnpictest.mxplay.com/pic/7074.MalaiMurasuTV.in/en/1x1/208x208/test_pic1594370421566.jpg", "title": "Malai Murasu TV", "stream": "https://m-c06-j2apps.s.llnwi.net/hls/7074.MalaiMurasuTV.in_480p/index.m3u8"}, {"url": "https://www.mxplayer.in/live-tv/vendhar-tv-live-channel-7077vendartvin?language=ta", "logo": "https://qqcdnpictest.mxplay.com/pic/7077.VendarTV.in/en/1x1/208x208/test_pic1596109828563.jpg", "title": "Vendhar TV", "stream": "https://m-c06-j2apps.s.llnwi.net/hls/7077.VendarTV.in_480p/index.m3u8"}]
+[
+  {
+    "url": "https://live-tv-channels.org/livetv/in-sri-sankara.html",
+    "stream": "https://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/playlist.m3u8",
+    "title": "Sri Sankara",
+    "logo": "https://live-tv-channels.org/pt-data/uploads/logo/in-sri-sankara-7135-300x225.jpg"
+  },
+  {
+    "url": "https://www.mxplayer.in/live-tv/nambikkai-tv-live-channel-4154nambikkaitvin?language=ta",
+    "logo": "https://qqcdnpictest.mxplay.com/pic/4154.NambikkaiTV.in/en/1x1/208x208/test_pic1543828333380.jpg",
+    "title": "Nambikkai TV",
+    "stream": "https://m-c08-j2apps.s.llnwi.net/hls/4154.NambikkaiTV.in_480p/index.m3u8"
+  },
+  {
+    "url": "https://www.mxplayer.in/live-tv/dd-podhigai-live-channel-0250ddpodhigaiin?language=ta",
+    "logo": "https://qqcdnpictest.mxplay.com/pic/0250.DDPodhigai.in/en/1x1/208x208/test_pic1535463516112.jpg",
+    "title": "DD Podhigai",
+    "stream": "https://m-c15-j2apps.s.llnwi.net/hls/0250.DDPodhigai.in_480p/index.m3u8"
+  },
+  {
+    "url": "https://www.mxplayer.in/live-tv/captain-tv-live-channel-0680captaintvin?language=ta",
+    "logo": "https://qqcdnpictest.mxplay.com/pic/0680.CaptainTV.in/en/1x1/208x208/test_pic1535463113447.jpg",
+    "title": "Captain TV",
+    "stream": "https://m-c29-j2apps.s.llnwi.net/hls/0680.CaptainTV.in_480p/index.m3u8"
+  },
+  {
+    "url": "https://www.mxplayer.in/live-tv/tunes-6-live-channel-3731tunes6in?language=ta",
+    "logo": "https://qqcdnpictest.mxplay.com/pic/3731.Tunes6.in/en/1x1/208x208/test_pic1552387113014.jpg",
+    "title": "Tunes 6",
+    "stream": "https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in_480p/index.m3u8"
+  },
+  {
+    "url": "https://www.mxplayer.in/live-tv/makkal-tv-live-channel-0211makkaltvin?language=ta",
+    "logo": "https://qqcdnpictest.mxplay.com/pic/0211.MakkalTV.in/en/1x1/208x208/test_pic1535464283279.jpg",
+    "title": "Makkal TV",
+    "stream": "https://m-c18-j2apps.s.llnwi.net/hls/0211.MakkalTV.in_480p/index.m3u8"
+  },
+  {
+    "url": "https://www.mxplayer.in/live-tv/puthiya-thalaimurai-live-channel-0727puthiyathalaimuraiin?language=ta",
+    "logo": "https://qqcdnpictest.mxplay.com/pic/0727.PuthiyaThalaimurai.in/en/1x1/208x208/test_pic1535537717842.jpg",
+    "title": "Puthiya Thalaimurai",
+    "stream": "https://m-c18-j2apps.s.llnwi.net/hls/0727.PuthiyaThalaimurai.in_480p/index.m3u8"
+  },
+  {
+    "url": "https://www.mxplayer.in/live-tv/svbc-2-live-channel-5331svbc2in?language=ta",
+    "logo": "https://qqcdnpictest.mxplay.com/pic/5331.SVBC2.in/en/1x1/208x208/test_pic1558352400877.jpg",
+    "title": "SVBC 2",
+    "stream": "https://m-c049-j2apps.s.llnwi.net/hls/5331.SVBC2.in_480p/index.m3u8"
+  },
+  {
+    "url": "https://www.mxplayer.in/live-tv/malai-murasu-tv-live-channel-7074malaimurasutvin?language=ta",
+    "logo": "https://qqcdnpictest.mxplay.com/pic/7074.MalaiMurasuTV.in/en/1x1/208x208/test_pic1594370421566.jpg",
+    "title": "Malai Murasu TV",
+    "stream": "https://m-c06-j2apps.s.llnwi.net/hls/7074.MalaiMurasuTV.in_480p/index.m3u8"
+  },
+  {
+    "url": "https://www.mxplayer.in/live-tv/vendhar-tv-live-channel-7077vendartvin?language=ta",
+    "logo": "https://qqcdnpictest.mxplay.com/pic/7077.VendarTV.in/en/1x1/208x208/test_pic1596109828563.jpg",
+    "title": "Vendhar TV",
+    "stream": "https://m-c06-j2apps.s.llnwi.net/hls/7077.VendarTV.in_480p/index.m3u8"
+  },
+  {
+    "stream": "https://stream.meenakshitv.com/LiveApp/streams/737506415855638572426221.m3u8",
+    "url": "https://live-tv-channels.org/livetv/meenakshi-tv-live-stream.html",
+    "logo": "https://live-tv-channels.org/pt-data/uploads/logo/in-meenakshi-tv-7952-300x225.jpg",
+    "title": "Meenakshi TV"
+  },
+  {
+    "stream": "https://stream1.playbox.co.in:1936/dheeran/dheeran/playlist.m3u8",
+    "title": "Dheeran TV",
+    "logo": "https://live-tv-channels.org/pt-data/uploads/logo/in-dheeran-tv-9411-300x225.jpg",
+    "url": "https://live-tv-channels.org/livetv/in-dheeran-tv.html"
+  }
+]

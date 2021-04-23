@@ -62,5 +62,13 @@
   {
     "title": "Assamese",
     "file": "assamese.json"
+  },
+  {
+    "title": "Islamic",
+    "file": "islamic.json"
+  },
+  {
+    "title": "Other",
+    "file": "other.json"
   }
 ]
