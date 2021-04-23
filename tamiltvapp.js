@@ -5,7 +5,7 @@ const fs = require('fs')
 const tvC = []
 const tempC = {}
 json.channels.map(x => {
-  x.logo = "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/placeholder.png"
+ // x.logo = "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/placeholder.png"
   if(tempC[x.category]) {
     tempC[x.category].push(x)
   } else {
