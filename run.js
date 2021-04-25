@@ -277,5 +277,80 @@ function createData(json) {
 
   fs.writeFileSync(path.join(__dirname, 'api', 'arabictv', 'index.json'), JSON.stringify(b));
   fs.writeFileSync(path.join(__dirname, 'api', 'arabictv', 'full.json'), JSON.stringify(arabiclanguage));
+
+
+  let russianData = fs.readFileSync(path.join(__dirname, 'api', 'country', 'ru.json'));
+  let russianLanguage = JSON.parse(russianData);
+
+  var russianCategory = {};
+  russianLanguage.forEach(d => {
+    if (d.category === null) {
+      if (russianCategory.hasOwnProperty("Other")) {
+        russianCategory['Other'].push(d)
+      } else {
+        russianCategory['Other'] = []
+        russianCategory['Other'].push(d)
+      }
+    } else {
+      if (russianCategory.hasOwnProperty(d.category)) {
+        russianCategory[d.category].push(d)
+      } else {
+        russianCategory[d.category] = []
+        russianCategory[d.category].push(d)
+      }
+    }
+  })
+
+
+  var bc = []
+  Object.keys(russianCategory).forEach(k => {
+    fs.writeFileSync(path.join(__dirname, 'api', 'russiantv', `${k}.json`), JSON.stringify(remodelDuplicate(russianCategory[k])));
+    bc.push({"file": `${k}.json`, 'title': k})
+  })
+
+  fs.writeFileSync(path.join(__dirname, 'api', 'russiantv', 'index.json'), JSON.stringify(bc));
+  fs.writeFileSync(path.join(__dirname, 'api', 'russiantv', 'full.json'), JSON.stringify(remodelDuplicate(russianLanguage)));
+
+
   console.log("end all")
+}
+
+
+function remodelDuplicate(data) {
+  var title = []
+  data.forEach(d => {
+    if (title.hasOwnProperty(d.name)) {
+      title[d.name].push(d)
+    } else {
+      title[d.name] = []
+      title[d.name].push(d)
+    }
+  })
+
+  var fulldata = []
+  Object.keys(title).forEach(x => {
+
+    var category = []
+    var stream = [];
+    var logo = ""
+
+    title[x].forEach(j => {
+      if (j.category !=null && !category.includes(j.category)) {
+        category.push(j.category)
+      }
+      stream.push(j.url)
+
+      if (j.logo != null && j.logo !== "") {
+        logo = j.logo
+      }
+    })
+
+    fulldata.push({
+      title: x,
+      category: category,
+      stream: stream,
+      logo: logo
+    })
+  })
+  return fulldata;
 }
