@@ -1,10 +1,5 @@
 [
-  {
-    "name": "SR MUSIX",
-    "category": "Music",
-    "url": "http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8",
-    "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG53656.png"
-  },
+
   {
     "name": "7S Music",
     "url": "http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8",
@@ -34,5 +29,11 @@
     "url": "https://ibcmusic-live.ibctamil.com/transcode/music.m3u8",
     "logo": "https://assets.zoftcdn.com/branding/ibctv/ibc-music.png",
     "category": "Music"
+  },
+  {
+    "name": "SR MUSIX",
+    "category": "Music",
+    "url": "http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8",
+    "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG53656.png"
   }
 ]
