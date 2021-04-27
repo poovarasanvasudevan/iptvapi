@@ -1,1 +1,92 @@
-[{"name":"1 Yes TV","category":"News","logo":"https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602588730_1597388646_oneyescopy.jpg","url":"http://livematrix.in:1935/1yestv/1yestv/playlist.m3u8"},{"name":"Aram TV","category":"News","logo":"https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602589068_1597388940_aramcopy.jpg","url":"http://51.79.158.179:1935/aramtv/live/playlist.m3u8"},{"name":"Capital News","category":"News","logo":"https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1609586495_capitalnews.png","url":"http://89.187.162.89/Capital_NEWS/index.m3u8"},{"name":"ET Now","category":"News","logo":"https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602587920_1598792614_ETNowcopy.jpg","url":"https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8"},{"name":"Malaimurasu","url":"https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8","logo":"https://i.imgur.com/uFiHtQX.png","category":"News"},{"url":"http://7starcloud.com:1935/madhimugamtv/madhimugamtv/playlist.m3u8","category":"News","logo":"http://jenohdtv.gq/wp-content/uploads/2019/11/Madhimugam-TV.png","name":"Mathimugam TV"},{"name":"Mirror Now","category":"News","logo":"https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602587859_1598793299_mirrorcopy.jpg","url":"http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8"},{"name":"NDTV","category":"News","logo":"https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1603524142_1598792353_NDTVcopy.jpg","url":"https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8"},{"name":"News 7 Tamil","category":"News","logo":"https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1596281548_news7.jpg","url":"http://versewsa.pc.cdn.bitgravity.com/versewsa/live/tamilnews7.smil/chunklist_b1000000.m3u8"},{"name":"News J","category":"News","logo":"https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1603524085_1597388865_newsjcopy.jpg","url":"http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:newsj_,b256,b512,b1024,b1824,.smil/chunklist.m3u8"},{"name":"Polimer News","category":"News","logo":"https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1596281361_poli.png","url":"http://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist.m3u8"},{"name":"Sathiyam TV","category":"News","logo":"https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602589120_1598779936_sathiyamlogo.png","url":"http://hdserver.7starcloud.com:1935/sathiyamtv/livestreaming/playlist.m3u8"},{"name":"Thanthi TV","url":"https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/playlist.m3u8","logo":"http://mhdtvworld.com/wp-content/uploads/2018/11/4123.png","category":"News"},{"name":"TV9","category":"News","logo":"https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602587877_1598793237_TV9copy.jpg","url":"http://103.199.161.254/Content/tv9telungu/Live/Channel(TV9Telungu)/index.m3u8"}]
+[
+  {
+    "name": "Lotus News",
+    "category": "News",
+    "url": "https://jk3lzaj4dw79-hls-live.5centscdn.com/stream/508c75c8507a2ae5223dfd2faeb98122.sdp/chunks.m3u8",
+    "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG74090.png"
+  },
+  {
+    "name": "1 Yes TV",
+    "category": "News",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602588730_1597388646_oneyescopy.jpg",
+    "url": "http://livematrix.in:1935/1yestv/1yestv/playlist.m3u8"
+  },
+  {
+    "name": "Aram TV",
+    "category": "News",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602589068_1597388940_aramcopy.jpg",
+    "url": "http://51.79.158.179:1935/aramtv/live/playlist.m3u8"
+  },
+  {
+    "name": "Capital News",
+    "category": "News",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1609586495_capitalnews.png",
+    "url": "http://89.187.162.89/Capital_NEWS/index.m3u8"
+  },
+  {
+    "name": "ET Now",
+    "category": "News",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602587920_1598792614_ETNowcopy.jpg",
+    "url": "https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8"
+  },
+  {
+    "name": "Malaimurasu",
+    "url": "https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8",
+    "logo": "https://i.imgur.com/uFiHtQX.png",
+    "category": "News"
+  },
+  {
+    "url": "http://7starcloud.com:1935/madhimugamtv/madhimugamtv/playlist.m3u8",
+    "category": "News",
+    "logo": "http://jenohdtv.gq/wp-content/uploads/2019/11/Madhimugam-TV.png",
+    "name": "Mathimugam TV"
+  },
+  {
+    "name": "Mirror Now",
+    "category": "News",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602587859_1598793299_mirrorcopy.jpg",
+    "url": "http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8"
+  },
+  {
+    "name": "NDTV",
+    "category": "News",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1603524142_1598792353_NDTVcopy.jpg",
+    "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8"
+  },
+  {
+    "name": "News 7 Tamil",
+    "category": "News",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1596281548_news7.jpg",
+    "url": "http://versewsa.pc.cdn.bitgravity.com/versewsa/live/tamilnews7.smil/chunklist_b1000000.m3u8"
+  },
+  {
+    "name": "News J",
+    "category": "News",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1603524085_1597388865_newsjcopy.jpg",
+    "url": "http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:newsj_,b256,b512,b1024,b1824,.smil/chunklist.m3u8"
+  },
+  {
+    "name": "Polimer News",
+    "category": "News",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1596281361_poli.png",
+    "url": "http://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist.m3u8"
+  },
+  {
+    "name": "Sathiyam TV",
+    "category": "News",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602589120_1598779936_sathiyamlogo.png",
+    "url": "http://hdserver.7starcloud.com:1935/sathiyamtv/livestreaming/playlist.m3u8"
+  },
+  {
+    "name": "Thanthi TV",
+    "url": "https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/playlist.m3u8",
+    "logo": "http://mhdtvworld.com/wp-content/uploads/2018/11/4123.png",
+    "category": "News"
+  },
+  {
+    "name": "TV9",
+    "category": "News",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602587877_1598793237_TV9copy.jpg",
+    "url": "http://103.199.161.254/Content/tv9telungu/Live/Channel(TV9Telungu)/index.m3u8"
+  }
+]

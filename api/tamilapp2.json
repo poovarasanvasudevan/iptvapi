@@ -2,6 +2,147 @@
   "showLogo": true,
   "channels": [
     {
+      "name": "Sharvesh 7Star TV",
+      "category": "Local",
+      "url": "https://account16.livebox.co.in/account2hls/live.m3u8",
+      "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG58756.png"
+    },
+    {
+      "name": "CTN TV",
+      "category": "Local",
+      "url": "http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/29.png"
+    },
+    {
+      "name": "Polimer Channel",
+      "category": "Local",
+      "url": "http://hdserver.7starcloud.com:1935/polimer/live/playlist.m3u8",
+      "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG5530.png"
+    },
+    {
+      "name": "Starten TV",
+      "category": "Local",
+      "url": "http://media.7starcloud.com:1935/starten/startentv/playlist.m3u8",
+      "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG63230.png"
+    },
+    {
+      "name": "Ashoka TV",
+      "category": "Local",
+      "url": "http://hdserver.7starcloud.com:1935/ashoka/channel/playlist.m3u8",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/102.png"
+    },
+    {
+      "name": "Kalvi TV",
+      "category": "Local",
+      "url": "http://hdserver.7starcloud.com:1935/live/kalvii/playlist.m3u8",
+      "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG88913.png"
+    },
+    {
+      "name": "OM Namah sivaya",
+      "category": "Religious",
+      "url": "http://51.79.158.179:1935/omtvjak/livetv/playlist.m3u8",
+      "logo": "http://7starcloud.in/tamilcloud/uploads/images/"
+    },
+    {
+      "name": "CTN(Connor)",
+      "category": "Local",
+      "url": "http://bmlive.net:8000/ctn/ctn/bms.m3u8",
+      "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG88913.png"
+    },
+    {
+      "name": "Sky Gain TV",
+      "category": "Local",
+      "url": "https://stream.skygaintv.com/LiveApp/streams/841444019223041560075808.m3u8",
+      "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG15218.png"
+    },
+    {
+      "name": "Prakalya TV",
+      "category": "Local",
+      "url": "http://7starcloud.com:1935/pragalya/pragalyatv/playlist.m3u8",
+      "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG11646.png"
+    },
+    {
+      "name": "KK Tamilan TV",
+      "category": "Local",
+      "url": "http://139.99.41.37:1935/kktv/live/playlist.m3u8",
+      "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG84285.png"
+    },
+    {
+      "name": "SR MUSIX",
+      "category": "Music",
+      "url": "http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8",
+      "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG53656.png"
+    },
+    {
+      "name": "SS TV",
+      "category": "Local",
+      "url": "http://7starcloud.com:1935/live/sstv/playlist.m3u8",
+      "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG26501.png"
+    },
+    {
+      "name": "Sri Krishna TV(T.kode)",
+      "category": "Local",
+      "url": "http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8",
+      "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG74398.png"
+    },
+    {
+      "name": "Arunai TV",
+      "category": "Local",
+      "url": "http://7starcloud.com:1935/live/arunaitv/playlist.m3u8",
+      "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG85725.png"
+    },
+
+    {
+      "name": "ARK TV",
+      "category": "Local",
+      "url": "http://mediastreamer.7starcloud.com:1935/arktv/arktv/playlist.m3u8",
+      "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG61473.png"
+    },
+    {
+      "name": "Velur TV",
+      "category": "Local",
+      "url": "http://velurtv.7starcloud.com:1935/velurtv/livestream/playlist.m3u8",
+      "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG19021.png"
+    },
+    {
+      "name": "Velur TV",
+      "category": "Local",
+      "url": "http://velurtv.7starcloud.com:1935/velurtv/livestream/playlist.m3u8",
+      "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG19021.png"
+    },
+    {
+      "name": "Bass TV",
+      "category": "Local",
+      "url": "http://hdserver.7starcloud.com:1935/basstv/live/playlist.m3u8",
+      "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG2227.png"
+    },
+    {
+      "name": "Surya TV",
+      "category": "Local",
+      "url": "http://media.7starcloud.com:1935/suryatv/mystream/playlist.m3u8",
+      "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG93380.png"
+    },
+    {
+      "name": "Imayam TV",
+      "category": "Local",
+      "url": "https://itvorigin.multitvsolution.com/idvo/imayamtv_540p/index.m3u8",
+      "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG54067.png"
+    },
+    {
+      "name": "Vaigai TV",
+      "category": "Local",
+      "url": "http://account9.livebox.co.in/vaigaitvhls/live.m3u8",
+      "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG3887.png"
+    },
+    {
+      "name": "Lotus News",
+      "category": "News",
+      "url": "https://jk3lzaj4dw79-hls-live.5centscdn.com/stream/508c75c8507a2ae5223dfd2faeb98122.sdp/chunks.m3u8",
+      "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG74090.png"
+    },
+
+
+    {
       "name": "Iniyan TV",
       "category": "Religious",
       "url": "https://webtvcpanel.com:3974/live/iniyantvlive.m3u8",
@@ -520,12 +661,6 @@
       "url": "http://media.7starcloud.com:1935/omtv/livestream/playlist.m3u8"
     },
     {
-      "name": "OM TV",
-      "category": "Local",
-      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602587339_1599302178_omtvcopy.jpg",
-      "url": "http://media.7starcloud.com:1935/omtv/livestream/playlist.m3u8"
-    },
-    {
       "name": "Pakalavan TV",
       "url": "https://player.yarlsriserver.com/pakalavantv/e26fd7c8b4fd8eafbb9f99a19a1c3701.sdp/playlist.m3u8",
       "logo": "https://i.imgur.com/3IzVcjg.png",
@@ -867,12 +1002,7 @@
       "url": "rtmp://bmlive.net:1935/digitaltv/digitaltv",
       "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/22.png"
     },
-    {
-      "name": "CTN TV",
-      "category": "Local",
-      "url": "rtmp://stream.blackmoon.in:1935/ctn/ctn",
-      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/29.png"
-    },
+
     {
       "name": "Tirupur TV",
       "category": "Local",
@@ -902,12 +1032,6 @@
       "category": "Local",
       "url": "rtmp://bmlive.net:1935/ammachannel/ammachannel",
       "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/46.png"
-    },
-    {
-      "name": "CTN Channel",
-      "category": "Local",
-      "url": "rtmp://bmlive.net:1935/ctnchannel/ctnchannel",
-      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/47.png"
     },
     {
       "name": "KKTDC HD",
@@ -951,12 +1075,7 @@
       "url": "rtmp://bmlive.net:1935/zaratv/zaratv",
       "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/87.png"
     },
-    {
-      "name": "Ashoka TV",
-      "category": "Local",
-      "url": "rtmp://bmlive.net:1935/asokatv/asokatvv",
-      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/102.png"
-    },
+
     {
       "name": "Mercy TV",
       "category": "Religious",

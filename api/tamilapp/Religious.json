@@ -1,5 +1,11 @@
 [
   {
+    "name": "OM Namah sivaya",
+    "category": "Religious",
+    "url": "http://51.79.158.179:1935/omtvjak/livetv/playlist.m3u8",
+    "logo": "http://7starcloud.in/tamilcloud/uploads/images/"
+  },
+  {
     "name": "Iniyan TV",
     "category": "Religious",
     "url": "https://webtvcpanel.com:3974/live/iniyantvlive.m3u8",
