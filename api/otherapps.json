@@ -28,5 +28,17 @@
     "url": "",
     "logo": "https://files.inditechman.com/files/PVVideoeditor.png",
     "description": "Video & Audio Editor"
+  },
+  {
+    "title": "Indian TV",
+    "url": "",
+    "logo": "https://files.inditechman.com/files/indiantv.png",
+    "description": "Popular Indian TV Channels"
+  },
+  {
+    "title": "Arabic TV",
+    "url": "",
+    "logo": "https://files.inditechman.com/files/arabictv.png",
+    "description": "Popular Arabic Channels"
   }
 ]
