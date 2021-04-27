@@ -40,5 +40,11 @@
     "url": "https://play.google.com/store/apps/details?id=com.poovarasan.arabictv",
     "logo": "https://files.inditechman.com/files/arabictv.png",
     "description": "Popular Arabic Channels"
+  },
+  {
+    "title": "Tamil TV(TV App)",
+    "url": "https://play.google.com/store/apps/details?id=com.poovarasan.tv.tamiltv",
+    "logo": "https://files.inditechman.com/files/tamiltv.png",
+    "description": "Tamil Local Channels(TV)"
   }
 ]
