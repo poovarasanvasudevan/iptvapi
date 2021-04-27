@@ -1,43 +1,43 @@
 [
   {
     "title": "TV Channels",
-    "url": "",
+    "url": "https://tvchannels.inditechman.com/mobileapp",
     "logo": "https://files.inditechman.com/files/tvchannels.png",
     "description": "World TV Channels"
   },
   {
     "title": "Tamil TV",
-    "url": "",
+    "url": "https://play.google.com/store/apps/details?id=com.poovarasan.tamiltv",
     "logo": "https://files.inditechman.com/files/tamiltv.png",
     "description": "Local Tamil Channels"
   },
   {
     "title": "Universe Status Saver",
-    "url": "",
+    "url": "https://play.google.com/store/apps/details?id=com.poovarasan.statussaver",
     "logo": "https://files.inditechman.com/files/statussaver.png",
     "description": "Status Saver"
   },
   {
     "title": "IsaiKuruvi",
-    "url": "",
+    "url": "https://play.google.com/store/apps/details?id=com.poovarasan.isaikuruvi",
     "logo": "https://files.inditechman.com/files/isaikuruvi.png",
     "description": "Tamil FM Radio"
   },
   {
     "title": "PV Video Editor",
-    "url": "",
+    "url": "https://play.google.com/store/apps/details?id=com.poovarasan.videoeditor",
     "logo": "https://files.inditechman.com/files/PVVideoeditor.png",
     "description": "Video & Audio Editor"
   },
   {
     "title": "Indian TV",
-    "url": "",
+    "url": "https://play.google.com/store/apps/details?id=com.poovarasan.indiantv",
     "logo": "https://files.inditechman.com/files/indiantv.png",
     "description": "Popular Indian TV Channels"
   },
   {
     "title": "Arabic TV",
-    "url": "",
+    "url": "https://play.google.com/store/apps/details?id=com.poovarasan.arabictv",
     "logo": "https://files.inditechman.com/files/arabictv.png",
     "description": "Popular Arabic Channels"
   }
