@@ -46,5 +46,29 @@
     "logo": "https://qqcdnpictest.mxplay.com/pic/8020.RajyogaMalayalam.in/en/1x1/208x208/test_pic1603378335664.jpg",
     "title": "Rajyoga Malayalam",
     "stream": "https://m-c050-j2apps.s.llnwi.net/hls/8020.RajyogaMalayalam.in_480p/index.m3u8"
+  },
+  {
+    "url": "",
+    "logo": "http://appzara.com/pk/Malayalam_Lenovo/Malayalam_News/Photo/a1.png",
+    "title": "Asianet News",
+    "stream": "https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8"
+  },
+  {
+    "url": "",
+    "logo": "http://appzara.com/pk/Malayalam_Lenovo/Malayalam_News/Photo/a2.png",
+    "title": "Manorama",
+    "stream": "http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8"
+  },
+  {
+    "stream": "https://vidcdn.vidgyor.com/mediaone-origin/liveabr/playlist.m3u8",
+    "title": "Media One",
+    "logo": "http://appzara.com/pk/Malayalam_Lenovo/Malayalam_News/Photo/a6.png",
+    "url": ""
+  },
+  {
+    "stream": "https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_5_av-p.m3u8",
+    "title": "News 18",
+    "logo": "http://appzara.com/pk/Malayalam_Lenovo/Malayalam_News/Photo/a4.png",
+    "url": ""
   }
 ]
