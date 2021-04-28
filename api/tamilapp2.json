@@ -2,6 +2,160 @@
   "showLogo": true,
   "channels": [
     {
+      "name": "Anbu TV",
+      "category": "Local",
+      "url": "rtmp://nextgeninfotech.ddns.net:9090/anbu/anbu?psk=123456",
+      "logo": "http://nammaoorutv.com/dashboard/upicons/namma anbu tv.png"
+    },
+    {
+      "name": "Analai Express TV",
+      "category": "Local",
+      "url": "http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR",
+      "logo": "http://nammaoorutv.com/dashboard/upicons/download (8).png"
+    },
+    {
+      "name": "Hello TV",
+      "url": "http://198.144.149.82:8080/NOTV/HELLOTV/index.m3u8?token=GTR",
+      "logo": "http://nammaoorutv.com/dashboard/upicons/hello light blue.png",
+      "category": "Local"
+    },
+    {
+      "name": "Jay TV",
+      "url": "http://198.144.149.82:8080/JAYTV/index.m3u8?token=GTR",
+      "logo": "http://nammaoorutv.com/dashboard/upicons/Jay tv.png",
+      "category": "Local"
+    },
+
+    {
+      "name": "JCV TV",
+      "url": "http://account11.livebox.co.in/jcvtvhls/live.m3u8",
+      "logo": "http://nammaoorutv.com/dashboard/upicons/1600189992815_IMG-20200729-WA0035.jpg",
+      "category": "Local"
+    },
+    {
+      "name": "Kalvi Cholai TV",
+      "url": "http://nextgeninfotech.ddns.net:8080/kalvisolai/kalvisolai.m3u8",
+      "logo": "http://nammaoorutv.com/dashboard/upicons/IMG-20200810-WA0031.jpg",
+      "category": "Local"
+    },
+    {
+      "name": "King TV Covai",
+      "url": "https://account24.livebox.co.in/kinghls/king.m3u8",
+      "logo": "http://nammaoorutv.com/dashboard/upicons/IMG-20201031-WA0003.jpg",
+      "category": "Local"
+    },
+    {
+      "name": "KVM Tv",
+      "url": "http://site1.ultramaxnet.com/client/hls/namma-ooru-tv/kvmtv-32d6e133e4ba-otua-stream/index.m3u8",
+      "logo": "http://nammaoorutv.com/dashboard/upicons/kvm tv hd logo 2.jpg",
+      "category": "Local"
+    },
+    {
+      "name": "Laxmi Tv",
+      "url": "http://198.144.149.82:8080/NOTV/LAXMITV/index.m3u8?token=GTR",
+      "logo": "http://nammaoorutv.com/dashboard/upicons/IMG-20201006-WA0000.jpg",
+      "category": "Local"
+    },
+    {
+      "name": "Life Tv",
+      "url": "http://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8",
+      "logo": "http://nammaoorutv.com/dashboard/upicons/images (6).jpeg",
+      "category": "Local"
+    },
+    {
+      "name": "Life Tv Plus",
+      "url": "http://lifetv.livebox.co.in/lifetvtamilhls/live.m3u8",
+      "logo": "http://nammaoorutv.com/dashboard/upicons/life tv plus india.png",
+      "category": "Local"
+    },
+    {
+      "name": "Metro TV",
+      "url": "http://softstreamtv.com:8080/NOTV/METROTV/index.m3u8?token=GTR",
+      "logo": "http://nammaoorutv.com/dashboard/upicons/51403794_2375690232670745_1233277456496984064_o.jpg",
+      "category": "Local"
+    },
+    {
+      "name": "Mirror TV",
+      "url": "http://livematrix.in:1935/live/mirrortv/playlist.m3u8",
+      "logo": "http://nammaoorutv.com/dashboard/upicons/IMG-20200115-WA0079.jpg",
+      "category": "Local"
+    },
+    {
+      "name": "Mon Tamil TV",
+      "url": "http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR",
+      "logo": "http://nammaoorutv.com/dashboard/upicons/montamiltv.jpeg",
+      "category": "Local"
+    },
+    {
+      "name": "Orange TV",
+      "url": "http://198.144.149.82:8080/NOTV/ORANGETV/index.m3u8?token=GTR",
+      "logo": "http://nammaoorutv.com/dashboard/upicons/IMG-20191117-WA0007.jpg",
+      "category": "Local"
+    },
+    {
+      "name": "Palar TV",
+      "url": "http://account13.livebox.co.in/palartvhls/live.m3u8",
+      "logo": "http://nammaoorutv.com/dashboard/upicons/Logo Bg_00000.png",
+      "category": "Local"
+    },
+    {
+      "name": "Sai TV Madurai",
+      "url": "http://198.144.149.82:8080/NOTV/SAITVMD/index.m3u8?token=GTR",
+      "logo": "http://nammaoorutv.com/dashboard/upicons/bbbbbbb.png",
+      "category": "Local"
+    },
+    {
+      "name": "Sivan TV",
+      "url": "http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8",
+      "logo": "http://nammaoorutv.com/dashboard/upicons/IMG-20191110-WA0045.jpg",
+      "category": "Local"
+    },
+    {
+      "name": "Tamilan TV",
+      "url": "http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8",
+      "logo": "http://nammaoorutv.com/dashboard/upicons/Screenshot_20200908-234711~2.png",
+      "category": "Local"
+    },
+    {
+      "name": "Uzhavan TV",
+      "url": "http://198.144.149.82:8080/NOTV/UZHAVANTV/index.m3u8?token=GTR",
+      "logo": "http://nammaoorutv.com/dashboard/upicons/IMG-20200904-WA0058.jpg",
+      "category": "Local"
+    },
+
+
+
+    {
+      "name": "SS TV",
+      "url": "rtmp://kairacloud.in:1935/ssTV/ft86lv8l",
+      "logo": "http://nammaoorutv.com/dashboard/upicons/IMG-20210202-WA0043.jpg",
+      "category": "Local"
+    },
+    {
+      "name": "RCN  TV",
+      "url": "rtmp://95.216.226.165:1935/rcntv/rcntv",
+      "logo": "http://nammaoorutv.com/dashboard/upicons/images - 2020-09-08T140626.997.jpeg",
+      "category": "Local"
+    },
+
+
+
+    {
+      "name": "Ark TV",
+      "category": "Religious",
+      "url": "http://mediastreamer.7starcloud.com:1935/arktv/arktv/playlist.m3u8",
+      "logo": "http://nammaoorutv.com/dashboard/upicons/images (32).png"
+    },
+
+    {
+      "name": "THOPHONY TV",
+      "category": "Religious",
+      "url": "http://198.144.149.82:8080/NOTV/THOPHONYTV/index.m3u8?token=GTR",
+      "logo": "http://nammaoorutv.com/dashboard/upicons/IMG-20210108-WA0020.jpg"
+    },
+
+
+    {
       "name": "Sharvesh 7Star TV",
       "category": "Local",
       "url": "https://account16.livebox.co.in/account2hls/live.m3u8",

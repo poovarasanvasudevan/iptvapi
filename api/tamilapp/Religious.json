@@ -1,5 +1,18 @@
 [
   {
+    "name": "Ark TV",
+    "category": "Religious",
+    "url": "http://mediastreamer.7starcloud.com:1935/arktv/arktv/playlist.m3u8",
+    "logo": "http://nammaoorutv.com/dashboard/upicons/images (32).png"
+  },
+
+  {
+    "name": "THOPHONY TV",
+    "category": "Religious",
+    "url": "http://198.144.149.82:8080/NOTV/THOPHONYTV/index.m3u8?token=GTR",
+    "logo": "http://nammaoorutv.com/dashboard/upicons/IMG-20210108-WA0020.jpg"
+  },
+  {
     "name": "OM Namah sivaya",
     "category": "Religious",
     "url": "http://51.79.158.179:1935/omtvjak/livetv/playlist.m3u8",
