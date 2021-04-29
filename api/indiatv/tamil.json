@@ -70,5 +70,143 @@
     "title": "Dheeran TV",
     "logo": "https://live-tv-channels.org/pt-data/uploads/logo/in-dheeran-tv-9411-300x225.jpg",
     "url": "https://live-tv-channels.org/livetv/in-dheeran-tv.html"
+  },
+  {
+    "url": "",
+    "stream": "https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8",
+    "title": "3 Tamil TV",
+    "logo": "https://i.imgur.com/WfAU7pB.png"
+  },
+  {
+    "url": "",
+    "stream": "http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8",
+    "title": "7S Music",
+    "logo": "http://mhdtvworld.com/wp-content/uploads/2019/07/7s_music.png"
+  },
+  {
+    "url": "",
+    "stream": "http://media.7starcloud.com:1935/live/7star/playlist.m3u8",
+    "title": "7Star TV",
+    "logo": "https://i.imgur.com/EaHWWNl.jpg"
+  },
+  {
+    "url": "",
+    "stream": "http://45.77.66.224:1935/athavantv/live/playlist.m3u8",
+    "title": "Aathavan TV",
+    "logo": "https://i.imgur.com/IgwQ7o5.png"
+  },
+  {
+    "url": "",
+    "stream": "http://ammacable.com:1935/acn/acncinema/playlist.m3u8",
+    "title": "ACN Cinema",
+    "logo": null
+  },
+  {
+    "url": "",
+    "stream": "http://ammacable.com:1935/acn/acnmusic/playlist.m3u8",
+    "title": "ACN Music",
+    "logo": null
+  },
+  {
+    "url": "",
+    "stream": "http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8",
+    "title": "Akaram Kidz",
+    "logo": "https://i.imgur.com/hAgaVPa.jpg"
+  },
+  {
+    "url": "",
+    "stream": "http://ammacable.com:1935/acn/arasantv/playlist.m3u8",
+    "title": "Arasan TV",
+    "logo": null
+  },
+  {
+    "url": "",
+    "stream": "https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8",
+    "title": "Asianet News Tamil",
+    "logo": "https://static.asianetnews.com/v1/images/tamil_logo.png"
+  },
+  {
+    "url": "",
+    "stream": "https://live.streamjo.com/eetlive/eettv.m3u8",
+    "title": "EET TV",
+    "logo": "https://i.imgur.com/f7J37yv.png"
+  },
+  {
+    "url": "",
+    "stream": "https://ibckids-live.ibctamil.com/transcode/ibckids.m3u8",
+    "title": "IBC Kids",
+    "logo": "https://assets.zoftcdn.com/branding/ibctv/ibc-kids.png"
+  },
+  {
+    "url": "",
+    "stream": "http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8",
+    "title": "Kalaignar",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg"
+  },
+  {
+    "url": "",
+    "stream": "https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8",
+    "title": "Malaimurasu",
+    "logo": "https://i.imgur.com/uFiHtQX.png"
+  },
+  {
+    "url": "",
+    "stream": "http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8",
+    "title": "MK Six",
+    "logo": "http://mhdtvworld.com/wp-content/uploads/2018/11/MK_SIX.png"
+  },
+  {
+    "url": "",
+    "stream": "http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8",
+    "title": "MK Tunes",
+    "logo": "http://mhdtvworld.com/wp-content/uploads/2018/11/MK_TUNES.png"
+  },
+  {
+    "url": "",
+    "stream": "http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8",
+    "title": "MK TV",
+    "logo": "http://mhdtvworld.com/wp-content/uploads/2019/07/mk_tv_in.png"
+  },
+  {
+    "url": "",
+    "stream": "http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8",
+    "title": "Santhora Short Flim",
+    "logo": "https://i.imgur.com/kKFfLMd.jpg"
+  },
+  {
+    "url": "",
+    "stream": "http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8",
+    "title": "Santhora TV",
+    "logo": "https://i.imgur.com/LsacUVi.png"
+  },
+  {
+    "url": "",
+    "stream": "http://santhoratv.zecast.net/santhoratv/santhoratv/index.m3u8",
+    "title": "Santhora TV",
+    "logo": "https://i.imgur.com/LsacUVi.png"
+  },
+  {
+    "url": "",
+    "stream": "http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8",
+    "title": "Tamil Vision International",
+    "logo": "http://mhdtvworld.com/wp-content/uploads/2018/11/rsz_tamil_vision_international1.jpg"
+  },
+  {
+    "url": "",
+    "stream": "https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/playlist.m3u8",
+    "title": "Thanthi TV",
+    "logo": "http://mhdtvworld.com/wp-content/uploads/2018/11/4123.png"
+  },
+  {
+    "url": "",
+    "stream": "http://95.216.167.183:5080/LiveApp/streams/443106610169904881506470.m3u8",
+    "title": "Vathanam TV",
+    "logo": "http://mhdtvworld.com/wp-content/uploads/2019/03/watamantv.png"
+  },
+  {
+    "url": "",
+    "stream": "https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8",
+    "title": "Velicham",
+    "logo": "https://i.imgur.com/YeR3mm9.png"
   }
 ]

@@ -82,5 +82,185 @@
     "title": "NDTV 24x7",
     "url": "https://live-tv-channels.org/livetv/in-ndtv-24x7.html",
     "logo": "https://live-tv-channels.org/pt-data/uploads/logo/in-ndtv-24x7-8501-300x225.jpg"
+  },
+  {
+    "url": "",
+    "stream": "https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8",
+    "title": "&Flix",
+    "logo": "https://static.epg.best/in/AndFlix.in.png"
+  },
+  {
+    "url": "",
+    "stream": "https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8",
+    "title": "&privé HD",
+    "logo": null
+  },
+  {
+    "url": "",
+    "stream": "http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8",
+    "title": "ABP News",
+    "logo": "https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png"
+  },
+  {
+    "url": "",
+    "stream": "https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8",
+    "title": "ABP News",
+    "logo": "https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png"
+  },
+  {
+    "url": "",
+    "stream": "https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8",
+    "title": "Asianet News",
+    "logo": "https://i.imgur.com/89LBgkl.png"
+  },
+  {
+    "url": "",
+    "stream": "https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8",
+    "title": "Bloomberg TV Asia",
+    "logo": "https://i.imgur.com/XCbSfMb.jpg"
+  },
+  {
+    "url": "",
+    "stream": "https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8",
+    "title": "Bloomberg TV Asia",
+    "logo": null
+  },
+  {
+    "url": "",
+    "stream": "https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8",
+    "title": "Bloomberg TV Asia",
+    "logo": "https://i.imgur.com/3gi2eBn.jpg"
+  },
+  {
+    "url": "",
+    "stream": "https://www.bloomberg.com/media-manifest/streams/asia.m3u8",
+    "title": "Bloomberg TV Asia",
+    "logo": "https://i.imgur.com/3gi2eBn.jpg"
+  },
+  {
+    "url": "",
+    "stream": "https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_event.m3u8",
+    "title": "Bloomberg TV Asia Live Event",
+    "logo": "https://i.imgur.com/EEAwv8z.jpg"
+  },
+  {
+    "url": "",
+    "stream": "https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8",
+    "title": "Bloomberg TV Asia Live Event",
+    "logo": "https://i.imgur.com/EEAwv8z.jpg"
+  },
+  {
+    "url": "",
+    "stream": "https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8",
+    "title": "BritCom",
+    "logo": null
+  },
+  {
+    "url": "",
+    "stream": "https://ch.iptvmate.net/ea6f7b1281c52c9b7b199e1fe73cbf5c.m3u8",
+    "title": "CNBC TV18",
+    "logo": "https://i.imgur.com/3yumcV3.jpg"
+  },
+  {
+    "url": "",
+    "stream": "https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8",
+    "title": "CNBC TV18",
+    "logo": "https://i.imgur.com/3yumcV3.jpg"
+  },
+  {
+    "url": "",
+    "stream": "https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10",
+    "title": "CNBC TV18",
+    "logo": "https://i.imgur.com/3yumcV3.jpg"
+  },
+  {
+    "url": "",
+    "stream": "https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8",
+    "title": "CNN-News18",
+    "logo": null
+  },
+  {
+    "url": "",
+    "stream": "http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8",
+    "title": "ET Now",
+    "logo": "https://i.imgur.com/rhkI95a.png"
+  },
+  {
+    "url": "",
+    "stream": "http://fastway.ddns.net:6421/fastway/live10/index.m3u8?",
+    "title": "FastWay",
+    "logo": null
+  },
+  {
+    "url": "",
+    "stream": "https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8",
+    "title": "Mirror Now",
+    "logo": "https://yt3.ggpht.com/-XmvqPl571Ak/AAAAAAAAAAI/AAAAAAAAAAA/mMm0Tpd90kU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"
+  },
+  {
+    "url": "",
+    "stream": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8",
+    "title": "NDTV 24x7",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/1280px-NDTV_247.svg.png"
+  },
+  {
+    "url": "",
+    "stream": "https://ndtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/ndtv/live/ndtv_profit.smil/chunklist_w1438770647_b256000.m3u8",
+    "title": "NDTV Profit",
+    "logo": null
+  },
+  {
+    "url": "",
+    "stream": "https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8",
+    "title": "NDTV Profit",
+    "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png"
+  },
+  {
+    "url": "",
+    "stream": "https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8",
+    "title": "NDTV Profit",
+    "logo": "https://i.imgur.com/pQ7nl12.png"
+  },
+  {
+    "url": "",
+    "stream": "https://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8",
+    "title": "Popular Science",
+    "logo": null
+  },
+  {
+    "url": "",
+    "stream": "https://a.jsrdn.com/broadcast/060753d37e/+0000/high/c.m3u8",
+    "title": "Serveur TV",
+    "logo": null
+  },
+  {
+    "url": "",
+    "stream": "http://51.52.156.22:8888/http/009",
+    "title": "Sony Movies",
+    "logo": null
+  },
+  {
+    "url": "",
+    "stream": "rtmp://ivi.bupt.edu.cn:1935/livetv/starsports",
+    "title": "Star Sports",
+    "logo": "https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg"
+  },
+  {
+    "url": "",
+    "stream": "http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8",
+    "title": "Star Sports 2 HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png"
+  },
+  {
+    "url": "",
+    "stream": "http://45.126.83.51/qwr9ew/s/s34/index.m3u8",
+    "title": "Thrill",
+    "logo": "http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png"
+  },
+  {
+    "url": "",
+    "stream": "https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8",
+    "title": "Travelxp",
+    "logo": "https://i.imgur.com/6V48LwT.jpg"
   }
 ]
