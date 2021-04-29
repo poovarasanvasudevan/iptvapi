@@ -93,7 +93,7 @@
     "url": "",
     "stream": "https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8",
     "title": "&privé HD",
-    "logo": null
+    "logo": ""
   },
   {
     "url": "",
@@ -123,7 +123,7 @@
     "url": "",
     "stream": "https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8",
     "title": "Bloomberg TV Asia",
-    "logo": null
+    "logo": ""
   },
   {
     "url": "",
@@ -153,7 +153,7 @@
     "url": "",
     "stream": "https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8",
     "title": "BritCom",
-    "logo": null
+    "logo": ""
   },
   {
     "url": "",
@@ -177,7 +177,7 @@
     "url": "",
     "stream": "https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8",
     "title": "CNN-News18",
-    "logo": null
+    "logo": ""
   },
   {
     "url": "",
@@ -189,7 +189,7 @@
     "url": "",
     "stream": "http://fastway.ddns.net:6421/fastway/live10/index.m3u8?",
     "title": "FastWay",
-    "logo": null
+    "logo": ""
   },
   {
     "url": "",
@@ -207,7 +207,7 @@
     "url": "",
     "stream": "https://ndtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/ndtv/live/ndtv_profit.smil/chunklist_w1438770647_b256000.m3u8",
     "title": "NDTV Profit",
-    "logo": null
+    "logo": ""
   },
   {
     "url": "",
@@ -225,19 +225,19 @@
     "url": "",
     "stream": "https://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8",
     "title": "Popular Science",
-    "logo": null
+    "logo": ""
   },
   {
     "url": "",
     "stream": "https://a.jsrdn.com/broadcast/060753d37e/+0000/high/c.m3u8",
     "title": "Serveur TV",
-    "logo": null
+    "logo": ""
   },
   {
     "url": "",
     "stream": "http://51.52.156.22:8888/http/009",
     "title": "Sony Movies",
-    "logo": null
+    "logo": ""
   },
   {
     "url": "",

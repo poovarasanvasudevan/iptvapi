@@ -99,13 +99,13 @@
     "url": "",
     "stream": "http://ammacable.com:1935/acn/acncinema/playlist.m3u8",
     "title": "ACN Cinema",
-    "logo": null
+    "logo": ""
   },
   {
     "url": "",
     "stream": "http://ammacable.com:1935/acn/acnmusic/playlist.m3u8",
     "title": "ACN Music",
-    "logo": null
+    "logo": ""
   },
   {
     "url": "",
@@ -117,7 +117,7 @@
     "url": "",
     "stream": "http://ammacable.com:1935/acn/arasantv/playlist.m3u8",
     "title": "Arasan TV",
-    "logo": null
+    "logo": ""
   },
   {
     "url": "",
