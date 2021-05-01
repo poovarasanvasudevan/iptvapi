@@ -1,5 +1,11 @@
 [
   {
+    "url": "http://versewsa.pc.cdn.bitgravity.com:80/versewsa/live//kalaignar_tv.smil/chunklist.m3u8",
+    "category": "Local",
+    "logo": "http://jenohdtv.gq/wp-content/uploads/2019/11/Kalainger-Seithigal.png",
+    "name": "Kalaignar Seithigal"
+  },
+  {
     "name": "Lotus News",
     "category": "News",
     "url": "https://jk3lzaj4dw79-hls-live.5centscdn.com/stream/508c75c8507a2ae5223dfd2faeb98122.sdp/chunks.m3u8",
