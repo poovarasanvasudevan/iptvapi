@@ -25,7 +25,6 @@
       "logo": "http://nammaoorutv.com/dashboard/upicons/Jay tv.png",
       "category": "Local"
     },
-
     {
       "name": "JCV TV",
       "url": "http://account11.livebox.co.in/jcvtvhls/live.m3u8",
@@ -122,9 +121,6 @@
       "logo": "http://nammaoorutv.com/dashboard/upicons/IMG-20200904-WA0058.jpg",
       "category": "Local"
     },
-
-
-
     {
       "name": "SS TV",
       "url": "rtmp://kairacloud.in:1935/ssTV/ft86lv8l",
@@ -137,24 +133,18 @@
       "logo": "http://nammaoorutv.com/dashboard/upicons/images - 2020-09-08T140626.997.jpeg",
       "category": "Local"
     },
-
-
-
     {
       "name": "Ark TV",
       "category": "Religious",
       "url": "http://mediastreamer.7starcloud.com:1935/arktv/arktv/playlist.m3u8",
       "logo": "http://nammaoorutv.com/dashboard/upicons/images (32).png"
     },
-
     {
       "name": "THOPHONY TV",
       "category": "Religious",
       "url": "http://198.144.149.82:8080/NOTV/THOPHONYTV/index.m3u8?token=GTR",
       "logo": "http://nammaoorutv.com/dashboard/upicons/IMG-20210108-WA0020.jpg"
     },
-
-
     {
       "name": "Sharvesh 7Star TV",
       "category": "Local",
@@ -245,7 +235,6 @@
       "url": "http://7starcloud.com:1935/live/arunaitv/playlist.m3u8",
       "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG85725.png"
     },
-
     {
       "name": "ARK TV",
       "category": "Local",
@@ -294,8 +283,6 @@
       "url": "https://jk3lzaj4dw79-hls-live.5centscdn.com/stream/508c75c8507a2ae5223dfd2faeb98122.sdp/chunks.m3u8",
       "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG74090.png"
     },
-
-
     {
       "name": "Iniyan TV",
       "category": "Religious",
@@ -380,8 +367,6 @@
       "url": "https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/alphatv_low/index.m3u8",
       "logo": "http://site1.ultramaxnet.com/client/ultramax/images/alphatv.jpg"
     },
-
-
     {
       "name": "K TV",
       "category": "Movies",
@@ -1156,7 +1141,6 @@
       "url": "rtmp://bmlive.net:1935/digitaltv/digitaltv",
       "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/22.png"
     },
-
     {
       "name": "Tirupur TV",
       "category": "Local",
@@ -1229,7 +1213,6 @@
       "url": "rtmp://bmlive.net:1935/zaratv/zaratv",
       "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/87.png"
     },
-
     {
       "name": "Mercy TV",
       "category": "Religious",
