@@ -1,0 +1,37 @@
+[
+  {
+    "title": "தினகரம்",
+    "url": "http://epaper.dinakaran.com/index.php?rt=login/loginAction",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/dinakaran.png"
+  },
+  {
+    "title": "தீக்கதிர்",
+    "url": "https://theekkathir.in/EPaper",
+    "logo": "https://theekkathir.in/images/theekkathir/theekkathir.png"
+  },
+  {
+    "title": "விடுதலை",
+    "logo": "http://cache.epapr.in/logos/logo_image_5ed38c160afea.png",
+    "url": "http://read.viduthalai.in/"
+  },
+  {
+    "title": "தினமணி",
+    "logo": "https://s3-ap-southeast-1.amazonaws.com/marketing-readwhere/dinamani-logo.png",
+    "url": "https://epaper.dinamani.com/"
+  },
+  {
+    "title": "இந்திய எக்ஸ்பிரஸ்",
+    "logo": "https://s3-ap-southeast-1.amazonaws.com/marketing-readwhere/newindian-logo.png",
+    "url": "https://epaper.newindianexpress.com/"
+  },
+  {
+    "title": "தின குரல்",
+    "logo": "https://thinakkural.lk/img/logo.d74919e5.jpg",
+    "url": "http://epaper.thinakkural.lk/"
+  },
+  {
+    "title": "தினமலர்",
+    "logo": "http://www.bestmediainfo.com/wp-content/uploads/2011/09/dinamalar-logo.jpg",
+    "url": "http://m.dinamalar.com/"
+  }
+]
