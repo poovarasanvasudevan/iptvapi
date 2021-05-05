@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Beity",
+    "logo": "https://i.imgur.com/7aD1yan.jpg",
+    "url": "http://82.212.74.2:8000/live/7312.m3u8",
+    "category": "Hobby",
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "sa",
+        "name": "Saudi Arabia"
+      }
+    ],
+    "tvg": {
+      "id": "Beity.sa",
+      "name": "Beity",
+      "url": "https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip"
+    }
+  },
+  {
+    "name": "National Geographic Abu Dhabi",
+    "logo": "https://i.imgur.com/baXbWro.jpg",
+    "url": "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8",
+    "category": "Hobby",
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ae",
+        "name": "United Arab Emirates"
+      },
+      {
+        "code": "bh",
+        "name": "Bahrain"
+      },
+      {
+        "code": "dj",
+        "name": "Djibouti"
+      },
+      {
+        "code": "dz",
+        "name": "Algeria"
+      },
+      {
+        "code": "eg",
+        "name": "Egypt"
+      },
+      {
+        "code": "iq",
+        "name": "Iraq"
+      },
+      {
+        "code": "jo",
+        "name": "Jordan"
+      },
+      {
+        "code": "km",
+        "name": "Comoros"
+      },
+      {
+        "code": "kw",
+        "name": "Kuwait"
+      },
+      {
+        "code": "lb",
+        "name": "Lebanon"
+      },
+      {
+        "code": "ly",
+        "name": "Libya"
+      },
+      {
+        "code": "ma",
+        "name": "Morocco"
+      },
+      {
+        "code": "mr",
+        "name": "Mauritania"
+      },
+      {
+        "code": "om",
+        "name": "Oman"
+      },
+      {
+        "code": "ps",
+        "name": "Palestine"
+      },
+      {
+        "code": "qa",
+        "name": "Qatar"
+      },
+      {
+        "code": "sa",
+        "name": "Saudi Arabia"
+      },
+      {
+        "code": "sd",
+        "name": "Sudan"
+      },
+      {
+        "code": "so",
+        "name": "Somalia"
+      },
+      {
+        "code": "sy",
+        "name": "Syria"
+      },
+      {
+        "code": "tn",
+        "name": "Tunisia"
+      },
+      {
+        "code": "ye",
+        "name": "Yemen"
+      }
+    ],
+    "tvg": {
+      "id": "National Geographic Abu Dhabi AR",
+      "name": "National Geographic Abu Dhabi AR",
+      "url": "https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip"
+    }
+  }
+]

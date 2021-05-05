@@ -3,61 +3,61 @@
     "logo": "https://pbs.twimg.com/profile_images/981819775817957377/VVKcF_Y6.jpg",
     "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
     "name": "Aljazeera",
-    "category": "Algeria"
+    "category": "Other"
   },
   {
     "logo": "https://yt3.ggpht.com/ytc/AAUvwnji5aqc6TA6UtOa199O_jmVAjbsT8zdDx3TAfvdmg=s900-c-k-c0x00ffffff-no-rj",
     "url": "https://stream-04.sg1.dailymotion.com/sec(URBhp0zYv0oL3J-5svQBhjRgD3kn26AtUJngd0RAXUU)/dm/3/x7lmd4f/s/live-2.m3u8",
     "name": "Nessma Live en Direct",
-    "category": "Algeria"
+    "category": "Other"
   },
   {
     "logo": "https://cdn.sat.tv/wp-content/uploads/2016/05/Medi-1-TV-e1601626291838.png",
     "url": "http://5f72f3a9b06b7.streamlock.net/live/smil:medi1tv.smil/playlist.m3u8?DVR",
     "name": "Medi1TV Maghreb",
-    "category": "Algeria"
+    "category": "Other"
   },
   {
     "logo": "https://live-tv-channels.org/pt-data/uploads/logo/sa-makkah-tv.jpg",
     "url": "https://5ab29cc78f681.streamlock.net/makkahtv/livestream/playlist.m3u8",
     "name": "Makkah TV",
-    "category": "Algeria"
+    "category": "Other"
   },
   {
     "logo": "https://www.logolynx.com/images/logolynx/d7/d7f0e2c9d1f2177899170875c2c47731.jpeg",
     "url": "https://iqraac.cdn.mgmlcdn.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8",
     "name": "Iqraa",
-    "category": "Algeria"
+    "category": "Other"
   },
   {
     "logo": "https://upload.wikimedia.org/wikipedia/commons/8/87/Alaraby_TV_Logo.png",
     "url": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8",
     "name": "Alarby",
-    "category": "Algeria"
+    "category": "Other"
   },
   {
     "logo": "https://upload.wikimedia.org/wikipedia/en/6/63/Al_Jazeera_Mubasher.png",
     "url": "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
     "name": "AJM",
-    "category": "Algeria"
+    "category": "Other"
   },
   {
     "logo": "https://rotana.net/assets/themes/TriTheme-new/images/channels/cinema.png",
     "url": "https://dai.google.com/linear/hls/pb/event/TTfW9QXGRVCBzHoEKgyrWA/stream/a805c421-a4c9-4026-b267-3f9d1c032be9:SIN2/variant/d33e505d0b3e6bd0c820f98436b76cbd/bandwidth/997535.m3u8",
     "name": "Rotana Cinema",
-    "category": "Algeria"
+    "category": "Other"
   },
   {
     "logo": "https://rotana.net/assets/themes/TriTheme-new/images/channels/khalijiat.png",
     "url": "https://dai.google.com/linear/hls/pb/event/Ow9HolmDThGX9-D9EOdrHw/stream/a29aaeb6-dd66-4e2d-ba84-9cbcadc4fcfe:SIN/master.m3u8",
     "name": "Gulf Rotana",
-    "category": "Algeria"
+    "category": "Other"
   },
   {
     "logo": "https://rotana.net/assets/themes/TriTheme-new/images/channels/kids.png",
     "url": "https://rotananet.hibridcdn.net/rotana/kids_abr/rotana/kids_480p/chunks.m3u8?p=48&s=1620016831&e=1620103231&cf=1620103231&h=2eedc5ea9248ce888c047fcb6f461e28",
     "name": "Rotana Kids",
-    "category": "Algeria"
+    "category": "Other"
   },
   {
     "logo": "https://rotana.net/assets/themes/TriTheme-new/images/channels/comedy.png",
@@ -67,120 +67,120 @@
   {
     "logo": "https://rotana.net/assets/themes/TriTheme-new/images/channels/drama.png",
     "name": "Rotana Drama",
-    "category": "Algeria",
+    "category": "Other",
     "url": "https://rotananet.hibridcdn.net/rotana/drama_abr/rotana/drama_480p/chunks.m3u8?p=49&s=1620018600&e=1620105000&cf=1620105000&h=5d616b3cbefbc9f8491cb238a1e48a31"
   },
   {
     "logo": "https://rotana.net/assets/themes/TriTheme-new/images/channels/lbc.png",
     "name": "LBC",
-    "category": "Algeria",
+    "category": "Other",
     "url": "https://rotananet.hibridcdn.net/rotana/lbc_abr/rotana/lbc_480p/chunks.m3u8?p=47&s=1620018399&e=1620104799&cf=1620104799&h=d7970f1089a7b881a203fe9b4d999e50"
   },
   {
     "logo": "https://rotana.net/assets/themes/TriTheme-new/images/channels/resala.png",
     "name": "Message",
-    "category": "Algeria",
+    "category": "Other",
     "url": "https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_480p/chunks.m3u8?p=50&s=1620017514&e=1620103914&cf=1620103914&h=da07bbd1174fa661b8163c3464f6a7aa"
   },
   {
     "logo": "https://rotana.net/assets/themes/TriTheme-new/images/channels/cinema.png",
     "name": "Rotana Classic",
-    "category": "Algeria",
+    "category": "Other",
     "url": "https://rotananet.hibridcdn.net/rotana/classical_abr/rotana/classical_480p/chunks.m3u8?p=53&s=1620019312&e=1620105712&cf=1620105712&h=5ce69084e0e51f9fc557a729c425c6a5"
   },
   {
     "logo": "https://cdn.sat.tv/wp-content/uploads/2016/05/NabaaTV2.png",
     "name": "Nabaa",
     "url": "https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8",
-    "category": "Algeria"
+    "category": "Other"
   },
   {
     "logo": "https://store-images.s-microsoft.com/image/apps.16275.13510798887004918.066b6397-60ab-41d5-87df-88eb29fa1846.b4f6328e-de25-489e-bad0-b8a52926adf0?mode=scale&q=90&h=300&w=300",
     "name": "Al Hadath",
-    "category": "Algeria",
+    "category": "Other",
     "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8"
   },
   {
     "url": "https://tv-trtarabi.live.trt.com.tr/master.m3u8",
     "logo": "https://www.trtarabi.com/images/logo.svg",
     "name": "TRT Arabi",
-    "category": "Algeria"
+    "category": "Other"
   },
   {
     "url": "https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8",
     "name": "CGTN",
-    "category": "Algeria",
+    "category": "Other",
     "logo": "https://uiar.cgtn.com/w/images/icon/logo@3x.png"
   },
   {
     "url": "https://cnbcarabia.hibridcdn.net/cnbc/cnbc_abr/cnbc/cnbc_480p/chunks.m3u8?p=47&s=1620030098&e=1620116498&cf=1620116498&h=3d5bb42de96b483318601a681d81c0be",
     "name": "CNBC Arabia",
-    "category": "Algeria",
+    "category": "Other",
     "logo": "https://www.cnbcarabia.com/img/logo.png"
   },
   {
     "url": "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8",
     "logo": "https://alhiwar.tv/all/images/logo.png",
     "name": "Al Hadwar",
-    "category": "Algeria"
+    "category": "Other"
   },
   {
     "url": "https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/manifest/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_cloudfrontms_live.mpd",
     "logo": "https://shivarasaneh.com/wp-content/uploads/2017/04/bbc-arabic.png",
     "name": "BBC Arabic",
-    "category": "Algeria"
+    "category": "Other"
   },
   {
     "name": "Al, Sharq TV",
-    "category": "Algeria",
+    "category": "Other",
     "url": "https://bcsecurelivehls-i.akamaihd.net/hls/live/1021447/6203311941001/master-720.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Al_Sharq_%282018-10-27%29.svg/1200px-Al_Sharq_%282018-10-27%29.svg.png"
   },
   {
     "name": "Alalam tv",
-    "category": "Algeria",
+    "category": "Other",
     "url": "https://live2.alalamtv.net/live/Alalam_medium/index.m3u8",
     "logo": "https://www.alalamtv.net/sites/2-1/style/image/logo_new_alalam.png"
   },
   {
     "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8",
     "name": "Mekameleen",
-    "category": "Algeria",
+    "category": "Other",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/%D9%82%D9%86%D8%A7%D8%A9_%D9%85%D9%83%D9%85%D9%84%D9%8A%D9%86.jpg"
   },
   {
     "url": "http://51.15.246.58:8081/daawahtv/daawahtv2/playlist.m3u8",
     "logo": "http://www.daawah.tv/img/logo.png",
     "name": "Daawah",
-    "category": "Algeria"
+    "category": "Other"
   },
   {
     "logo": "https://cdn.sat.tv/wp-content/uploads/2016/05/KTV1.png",
     "name": "Kuwait Tv 1",
-    "category": "Algeria",
+    "category": "Other",
     "url": "https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_720p/chunks.m3u8?p=48&s=1620029092&e=1620115492&cf=1620115492&h=1ce5371cdab881012324a26acad207f7"
   },
   {
     "name": "Kuwait Tv 2",
-    "category": "Algeria",
+    "category": "Other",
     "logo": "https://cdn.sat.tv/wp-content/uploads/2016/05/KTV1.png",
     "url": "https://kwmedia.hibridcdn.net/kwmedia/kwtv2_abr/kwmedia/kwtv2_720p/chunks.m3u8?p=48&s=1620031250&e=1620117650&cf=1620117650&h=6b5b352b59f10ac28207d32ffeb4265a"
   },
   {
     "name": "Kuwait TV Sports",
-    "category": "Algeria",
+    "category": "Other",
     "logo": "https://i.goalzz.com/?i=logo_sport%2Fkuwaitsport.jpg",
     "url": "https://kwmedia.hibridcdn.net/kwmedia/kwtvsports_abr/kwmedia/kwtvsports_720p/chunks.m3u8?p=53&s=1620030750&e=1620117150&cf=1620117150&h=45d253290323a21315bf9b31bda212bb"
   },
   {
     "logo": "https://amp.live-tv-channels.org/pt-data/uploads/logo/kw-ktv-1-4964.jpg",
     "name": "Khallik Bilbait",
-    "category": "Algeria",
+    "category": "Other",
     "url": "https://kwmedia.hibridcdn.net/kwmedia/kwtvkids_abr/kwmedia/kwtvkids_720p/chunks.m3u8?p=51&s=1620030873&e=1620117273&cf=1620117273&h=a9a95e4b98b627aa347bbea92ed554b4"
   },
   {
     "name": "KTV Ethraa",
-    "category": "Algeria",
+    "category": "Other",
     "logo": "https://kwmedia.hibridcdn.net/s/posters/kwmedia-kwtvethraa.pn",
     "url": "https://kwmedia.hibridcdn.net/kwmedia/kwtvethraa_abr/kwmedia/kwtvethraa_720p/chunks.m3u8?p=53&s=1620029801&e=1620116201&cf=1620116201&h=9f91821db9b933e62d3ac5e7a004480e"
   },
@@ -188,66 +188,60 @@
     "logo": "https://kwmedia.hibridcdn.net/s/posters/kwmedia-kwtvarabi.png",
     "url": "https://kwmedia.hibridcdn.net/kwmedia/kwtvarabi_abr/kwmedia/kwtvarabi_720p/chunks.m3u8?p=52&s=1620029692&e=1620116092&cf=1620116092&h=22d9c98dacb8dfde66d811c0e896826a",
     "name": "KTV Arabi",
-    "category": "Algeria"
+    "category": "Other"
   },
   {
     "url": "https://kwmedia.hibridcdn.net/kwmedia/kwtvqurain_abr/kwmedia/kwtvqurain_720p/chunks.m3u8?p=53&s=1620032794&e=1620119194&cf=1620119194&h=6842c2475974f7e0db701ba3bcebe54b",
     "logo": "https://kwmedia.hibridcdn.net/s/posters/kwmedia-kwtvqurain.png",
     "name": "Al Qurain",
-    "category": "Algeria"
+    "category": "Other"
   },
   {
     "url": "https://kwmedia.hibridcdn.net/kwmedia/kwtvsportsplus_abr/kwmedia/kwtvsportsplus_720p/chunks.m3u8?p=57&s=1620032470&e=1620118870&cf=1620118870&h=6b638de653726b6f881b7910c676cfe5",
     "logo": "https://kwmedia.hibridcdn.net/s/posters/kwmedia-kwtvsportsplus.png",
     "name": "KTV Sports Plus",
-    "category": "Algeria"
+    "category": "Other"
   },
   {
     "url": "https://kwmedia.hibridcdn.net/kwmedia/kwtvmajlis_abr/kwmedia/kwtvmajlis_720p/chunks.m3u8?p=53&s=1620031364&e=1620117764&cf=1620117764&h=a81e2e67619a743ab52f2f4962227a35",
     "logo": "https://kwmedia.hibridcdn.net/s/posters/kwmedia-kwtvmajlis.png",
     "name": "KTV Al Majlis",
-    "category": "Algeria"
+    "category": "Other"
   },
   {
     "url": "https://lmdstrm.cdn.octivid.com/mayadeen-live/smil:mayadeen.smil/playlist.m3u8",
     "name": "Mayadeen",
-    "category": "Algeria",
+    "category": "Other",
     "logo": "https://cdn.sat.tv/wp-content/uploads/2016/03/al_mayadeen_tv-2.png"
   },
   {
     "url": "https://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/playlist.m3u8",
     "logo": "http://futuretvnetwork.com/images/logo-n2.png",
     "name": "Future TV",
-    "category": "Algeria"
+    "category": "Other"
   },
   {
     "url": "https://manar.live/iptv/index.m3u8",
     "name": "Al Manar",
-    "category": "Algeria",
+    "category": "Other",
     "logo": "https://almanar.com.lb/live/assets/images/bg.jpg"
   },
   {
     "url": "https://live.paltoday.tv/paltv/live/playlist.m3u8",
     "name": "Pal Today",
-    "category": "Algeria",
+    "category": "Other",
     "logo": "https://paltoday.tv/style/assets/images/logo.png"
   },
   {
     "url": "https://admdn3ta.cdn.mgmlcdn.com/emarat/smil:emarat.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8",
     "name": "Emarat TV",
-    "category": "Algeria",
+    "category": "Other",
     "logo": "https://www.adtv.ae/images/logo.png"
   },
   {
     "url": "https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8",
     "name": "Spacetoon TV",
-    "category": "Algeria",
+    "category": "Other",
     "logo": "https://spacetoon.com/assets/imgs/1stoon.png"
-  },
-  {
-    "url": "https://stream.skynewsarabia.com/hls/sna.m3u8",
-    "name": "Sky News Arabia",
-    "category": "Algeria",
-    "logo": "https://assets.wam.ae/uploads/2017/10/24082507957200.jpg"
   }
 ]

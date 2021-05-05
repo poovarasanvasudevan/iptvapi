@@ -7,26 +7,31 @@
   },
   {
     "url": "https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20TV_all/playlist.m3u8",
-    "name": "Bahrain Channel",    "category": "Bahrain",
+    "name": "Bahrain Channel",
+    "category": "Bahrain",
     "logo": "https://www.mia.gov.bh/wp-content/uploads/2018/08/MOI-PANTONE-1-300x76.png"
   },
   {
-    "name": "Bahrain International",    "category": "Bahrain",
+    "name": "Bahrain International",
+    "category": "Bahrain",
     "url": "https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20International_all/playlist.m3u8",
     "logo": "https://www.mia.gov.bh/wp-content/uploads/2018/08/MOI-PANTONE-1-300x76.png"
   },
   {
-    "name": "Bahreen Lol",    "category": "Bahrain",
+    "name": "Bahreen Lol",
+    "category": "Bahrain",
     "url": "https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Lawal_all/playlist.m3u8",
     "logo": "https://www.mia.gov.bh/wp-content/uploads/2018/08/MOI-PANTONE-1-300x76.png"
   },
   {
-    "name": "Bahrain Sports 1",    "category": "Bahrain",
+    "name": "Bahrain Sports 1",
+    "category": "Bahrain",
     "logo": "https://www.mia.gov.bh/wp-content/uploads/2018/08/MOI-PANTONE-1-300x76.png",
     "url": "https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8"
   },
   {
-    "name": "Bahrain Sports 2",    "category": "Bahrain",
+    "name": "Bahrain Sports 2",
+    "category": "Bahrain",
     "logo": "https://www.mia.gov.bh/wp-content/uploads/2018/08/MOI-PANTONE-1-300x76.png",
     "url": "hhttps://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8"
   }
