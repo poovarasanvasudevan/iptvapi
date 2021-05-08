@@ -1,5 +1,23 @@
 [
   {
+    "name": "Rasi Hollywood",
+    "logo": "https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.jpg?fakeurl=1&type=.jpg",
+    "url": "http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8",
+    "category": "Local"
+  },
+  {
+    "name": "Rasi Tamil",
+    "logo": "https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.jpg?fakeurl=1&type=.jpg",
+    "url": "http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8",
+    "category": "Local"
+  },
+  {
+    "name": "Rasi Music",
+    "logo": "https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.jpg?fakeurl=1&type=.jpg",
+    "url": "http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8",
+    "category": "Local"
+  },
+  {
     "name": "Vaanoviya TV",
     "url": "https://stream1.playbox.co.in:1936/vaanoviyatv/vaanoviyatv/playlist.m3u8",
     "logo": "https://content3.jdmagicbox.com/comp/vellore/c5/9999px416.x416.160927132529.g5c5/catalogue/vaanoviya-tv-network-and-ads-velapadi-vellore-advertising-agencies-gtbrjfv.jpg",
