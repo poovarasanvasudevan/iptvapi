@@ -1,93 +1,93 @@
 [
   {
     "name": "Yogaa TV",
-    "logo": "1616306258_yogaatv.png",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616306258_yogaatv.png",
     "url": "http://live.singamcloud.in:1935/yogaatv/yogaatv/playlist.m3u8",
     "category": "Local"
   },
   {
     "name": "Salem Merchi TV",
-    "logo": "1616306145_salemmerchi.png",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616306145_salemmerchi.png",
     "category": "Local",
     "url": "http://stream.singamcloud.in:1935/salammerchitv/salammerchitv/playlist.m3u8"
   },
   {
     "name": "T TV",
     "url": "http://singamcloud.in:1935/ttv/ttv/playlist.m3u8",
-    "logo": "1616318214_ttv.png",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616318214_ttv.png",
     "category": "Local"
   },
   {
     "name": "Purple TV",
     "url": "http://singamcloud.in:1935/purpletv/purpletv/playlist.m3u8",
     "category": "Local",
-    "logo": "1616318402_perpole.png"
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616318402_perpole.png"
   },
   {
     "name": "SMCV TV",
     "url": "http://singamcloud.in:1935/smcvtv/smcvtv/playlist.m3u8",
     "category": "Local",
-    "logo": "1616318924_smcvtv.png"
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616318924_smcvtv.png"
   },
   {
     "name": "SSS 4K",
-    "logo": "1616319296_ssstv.png",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616319296_ssstv.png",
     "url": "http://stream.singamcloud.in:1935/ssshd/ssshd/playlist.m3u8",
     "category": "Local"
   },
   {
     "name": "Shalini MAX",
     "url": "http://stream.singamcloud.in:1935/shalinimax/shalinimax/playlist.m3u8",
-    "logo": "1616319472_shalinimax.png",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616319472_shalinimax.png",
     "category": "Local"
   },
   {
     "name": "Vani Plus",
     "category": "Local",
     "url": "http://live.singamcloud.in:1935/vanipluse/vanipluse/playlist.m3u8",
-    "logo": "1616319770_vaniplus.png"
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616319770_vaniplus.png"
   },
   {
     "name": "Anu TV",
     "url": "http://live.singamcloud.in:1935/anutv/anutv/playlist.m3u8",
-    "logo": "1616320869_anutv.png",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616320869_anutv.png",
     "category": "Local"
   },
   {
     "name": "Hello TV",
     "url": "http://stream.singamcloud.in:1935/hellotv/hellotv/playlist.m3u8",
-    "logo": "1616321019_hellotv.png",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616321019_hellotv.png",
     "category": "Local"
   },
   {
     "name": "VVN TV",
     "url": "http://stream.singamcloud.in:1935/panchayathutv/panchayathutv/playlist.m3u8",
-    "logo": "1616321508_vvn.png",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616321508_vvn.png",
     "category": "Local"
   },
   {
     "name": "KRP TV",
     "url": "http://live.singamcloud.in:1935/krptv/krptv/playlist.m3u8",
-    "logo": "1616333373_kprtv.png",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616333373_kprtv.png",
     "category": "Local"
   },
   {
     "name": "Tamil Star TV",
     "url": "http://stream.singamcloud.in:1935/tamilstartv/tamilstartv/playlist.m3u8",
     "category": "Local",
-    "logo": "1616333880_tamilstar.png"
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616333880_tamilstar.png"
   },
   {
     "name": "Roja TV",
     "category": "Local",
     "url": "http://stream.singamcloud.in:1935/rojatv/rojatv/playlist.m3u8",
-    "logo": "1616429439_ROJATV.png"
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616429439_ROJATV.png"
   },
   {
     "name": "MSN TV",
     "category": "Local",
     "url": "http://media.7starcloud.com:1935/msntv/live/playlist.m3u8",
-    "logo": "1616429873_msntv.png"
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616429873_msntv.png"
   },
   {
     "name": "Hai TV",
@@ -105,7 +105,7 @@
     "name": "IZZAth TV",
     "url": "http://stream.singamcloud.in:1935/izzathtv/izzathtv/playlist.m3u8",
     "category": "Religious",
-    "logo": "1616321696_izzath.png"
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616321696_izzath.png"
   },
   {
     "name": "Saran TV",
