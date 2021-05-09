@@ -1,5 +1,17 @@
 [
   {
+    "name": "Puthuyugam",
+    "category": "International",
+    "url": "http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616435069_puthugam.png",
+  },
+  {
+    "name": "DD Podhigai",
+    "url": "https://m-c15-j2apps.s.llnwi.net/hls/0250.DDPodhigai.in_360p/index.m3u8",
+    "category": "International",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616435259_DDpothigai.png"
+  },
+  {
     "name": "Tamil Three",
     "category": "International",
     "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1603524158_1598791651_DD Sportscopy.jpg",

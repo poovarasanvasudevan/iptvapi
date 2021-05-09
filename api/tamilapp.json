@@ -80,6 +80,24 @@
       "category": "Local"
     },
     {
+      "name": "Tamilan",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616434820_tamilan.png",
+      "url": "http://media.akamaicdn.us:1935/tamilan/tamilan/playlist.m3u8",
+      "category": "Entertainment"
+    },
+    {
+      "name": "Puthuyugam",
+      "category": "International",
+      "url": "http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616435069_puthugam.png",
+    },
+    {
+      "name": "DD Podhigai",
+      "url": "https://m-c15-j2apps.s.llnwi.net/hls/0250.DDPodhigai.in_360p/index.m3u8",
+      "category": "International",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616435259_DDpothigai.png"
+    },
+    {
       "name": "Tamil Star TV",
       "url": "http://stream.singamcloud.in:1935/tamilstartv/tamilstartv/playlist.m3u8",
       "category": "Local",

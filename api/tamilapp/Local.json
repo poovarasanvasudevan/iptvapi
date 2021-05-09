@@ -689,12 +689,7 @@
     "logo": "http://jenohdtv.gq/wp-content/uploads/2019/11/Pappers-TV.png",
     "name": "Peppers TV"
   },
-  {
-    "url": "http://versewsa.pc.cdn.bitgravity.com:80/versewsa/live/puthiyathalaimurai.smil/chunklist.m3u8",
-    "category": "Local",
-    "logo": "http://jenohdtv.gq/wp-content/uploads/2019/11/Puthiya-Thalaimuri.png",
-    "name": "Puthiyathalaimurai TV"
-  },
+
   {
     "url": "http://account12.livebox.co.in/ntvhls/ntv.m3u8",
     "category": "Local",

@@ -42,6 +42,12 @@
     "url": "https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8"
   },
   {
+    "url": "http://versewsa.pc.cdn.bitgravity.com:80/versewsa/live/puthiyathalaimurai.smil/chunklist.m3u8",
+    "category": "News",
+    "logo": "http://jenohdtv.gq/wp-content/uploads/2019/11/Puthiya-Thalaimuri.png",
+    "name": "Puthiyathalaimurai TV"
+  },
+  {
     "name": "Malaimurasu",
     "url": "https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8",
     "logo": "https://i.imgur.com/uFiHtQX.png",
@@ -100,5 +106,11 @@
     "category": "News",
     "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602587877_1598793237_TV9copy.jpg",
     "url": "http://103.199.161.254/Content/tv9telungu/Live/Channel(TV9Telungu)/index.m3u8"
+  },
+  {
+    "name": "Velicham",
+    "url": "https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8",
+    "logo": "https://i.imgur.com/YeR3mm9.png",
+    "category": "Entertainment"
   }
 ]
