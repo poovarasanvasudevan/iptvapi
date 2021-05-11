@@ -2,9 +2,9 @@ const fs = require('fs')
 const path = require('path')
 
 
-let rawdata = fs.readFileSync(path.join(__dirname, 'api', 'arabictv1', 'egypt.json'));
+let rawdata = fs.readFileSync(path.join(__dirname, 'api', 'language', 'ara.json'));
 let arabiclanguage = JSON.parse(rawdata);
-
+var full = []
 var arabiccat = {};
 arabiclanguage.forEach(d => {
   if (d.category === null) {
@@ -14,6 +14,7 @@ arabiclanguage.forEach(d => {
       arabiccat['Other'] = []
       arabiccat['Other'].push(d)
     }
+  } else if (d.category === "News" || d.category === "Documentary" || d.category === "Other" || d.category === 'Religious') {
   } else {
     if (arabiccat.hasOwnProperty(d.category)) {
       arabiccat[d.category].push(d)
@@ -21,9 +22,9 @@ arabiclanguage.forEach(d => {
       arabiccat[d.category] = []
       arabiccat[d.category].push(d)
     }
+    full.push(d)
   }
 })
-
 
 var b = []
 Object.keys(arabiccat).forEach(k => {
@@ -32,4 +33,4 @@ Object.keys(arabiccat).forEach(k => {
 })
 
 fs.writeFileSync(path.join(__dirname, 'api', 'arabictv', 'index.json'), JSON.stringify(b));
-fs.writeFileSync(path.join(__dirname, 'api', 'arabictv', 'full.json'), JSON.stringify(arabiclanguage));
+fs.writeFileSync(path.join(__dirname, 'api', 'arabictv', 'full.json'), JSON.stringify(full));
