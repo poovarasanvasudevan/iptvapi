@@ -14,7 +14,7 @@ arabiclanguage.forEach(d => {
       arabiccat['Other'] = []
       arabiccat['Other'].push(d)
     }
-  } else if (d.category === "News" || d.category === "Documentary" || d.category === "Other" || d.category === 'Religious') {
+  } else if (d.category === "News" || d.category === "Documentary" || d.category === "Other" || d.category === 'Religious'|| d.category === 'General') {
   } else {
     if (arabiccat.hasOwnProperty(d.category)) {
       arabiccat[d.category].push(d)
@@ -28,8 +28,10 @@ arabiclanguage.forEach(d => {
 
 var b = []
 Object.keys(arabiccat).forEach(k => {
-  fs.writeFileSync(path.join(__dirname, 'api', 'arabictv', `${k}.json`), JSON.stringify(arabiccat[k]));
-  b.push({"file": `${k}.json`, 'title': k})
+  if(k !=='Other') {
+    fs.writeFileSync(path.join(__dirname, 'api', 'arabictv', `${k}.json`), JSON.stringify(arabiccat[k]));
+    b.push({"file": `${k}.json`, 'title': k})
+  }
 })
 
 fs.writeFileSync(path.join(__dirname, 'api', 'arabictv', 'index.json'), JSON.stringify(b));

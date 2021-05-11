@@ -1,1 +1,434 @@
-[{"name":"Cartoon Network Arabic","logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png","url":"https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8","category":"Kids","languages":[{"code":"ara","name":"Arabic"}],"countries":[{"code":"ae","name":"United Arab Emirates"},{"code":"bh","name":"Bahrain"},{"code":"dj","name":"Djibouti"},{"code":"dz","name":"Algeria"},{"code":"eg","name":"Egypt"},{"code":"eh","name":"Western Sahara"},{"code":"iq","name":"Iraq"},{"code":"ir","name":"Iran"},{"code":"jo","name":"Jordan"},{"code":"kw","name":"Kuwait"},{"code":"lb","name":"Lebanon"},{"code":"ly","name":"Libya"},{"code":"ma","name":"Morocco"},{"code":"om","name":"Oman"},{"code":"ps","name":"Palestine"},{"code":"qa","name":"Qatar"},{"code":"sa","name":"Saudi Arabia"},{"code":"sd","name":"Sudan"},{"code":"sy","name":"Syria"},{"code":"tn","name":"Tunisia"},{"code":"ye","name":"Yemen"}],"tvg":{"id":"CartoonNetworkArabic.us","name":"Cartoon Network Arabic","url":null}},{"name":"Gulli Bil Arabi","logo":"https://www.lyngsat.com/logo/tv/gg/gulli-bil-arabie.png","url":"https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/440c8a376b2049788371a8c2916887c4/index.m3u8","category":"Kids","languages":[{"code":"ara","name":"Arabic"}],"countries":[{"code":"fr","name":"France"}],"tvg":{"id":"GulliBilArabi.fr","name":"Gulli Bil Arabi","url":null}},{"name":"Majid TV","logo":"https://i.imgur.com/9Bun2IX.png","url":"https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8","category":"Kids","languages":[{"code":"ara","name":"Arabic"}],"countries":[{"code":"ae","name":"United Arab Emirates"}],"tvg":{"id":"MajidTV.ae","name":"Majid TV","url":null}},{"name":"MBC 3","logo":"https://i.imgur.com/FVNVC73.png","url":"https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8","category":"Kids","languages":[{"code":"ara","name":"Arabic"}],"countries":[{"code":"ae","name":"United Arab Emirates"},{"code":"bh","name":"Bahrain"},{"code":"dj","name":"Djibouti"},{"code":"dz","name":"Algeria"},{"code":"eg","name":"Egypt"},{"code":"iq","name":"Iraq"},{"code":"jo","name":"Jordan"},{"code":"km","name":"Comoros"},{"code":"kw","name":"Kuwait"},{"code":"lb","name":"Lebanon"},{"code":"ly","name":"Libya"},{"code":"ma","name":"Morocco"},{"code":"mr","name":"Mauritania"},{"code":"om","name":"Oman"},{"code":"ps","name":"Palestine"},{"code":"qa","name":"Qatar"},{"code":"sa","name":"Saudi Arabia"},{"code":"sd","name":"Sudan"},{"code":"so","name":"Somalia"},{"code":"sy","name":"Syria"},{"code":"tn","name":"Tunisia"},{"code":"ye","name":"Yemen"}],"tvg":{"id":"MBC 3","name":"MBC 3","url":null}},{"name":"MBC 3","logo":"https://i.imgur.com/FVNVC73.png","url":"https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8","category":"Kids","languages":[{"code":"ara","name":"Arabic"}],"countries":[{"code":"ae","name":"United Arab Emirates"},{"code":"bh","name":"Bahrain"},{"code":"dj","name":"Djibouti"},{"code":"dz","name":"Algeria"},{"code":"eg","name":"Egypt"},{"code":"iq","name":"Iraq"},{"code":"jo","name":"Jordan"},{"code":"km","name":"Comoros"},{"code":"kw","name":"Kuwait"},{"code":"lb","name":"Lebanon"},{"code":"ly","name":"Libya"},{"code":"ma","name":"Morocco"},{"code":"mr","name":"Mauritania"},{"code":"om","name":"Oman"},{"code":"ps","name":"Palestine"},{"code":"qa","name":"Qatar"},{"code":"sa","name":"Saudi Arabia"},{"code":"sd","name":"Sudan"},{"code":"so","name":"Somalia"},{"code":"sy","name":"Syria"},{"code":"tn","name":"Tunisia"},{"code":"ye","name":"Yemen"}],"tvg":{"id":"MBC 3","name":"MBC 3","url":null}},{"name":"Rotana Kids","logo":"https://rotana.net/assets/themes/TriTheme/images/channels/kids.png","url":"https://hiplayer.hibridcdn.net/t/rotana-kids.m3u8","category":"Kids","languages":[{"code":"ara","name":"Arabic"}],"countries":[{"code":"sa","name":"Saudi Arabia"}],"tvg":{"id":"RotanaKids.sa","name":"Rotana Kids","url":null}},{"name":"Rotana Kids","logo":"https://rotana.net/assets/themes/TriTheme/images/channels/kids.png","url":"https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8","category":"Kids","languages":[{"code":"ara","name":"Arabic"}],"countries":[{"code":"sa","name":"Saudi Arabia"}],"tvg":{"id":"RotanaKids.sa","name":"Rotana Kids","url":null}},{"name":"Spacetoon","logo":"https://i.imgur.com/RzPOwqI.png","url":"https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8","category":"Kids","languages":[{"code":"ara","name":"Arabic"}],"countries":[{"code":"sy","name":"Syria"}],"tvg":{"id":"Spacetoon.sy","name":"Spacetoon","url":null}},{"name":"Spacetoon","logo":"https://i.imgur.com/RzPOwqI.png","url":"https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8","category":"Kids","languages":[{"code":"ara","name":"Arabic"}],"countries":[{"code":"sy","name":"Syria"}],"tvg":{"id":"Spacetoon.sy","name":"Spacetoon","url":null}}]
+[
+  {
+    "name": "Cartoon Network Arabic",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png",
+    "url": "https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8",
+    "category": "Kids",
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ae",
+        "name": "United Arab Emirates"
+      },
+      {
+        "code": "bh",
+        "name": "Bahrain"
+      },
+      {
+        "code": "dj",
+        "name": "Djibouti"
+      },
+      {
+        "code": "dz",
+        "name": "Algeria"
+      },
+      {
+        "code": "eg",
+        "name": "Egypt"
+      },
+      {
+        "code": "eh",
+        "name": "Western Sahara"
+      },
+      {
+        "code": "iq",
+        "name": "Iraq"
+      },
+      {
+        "code": "ir",
+        "name": "Iran"
+      },
+      {
+        "code": "jo",
+        "name": "Jordan"
+      },
+      {
+        "code": "kw",
+        "name": "Kuwait"
+      },
+      {
+        "code": "lb",
+        "name": "Lebanon"
+      },
+      {
+        "code": "ly",
+        "name": "Libya"
+      },
+      {
+        "code": "ma",
+        "name": "Morocco"
+      },
+      {
+        "code": "om",
+        "name": "Oman"
+      },
+      {
+        "code": "ps",
+        "name": "Palestine"
+      },
+      {
+        "code": "qa",
+        "name": "Qatar"
+      },
+      {
+        "code": "sa",
+        "name": "Saudi Arabia"
+      },
+      {
+        "code": "sd",
+        "name": "Sudan"
+      },
+      {
+        "code": "sy",
+        "name": "Syria"
+      },
+      {
+        "code": "tn",
+        "name": "Tunisia"
+      },
+      {
+        "code": "ye",
+        "name": "Yemen"
+      }
+    ],
+    "tvg": {
+      "id": "CartoonNetworkArabic.us",
+      "name": "Cartoon Network Arabic",
+      "url": null
+    }
+  },
+  {
+    "name": "Gulli Bil Arabi",
+    "logo": "https://www.lyngsat.com/logo/tv/gg/gulli-bil-arabie.png",
+    "url": "https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/440c8a376b2049788371a8c2916887c4/index.m3u8",
+    "category": "Kids",
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "fr",
+        "name": "France"
+      }
+    ],
+    "tvg": {
+      "id": "GulliBilArabi.fr",
+      "name": "Gulli Bil Arabi",
+      "url": null
+    }
+  },
+  {
+    "name": "Majid TV",
+    "logo": "https://i.imgur.com/9Bun2IX.png",
+    "url": "https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8",
+    "category": "Kids",
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ae",
+        "name": "United Arab Emirates"
+      }
+    ],
+    "tvg": {
+      "id": "MajidTV.ae",
+      "name": "Majid TV",
+      "url": null
+    }
+  },
+  {
+    "name": "MBC 3",
+    "logo": "https://i.imgur.com/FVNVC73.png",
+    "url": "https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8",
+    "category": "Kids",
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ae",
+        "name": "United Arab Emirates"
+      },
+      {
+        "code": "bh",
+        "name": "Bahrain"
+      },
+      {
+        "code": "dj",
+        "name": "Djibouti"
+      },
+      {
+        "code": "dz",
+        "name": "Algeria"
+      },
+      {
+        "code": "eg",
+        "name": "Egypt"
+      },
+      {
+        "code": "iq",
+        "name": "Iraq"
+      },
+      {
+        "code": "jo",
+        "name": "Jordan"
+      },
+      {
+        "code": "km",
+        "name": "Comoros"
+      },
+      {
+        "code": "kw",
+        "name": "Kuwait"
+      },
+      {
+        "code": "lb",
+        "name": "Lebanon"
+      },
+      {
+        "code": "ly",
+        "name": "Libya"
+      },
+      {
+        "code": "ma",
+        "name": "Morocco"
+      },
+      {
+        "code": "mr",
+        "name": "Mauritania"
+      },
+      {
+        "code": "om",
+        "name": "Oman"
+      },
+      {
+        "code": "ps",
+        "name": "Palestine"
+      },
+      {
+        "code": "qa",
+        "name": "Qatar"
+      },
+      {
+        "code": "sa",
+        "name": "Saudi Arabia"
+      },
+      {
+        "code": "sd",
+        "name": "Sudan"
+      },
+      {
+        "code": "so",
+        "name": "Somalia"
+      },
+      {
+        "code": "sy",
+        "name": "Syria"
+      },
+      {
+        "code": "tn",
+        "name": "Tunisia"
+      },
+      {
+        "code": "ye",
+        "name": "Yemen"
+      }
+    ],
+    "tvg": {
+      "id": "MBC 3",
+      "name": "MBC 3",
+      "url": null
+    }
+  },
+  {
+    "name": "MBC 3",
+    "logo": "https://i.imgur.com/FVNVC73.png",
+    "url": "https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8",
+    "category": "Kids",
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ae",
+        "name": "United Arab Emirates"
+      },
+      {
+        "code": "bh",
+        "name": "Bahrain"
+      },
+      {
+        "code": "dj",
+        "name": "Djibouti"
+      },
+      {
+        "code": "dz",
+        "name": "Algeria"
+      },
+      {
+        "code": "eg",
+        "name": "Egypt"
+      },
+      {
+        "code": "iq",
+        "name": "Iraq"
+      },
+      {
+        "code": "jo",
+        "name": "Jordan"
+      },
+      {
+        "code": "km",
+        "name": "Comoros"
+      },
+      {
+        "code": "kw",
+        "name": "Kuwait"
+      },
+      {
+        "code": "lb",
+        "name": "Lebanon"
+      },
+      {
+        "code": "ly",
+        "name": "Libya"
+      },
+      {
+        "code": "ma",
+        "name": "Morocco"
+      },
+      {
+        "code": "mr",
+        "name": "Mauritania"
+      },
+      {
+        "code": "om",
+        "name": "Oman"
+      },
+      {
+        "code": "ps",
+        "name": "Palestine"
+      },
+      {
+        "code": "qa",
+        "name": "Qatar"
+      },
+      {
+        "code": "sa",
+        "name": "Saudi Arabia"
+      },
+      {
+        "code": "sd",
+        "name": "Sudan"
+      },
+      {
+        "code": "so",
+        "name": "Somalia"
+      },
+      {
+        "code": "sy",
+        "name": "Syria"
+      },
+      {
+        "code": "tn",
+        "name": "Tunisia"
+      },
+      {
+        "code": "ye",
+        "name": "Yemen"
+      }
+    ],
+    "tvg": {
+      "id": "MBC 3",
+      "name": "MBC 3",
+      "url": null
+    }
+  },
+  {
+    "name": "Rotana Kids",
+    "logo": "https://rotana.net/assets/themes/TriTheme/images/channels/kids.png",
+    "url": "https://hiplayer.hibridcdn.net/t/rotana-kids.m3u8",
+    "category": "Kids",
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "sa",
+        "name": "Saudi Arabia"
+      }
+    ],
+    "tvg": {
+      "id": "RotanaKids.sa",
+      "name": "Rotana Kids",
+      "url": null
+    }
+  },
+  {
+    "name": "Rotana Kids",
+    "logo": "https://rotana.net/assets/themes/TriTheme/images/channels/kids.png",
+    "url": "https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8",
+    "category": "Kids",
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "sa",
+        "name": "Saudi Arabia"
+      }
+    ],
+    "tvg": {
+      "id": "RotanaKids.sa",
+      "name": "Rotana Kids",
+      "url": null
+    }
+  },
+  {
+    "name": "Spacetoon",
+    "logo": "https://i.imgur.com/RzPOwqI.png",
+    "url": "https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8",
+    "category": "Kids",
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "sy",
+        "name": "Syria"
+      }
+    ],
+    "tvg": {
+      "id": "Spacetoon.sy",
+      "name": "Spacetoon",
+      "url": null
+    }
+  }
+]
