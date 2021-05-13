@@ -220,5 +220,11 @@
     "stream": "http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8",
     "title": "Twenty Four News",
     "logo": "https://i.imgur.com/eS2fVDh.png"
+  },
+  {
+    "url": "http://tv.10dailythings.com/country/in",
+    "stream": "https://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8",
+    "title": "Kumudy TV",
+    "logo": "http://tv.10dailythings.com/images/channels/IN/kaumudy-tv-360p/normal.png"
   }
 ]

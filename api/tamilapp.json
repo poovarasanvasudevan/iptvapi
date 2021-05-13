@@ -1,15 +1,42 @@
 {
   "showLogo": true,
   "channels": [
-
-
+    {
+      "name": "Tharun Movies",
+      "url": "https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/tharunmovies_low/index.m3u8",
+      "category": "Movies",
+      "logo": "https://static.ultramaxnet.com/images/thiru_tv_logo.jpeg"
+    },
+    {
+      "name": "Thiru TV",
+      "url": "https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/thirutv_low/index.m3u8",
+      "category": "Local",
+      "logo": "https://static.ultramaxnet.com/images/thiru_tv_logo.jpeg"
+    },
+    {
+      "name": "Anuman TV",
+      "url": "http://media.7starcloud.com:1935/harimedia/anumantv/playlist.m3u8",
+      "logo": "https://harisofttecch.in/tamiltvlive//upload/1602562865_1596280518_AnumanTV.png",
+      "category": "Local"
+    },
+    {
+      "name": "POP TV",
+      "url": "http://media.7starcloud.com:1935/harimedia/poptv/playlist.m3u8",
+      "category": "Local",
+      "logo": "https://harisofttecch.in/tamiltvlive//upload/1618036009_poptv%20copy.jpg"
+    },
+    {
+      "name": "Durais TV",
+      "url": "http://media.7starcloud.com:1935/harimedia/duraistv/playlist.m3u8",
+      "category": "Local",
+      "logo": "https://harisofttecch.in/tamiltvlive//upload/1617258979_01.png"
+    },
     {
       "name": "Yogaa TV",
       "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616306258_yogaatv.png",
       "url": "http://live.singamcloud.in:1935/yogaatv/yogaatv/playlist.m3u8",
       "category": "Local"
     },
-
     {
       "name": "Salem Merchi TV",
       "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616306145_salemmerchi.png",
@@ -22,7 +49,6 @@
       "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616318214_ttv.png",
       "category": "Local"
     },
-
     {
       "name": "Purple TV",
       "url": "http://singamcloud.in:1935/purpletv/purpletv/playlist.m3u8",
@@ -41,14 +67,12 @@
       "url": "http://stream.singamcloud.in:1935/ssshd/ssshd/playlist.m3u8",
       "category": "Local"
     },
-
     {
       "name": "Shalini MAX",
       "url": "http://stream.singamcloud.in:1935/shalinimax/shalinimax/playlist.m3u8",
       "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616319472_shalinimax.png",
       "category": "Local"
     },
-
     {
       "name": "Vani Plus",
       "category": "Local",
@@ -89,7 +113,7 @@
       "name": "Puthuyugam",
       "category": "International",
       "url": "http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8",
-      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616435069_puthugam.png",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616435069_puthugam.png"
     },
     {
       "name": "DD Podhigai",
@@ -211,7 +235,6 @@
       "logo": "http://nammaoorutv.com/dashboard/upicons/Jay tv.png",
       "category": "Local"
     },
-
     {
       "name": "JCV TV",
       "url": "http://account11.livebox.co.in/jcvtvhls/live.m3u8",
@@ -314,7 +337,6 @@
       "url": "http://mediastreamer.7starcloud.com:1935/arktv/arktv/playlist.m3u8",
       "logo": "http://nammaoorutv.com/dashboard/upicons/images (32).png"
     },
-
     {
       "name": "THOPHONY TV",
       "category": "Religious",
@@ -405,7 +427,6 @@
       "url": "http://7starcloud.com:1935/live/arunaitv/playlist.m3u8",
       "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG85725.png"
     },
-
     {
       "name": "ARK TV",
       "category": "Local",
@@ -454,7 +475,6 @@
       "url": "https://jk3lzaj4dw79-hls-live.5centscdn.com/stream/508c75c8507a2ae5223dfd2faeb98122.sdp/chunks.m3u8",
       "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG74090.png"
     },
-
     {
       "name": "Iniyan TV",
       "category": "Religious",

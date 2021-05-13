@@ -1,5 +1,29 @@
 [
   {
+    "name": "Thiru TV",
+    "url": "https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/thirutv_low/index.m3u8",
+    "category": "Local",
+    "logo": "https://static.ultramaxnet.com/images/thiru_tv_logo.jpeg"
+  },
+  {
+    "name": "Anuman TV",
+    "url": "http://media.7starcloud.com:1935/harimedia/anumantv/playlist.m3u8",
+    "logo": "https://harisofttecch.in/tamiltvlive//upload/1602562865_1596280518_AnumanTV.png",
+    "category": "Local"
+  },
+  {
+    "name": "POP TV",
+    "url": "http://media.7starcloud.com:1935/harimedia/poptv/playlist.m3u8",
+    "category": "Local",
+    "logo": "https://harisofttecch.in/tamiltvlive//upload/1618036009_poptv%20copy.jpg"
+  },
+  {
+    "name": "Durais TV",
+    "url": "http://media.7starcloud.com:1935/harimedia/duraistv/playlist.m3u8",
+    "category": "Local",
+    "logo": "https://harisofttecch.in/tamiltvlive//upload/1617258979_01.png"
+  },
+  {
     "name": "Yogaa TV",
     "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616306258_yogaatv.png",
     "url": "http://live.singamcloud.in:1935/yogaatv/yogaatv/playlist.m3u8",

@@ -1,5 +1,11 @@
 [
   {
+    "name": "Tharun Movies",
+    "url": "https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/tharunmovies_low/index.m3u8",
+    "category": "Movies",
+    "logo": "https://static.ultramaxnet.com/images/thiru_tv_logo.jpeg"
+  },
+  {
     "name": "ACN Cinema",
     "url": "http://ammacable.com:1935/acn/acncinema/playlist.m3u8",
     "logo": null,
