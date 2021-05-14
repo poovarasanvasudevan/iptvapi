@@ -2,6 +2,12 @@
   "showLogo": true,
   "channels": [
     {
+      "name": "Phoenix TV",
+      "url": "http://198.144.149.82:8080/NOTV/PHOENIXTV/index.m3u8?token=GTR",
+      "category": "Local",
+      "logo": "https://play-lh.googleusercontent.com/FCr0acxB9WQpWjoPPNwCxfy8Y9RMSl2Wb4r5DVO-S4FdTzirszD0MHRA46D_o8cuEXxA=s180-rw"
+    },
+    {
       "name": "Annai TV",
       "url": "http://198.144.149.82:8080/NOTV/ANNAITV/index.m3u8?token=GTR",
       "category": "Local",
