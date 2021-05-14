@@ -1,8 +1,68 @@
 [
   {
-    "label": "Local",
-    "count": 158,
+    "label": "Movies",
+    "count": 5,
     "channels": [
+      {
+        "name": "Tharun Movies",
+        "url": "https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/tharunmovies_low/index.m3u8",
+        "category": "Movies",
+        "logo": "https://static.ultramaxnet.com/images/thiru_tv_logo.jpeg"
+      },
+      {
+        "name": "K TV",
+        "category": "Movies",
+        "url": "http://uk1.zecast.com:1935/star-live/ktv/index.m3u8",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/5/57/K_TV.jpg/revision/latest?cb=20181104100739"
+      },
+      {
+        "name": "ACN Cinema",
+        "url": "http://ammacable.com:1935/acn/acncinema/playlist.m3u8",
+        "logo": null,
+        "category": "Movies"
+      },
+      {
+        "name": "Rasi Movies",
+        "logo": "https://i.imgur.com/vqtHzOL.jpg",
+        "url": "http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8",
+        "category": "Movies"
+      },
+      {
+        "name": "Santhora Short Flim",
+        "url": "http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8",
+        "logo": "https://i.imgur.com/kKFfLMd.jpg",
+        "category": "Movies"
+      }
+    ]
+  },
+  {
+    "label": "Local",
+    "count": 160,
+    "channels": [
+      {
+        "name": "Thiru TV",
+        "url": "https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/thirutv_low/index.m3u8",
+        "category": "Local",
+        "logo": "https://static.ultramaxnet.com/images/thiru_tv_logo.jpeg"
+      },
+      {
+        "name": "Anuman TV",
+        "url": "http://media.7starcloud.com:1935/harimedia/anumantv/playlist.m3u8",
+        "logo": "https://harisofttecch.in/tamiltvlive//upload/1602562865_1596280518_AnumanTV.png",
+        "category": "Local"
+      },
+      {
+        "name": "POP TV",
+        "url": "http://media.7starcloud.com:1935/harimedia/poptv/playlist.m3u8",
+        "category": "Local",
+        "logo": "https://harisofttecch.in/tamiltvlive//upload/1618036009_poptv%20copy.jpg"
+      },
+      {
+        "name": "Durais TV",
+        "url": "http://media.7starcloud.com:1935/harimedia/duraistv/playlist.m3u8",
+        "category": "Local",
+        "logo": "https://harisofttecch.in/tamiltvlive//upload/1617258979_01.png"
+      },
       {
         "name": "Yogaa TV",
         "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616306258_yogaatv.png",
@@ -382,12 +442,6 @@
         "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG19021.png"
       },
       {
-        "name": "Velur TV",
-        "category": "Local",
-        "url": "http://velurtv.7starcloud.com:1935/velurtv/livestream/playlist.m3u8",
-        "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG19021.png"
-      },
-      {
         "name": "Bass TV",
         "category": "Local",
         "url": "http://hdserver.7starcloud.com:1935/basstv/live/playlist.m3u8",
@@ -670,12 +724,6 @@
         "name": "Peppers TV"
       },
       {
-        "url": "http://versewsa.pc.cdn.bitgravity.com:80/versewsa/live/puthiyathalaimurai.smil/chunklist.m3u8",
-        "category": "Local",
-        "logo": "http://jenohdtv.gq/wp-content/uploads/2019/11/Puthiya-Thalaimuri.png",
-        "name": "Puthiyathalaimurai TV"
-      },
-      {
         "url": "http://account12.livebox.co.in/ntvhls/ntv.m3u8",
         "category": "Local",
         "name": "Raagam HD",
@@ -954,13 +1002,49 @@
     ]
   },
   {
+    "label": "International",
+    "count": 4,
+    "channels": [
+      {
+        "name": "Puthuyugam",
+        "category": "International",
+        "url": "http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8",
+        "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616435069_puthugam.png"
+      },
+      {
+        "name": "DD Podhigai",
+        "url": "https://m-c15-j2apps.s.llnwi.net/hls/0250.DDPodhigai.in_360p/index.m3u8",
+        "category": "International",
+        "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616435259_DDpothigai.png"
+      },
+      {
+        "name": "Tamil Three",
+        "category": "International",
+        "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1603524158_1598791651_DD Sportscopy.jpg",
+        "url": "https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
+      },
+      {
+        "name": "TVI TV",
+        "category": "International",
+        "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1597394379_tvicopy.jpg",
+        "url": "http://89.187.162.89/Capital_TV-LIVE/index.m3u8"
+      }
+    ]
+  },
+  {
     "label": "Entertainment",
-    "count": 14,
+    "count": 15,
     "channels": [
       {
         "name": "Thalapathy TV",
         "url": "http://live.singamcloud.in:1935/thalapathytv/thalapathytv/playlist.m3u8",
         "logo": "https://i.imgur.com/0ApLXUi.png",
+        "category": "Entertainment"
+      },
+      {
+        "name": "Tamilan",
+        "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616434820_tamilan.png",
+        "url": "http://media.akamaicdn.us:1935/tamilan/tamilan/playlist.m3u8",
         "category": "Entertainment"
       },
       {
@@ -1177,7 +1261,7 @@
   },
   {
     "label": "News",
-    "count": 17,
+    "count": 18,
     "channels": [
       {
         "name": "Lotus News",
@@ -1264,6 +1348,12 @@
         "url": "http://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist.m3u8"
       },
       {
+        "url": "http://versewsa.pc.cdn.bitgravity.com:80/versewsa/live/puthiyathalaimurai.smil/chunklist.m3u8",
+        "category": "News",
+        "logo": "http://jenohdtv.gq/wp-content/uploads/2019/11/Puthiya-Thalaimuri.png",
+        "name": "Puthiyathalaimurai TV"
+      },
+      {
         "name": "Sathiyam TV",
         "category": "News",
         "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602589120_1598779936_sathiyamlogo.png",
@@ -1280,36 +1370,6 @@
         "category": "News",
         "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602587877_1598793237_TV9copy.jpg",
         "url": "http://103.199.161.254/Content/tv9telungu/Live/Channel(TV9Telungu)/index.m3u8"
-      }
-    ]
-  },
-  {
-    "label": "Movies",
-    "count": 4,
-    "channels": [
-      {
-        "name": "K TV",
-        "category": "Movies",
-        "url": "http://uk1.zecast.com:1935/star-live/ktv/index.m3u8",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/5/57/K_TV.jpg/revision/latest?cb=20181104100739"
-      },
-      {
-        "name": "ACN Cinema",
-        "url": "http://ammacable.com:1935/acn/acncinema/playlist.m3u8",
-        "logo": null,
-        "category": "Movies"
-      },
-      {
-        "name": "Rasi Movies",
-        "logo": "https://i.imgur.com/vqtHzOL.jpg",
-        "url": "http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8",
-        "category": "Movies"
-      },
-      {
-        "name": "Santhora Short Flim",
-        "url": "http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8",
-        "logo": "https://i.imgur.com/kKFfLMd.jpg",
-        "category": "Movies"
       }
     ]
   },
@@ -1392,7 +1452,7 @@
     ]
   },
   {
-    "label": "Other",
+    "label": "Others",
     "count": 8,
     "channels": [
       {
@@ -1442,24 +1502,6 @@
         "url": "http://95.216.167.183:5080/LiveApp/streams/443106610169904881506470.m3u8",
         "logo": "http://mhdtvworld.com/wp-content/uploads/2019/03/watamantv.png",
         "category": null
-      }
-    ]
-  },
-  {
-    "label": "International",
-    "count": 2,
-    "channels": [
-      {
-        "name": "Tamil Three",
-        "category": "International",
-        "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1603524158_1598791651_DD Sportscopy.jpg",
-        "url": "https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
-      },
-      {
-        "name": "TVI TV",
-        "category": "International",
-        "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1597394379_tvicopy.jpg",
-        "url": "http://89.187.162.89/Capital_TV-LIVE/index.m3u8"
       }
     ]
   }
