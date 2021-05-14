@@ -2,6 +2,12 @@
   "showLogo": true,
   "channels": [
     {
+      "name": "Annai TV",
+      "url": "http://kairacloud.in/annaiTV/annaiTVPassword.m3u8",
+      "category": "Local",
+      "logo": "https://static.ultramaxnet.com/images/thiru_tv_logo.jpeg"
+    },
+    {
       "name": "Tharun Movies",
       "url": "https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/tharunmovies_low/index.m3u8",
       "category": "Movies",
