@@ -3,7 +3,7 @@
   "channels": [
     {
       "name": "Annai TV",
-      "url": "http://kairacloud.in/annaiTV/annaiTVPassword.m3u8",
+      "url": "http://198.144.149.82:8080/NOTV/ANNAITV/index.m3u8?token=GTR",
       "category": "Local",
       "logo": "https://static.ultramaxnet.com/images/thiru_tv_logo.jpeg"
     },
