@@ -1,5 +1,35 @@
 [
   {
+    "name": "MM TV",
+    "url": "http://198.144.149.82:8080/NOTV/MMTV/index.m3u8?token=GTR",
+    "category": "Local",
+    "logo":"https://play-lh.googleusercontent.com/mPyV_zu5RklUrVQtCR345XwLFN5mkB3OYADq40MRja_dByhqcNHxjXACwy4-hV5KmRE=s180-rw"
+  },
+  {
+    "name": "Vel TV",
+    "url": "http://198.144.149.82:8080/NOTV/VELTV/index.m3u8?token=GTR",
+    "category": "Local",
+    "logo": "https://play-lh.googleusercontent.com/jNhg9VeAazuUs-hpME0Esa-wd8y0LMFEkLV91sQDr8P4P_-yQqRaMkx5wyUjEAsLl1qT=s180-rw"
+  },
+  {
+    "name": "ARUL TV",
+    "category": "Local",
+    "url": "http://198.144.149.82:8080/NOTV/ARULTV/index.m3u8?token=GTR",
+    "logo": "https://play-lh.googleusercontent.com/OPZyAGew-kpXvzlnxRY5JWtnQLi1WEdBVeDYhHvZlkM6mmHOTy9c2m2Y0MpW8mA0Ovw=s180-rw"
+  },
+  {
+    "name": "N TV Theni",
+    "category": "Local",
+    "url": "http://198.144.149.82:8080/NOTV/NTV/index.m3u8?token=GTR",
+    "logo": "https://play-lh.googleusercontent.com/k3l_hXhANBbbdlTbOh-KYxpBtcxUrCM5JHIMiBu6JIXZ3_Nrg_WNG824ne1YNr6vMYM=s180-rw"
+  },
+  {
+    "name": "AM TV",
+    "category": "Local",
+    "url": "http://198.144.149.82:8080/NOTV/AMTV/index.m3u8?token=GTR",
+    "logo": "https://play-lh.googleusercontent.com/jQByRmyu-l1KW4BvpyGrGal4LJZoMo0Jy5LtI9GHS25GTHCIp6VC5ZYme4eMhrLA0VsU=s180-rw"
+  },
+  {
     "name": "JM TV",
     "category": "Local",
     "url": "http://198.144.149.82:8080/NOTV/JMTV/index.m3u8?token=GTR",
