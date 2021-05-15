@@ -2,6 +2,24 @@
   "showLogo": true,
   "channels": [
     {
+      "name": "Vinmeen TV",
+      "url": "http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8",
+      "category": "Religious",
+      "logo": "https://image.winudf.com/v2/image1/Y29tLnlhYWwuVmlubWVlbk11c2ljX3NjcmVlbl81XzE1NzgxNjMyMTZfMDU0/screen-5.jpg?fakeurl=1&type=.jpg"
+    },
+    {
+      "name": "Surya TV HD",
+      "url": "http://account16.livebox.co.in/suriyatvcglhls/live.m3u8",
+      "category": "Local",
+      "logo": "https://content3.jdmagicbox.com/comp/thoothukudi/c7/9999px461.x461.150810103016.e9c7/catalogue/surya-tv-private-local-channel-ettayapuram-road-thoothukudi-cable-tv-advertising-agencies-5m9m2awcr9.jpg?clr=663900"
+    },
+    {
+      "name": "Nakkubetta Ooty TV",
+      "url": "http://nakkubettatv.livebox.co.in/nbtvhls/nbtv.m3u8",
+      "category": "Local",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTOroe9NNojrhfiBvTW_J-xGyX8BUWJvijXodAcaDX32bt3WrWncmhAOcm2Is9jSFIHJY&usqp=CAU"
+    },
+    {
       "name": "MM TV",
       "url": "http://198.144.149.82:8080/NOTV/MMTV/index.m3u8?token=GTR",
       "category": "Local",
@@ -70,7 +88,7 @@
     {
       "name": "PSALM TV",
       "url": "http://198.144.149.82:8080/NOTV/PSALMTV/index.m3u8?token=GTR",
-      "category": "Regional",
+      "category": "Religious",
       "logo": "https://play-lh.googleusercontent.com/0o97L04fjgiarfcbfvBxhiBq2GPEovA8xxvrQA2PhgdJpmwtLkCLTlc9tSpsFnzFycA=s180-rw"
     },
     {

@@ -1,5 +1,11 @@
 [
   {
+    "name": "Vinmeen TV",
+    "url": "http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8",
+    "category": "Religious",
+    "logo": "https://image.winudf.com/v2/image1/Y29tLnlhYWwuVmlubWVlbk11c2ljX3NjcmVlbl81XzE1NzgxNjMyMTZfMDU0/screen-5.jpg?fakeurl=1&type=.jpg"
+  },
+  {
     "name": "IZZAth TV",
     "url": "http://stream.singamcloud.in:1935/izzathtv/izzathtv/playlist.m3u8",
     "category": "Religious",
