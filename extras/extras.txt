@@ -9,3 +9,11 @@ https://supersport.azureedge.net/web-assets/channels/hos/supersport-cricket-live
 ------------
 http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/chunklist_w927914309.m3u8?checkedby:iptvcat.net
 Divya
+
+
+ {
+      "name": "K TV",
+      "category": "Movies",
+      "url": "http://uk1.zecast.com:1935/star-live/ktv/index.m3u8",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/5/57/K_TV.jpg/revision/latest?cb=20181104100739"
+    },

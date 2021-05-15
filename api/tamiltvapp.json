@@ -1075,19 +1075,13 @@
   },
   {
     "label": "Movies",
-    "count": 5,
+    "count": 4,
     "channels": [
       {
         "name": "Tharun Movies",
         "url": "https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/tharunmovies_low/index.m3u8",
         "category": "Movies",
         "logo": "https://static.ultramaxnet.com/images/thiru_tv_logo.jpeg"
-      },
-      {
-        "name": "K TV",
-        "category": "Movies",
-        "url": "http://uk1.zecast.com:1935/star-live/ktv/index.m3u8",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/5/57/K_TV.jpg/revision/latest?cb=20181104100739"
       },
       {
         "name": "ACN Cinema",
@@ -1560,56 +1554,56 @@
     ]
   },
   {
-    "label": "Other",
+    "label": "Others",
     "count": 8,
     "channels": [
       {
         "name": "Kalaignar",
         "url": "http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8",
         "logo": "https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg",
-        "category": "Other"
+        "category": "Others"
       },
       {
         "name": "MK Six",
         "url": "http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8",
         "logo": "http://mhdtvworld.com/wp-content/uploads/2018/11/MK_SIX.png",
-        "category": "Other"
+        "category": "Others"
       },
       {
         "name": "MK Tunes",
         "url": "http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8",
         "logo": "http://mhdtvworld.com/wp-content/uploads/2018/11/MK_TUNES.png",
-        "category": "Other"
+        "category": "Others"
       },
       {
         "name": "Santhora TV",
         "url": "http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8",
         "logo": "https://i.imgur.com/LsacUVi.png",
-        "category": "Other"
+        "category": "Others"
       },
       {
         "name": "Santhora TV",
         "url": "http://santhoratv.zecast.net/santhoratv/santhoratv/index.m3u8",
         "logo": "https://i.imgur.com/LsacUVi.png",
-        "category": "Other"
+        "category": "Others"
       },
       {
         "name": "Tamil Vision International",
         "url": "http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8",
         "logo": "http://mhdtvworld.com/wp-content/uploads/2018/11/rsz_tamil_vision_international1.jpg",
-        "category": "Other"
+        "category": "Others"
       },
       {
         "name": "Vaanavil",
         "url": "https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8",
         "logo": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png",
-        "category": "Other"
+        "category": "Others"
       },
       {
         "name": "Vathanam TV",
         "url": "http://95.216.167.183:5080/LiveApp/streams/443106610169904881506470.m3u8",
         "logo": "http://mhdtvworld.com/wp-content/uploads/2019/03/watamantv.png",
-        "category": "Other"
+        "category": "Others"
       }
     ]
   }

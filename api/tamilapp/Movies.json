@@ -22,11 +22,5 @@
     "url": "http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8",
     "logo": "https://i.imgur.com/kKFfLMd.jpg",
     "category": "Movies"
-  },
-  {
-    "name": "K TV",
-    "category": "Movies",
-    "url": "http://uk1.zecast.com:1935/star-live/ktv/index.m3u8",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/5/57/K_TV.jpg/revision/latest?cb=20181104100739"
   }
 ]
