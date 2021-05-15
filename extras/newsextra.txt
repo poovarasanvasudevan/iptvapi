@@ -1,0 +1,3 @@
+Dinamani
+Content : #storycontent
+Image   : .AticleImg > img
