@@ -2,6 +2,78 @@
   "showLogo": true,
   "channels": [
     {
+      "name": "JM TV",
+      "category": "Local",
+      "url": "http://198.144.149.82:8080/NOTV/JMTV/index.m3u8?token=GTR",
+      "logo": "https://play-lh.googleusercontent.com/5xFHW_xzj4il2ZkE2bYBmZhdxsLm33RzaqOmklQ0LMjYqe5rNy_WWImjZDJVZvzZ6Fc=s180-rw"
+    },
+    {
+      "name": "Kanchi TV",
+      "category": "Local",
+      "url": "http://198.144.149.82:8080/NOTV/KANCHITV/index.m3u8?token=GTR",
+      "logo": "https://play-lh.googleusercontent.com/CgvOoJ4ewOfDSZi8OHbmkX6Ucxoqjt70abOuxNN1uPh3uvKnvuEhBOoZXjcCCRWOcq3J=s180-rw"
+    },
+    {
+      "name": "EZHIL TV",
+      "category": "Local",
+      "url": "http://198.144.149.82:8080/NOTV/EZHILTV/index.m3u8?token=GTR",
+      "logo": "https://play-lh.googleusercontent.com/ReC0sLVTEumA_zHAzZikfVjswWI-QiSbEhL7Nt8TCr0GDd3OVU7dK5_F23m1JhhvDqE=s180-rw"
+    },
+    {
+      "name": "KAVIN TV",
+      "category": "Local",
+      "url": "http://198.144.149.82:8080/NOTV/KAVINTV/index.m3u8?token=GTR",
+      "logo": "https://play-lh.googleusercontent.com/132rC5tXdkfjCFy1_azsNzqEjIM2uf-Ds5k7B_JmF4mgQiNEO8T3QAuowymB_TNVzg=s180-rw"
+    },
+    {
+      "name": "PCN TVee",
+      "url": "http://198.144.149.82:8080/NOTV/PCNTV/index.m3u8?token=GTR",
+      "category": "Local",
+      "logo": "https://play-lh.googleusercontent.com/TFgBLLongtYZ7s_z87pQ8IACQriWP64B1zsF_1g0BdIb9ucws5irHsJ9eC9na7DFrS4=s180-rw"
+    },
+    {
+      "name": "Vettri TV HD",
+      "url": "http://198.144.149.82:8080/NOTV/VETRITVHD/index.m3u8?token=GTR",
+      "category": "Local",
+      "logo": "https://play-lh.googleusercontent.com/-crlR57oMHsivIsNDukhrS5qsDRfeJjDkZhlF9_FQdKDAFiICd3YSamxug6G120P8w=s180-rw"
+    },
+    {
+      "name": "PSALM TV",
+      "url": "http://198.144.149.82:8080/NOTV/PSALMTV/index.m3u8?token=GTR",
+      "category": "Regional",
+      "logo": "https://play-lh.googleusercontent.com/0o97L04fjgiarfcbfvBxhiBq2GPEovA8xxvrQA2PhgdJpmwtLkCLTlc9tSpsFnzFycA=s180-rw"
+    },
+    {
+      "name": "AK TV",
+      "url": "http://198.144.149.82:8080/NOTV/AKTV/index.m3u8?token=GTR",
+      "category": "Local",
+      "logo": "https://play-lh.googleusercontent.com/JMwmLjiSKdYk0_3xWpnHx2AMC97SgBONjjXVUbHhxDSRkUsDjGmZBzTFYR22grGKqzec=s180-rw"
+    },
+    {
+      "name": "R Plus HD",
+      "url": "http://198.144.149.82:8080/NOTV/RPLUSTV/index.m3u8?token=GTR",
+      "category": "Local",
+      "logo": "https://play-lh.googleusercontent.com/V0n9jJDQba8PejGd5sFNrcAojqsdARrcjWIGrfb7J61hRFoxhPGVT0lR95tyfm4IvyzM=s180-rw"
+    },
+    {
+      "name": "JM TV",
+      "url": "http://198.144.149.82:8080/NOTV/JMTV/index.m3u8?token=GTR",
+      "category": "Local",
+      "logo": "https://yt3.ggpht.com/ytc/AAUvwnh2ghdVZCzRB54oKkUak6BW1sgwVzOiYcZeWyy9ZQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "Phoenix TV",
+      "url": "http://198.144.149.82:8080/NOTV/PHOENIXTV/index.m3u8?token=GTR",
+      "category": "Local",
+      "logo": "https://play-lh.googleusercontent.com/FCr0acxB9WQpWjoPPNwCxfy8Y9RMSl2Wb4r5DVO-S4FdTzirszD0MHRA46D_o8cuEXxA=s180-rw"
+    },
+    {
+      "name": "Annai TV",
+      "url": "http://198.144.149.82:8080/NOTV/ANNAITV/index.m3u8?token=GTR",
+      "category": "Local",
+      "logo": "https://i.ytimg.com/vi/UVoBitLcJ6Y/hqdefault_live.jpg"
+    },
+    {
       "name": "Tharun Movies",
       "url": "https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/tharunmovies_low/index.m3u8",
       "category": "Movies",

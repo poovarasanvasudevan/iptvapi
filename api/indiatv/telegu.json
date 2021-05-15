@@ -1,1 +1,62 @@
-[{"url": "https://www.mxplayer.in/live-tv/cvr-om-live-channel-2591cvromin?language=te", "logo": "https://qqcdnpictest.mxplay.com/pic/2591.CVROM.in/en/1x1/208x208/test_pic1543579789270.jpg", "title": "CVR OM", "stream": "https://m-c04-j2apps.s.llnwi.net/hls/2591.CVROM.in_480p/index.m3u8"}, {"url": "https://www.mxplayer.in/live-tv/subhavaartha-live-channel-0434subhavaarthain?language=te", "logo": "https://qqcdnpictest.mxplay.com/pic/0434.Subhavaartha.in/en/1x1/208x208/test_pic1543827303308.jpg", "title": "Subhavaartha", "stream": "https://m-c08-j2apps.s.llnwi.net/hls/0434.Subhavaartha.in_480p/index.m3u8"}, {"url": "https://www.mxplayer.in/live-tv/studio-one-plus-live-channel-2269studioonein?language=te", "logo": "https://qqcdnpictest.mxplay.com/pic/2269.StudioOne.in/en/1x1/208x208/test_pic1580125615260.jpg", "title": "Studio One Plus", "stream": "https://m-c16-j2apps.s.llnwi.net/hls/2269.StudioOne.in_480p/index.m3u8"}, {"url": "https://www.mxplayer.in/live-tv/tollywood-live-channel-1901tollywoodin?language=te", "logo": "https://qqcdnpictest.mxplay.com/pic/1901.Tollywood.in/en/1x1/208x208/test_pic1535465075607.jpg", "title": "Tollywood", "stream": "https://m-c16-j2apps.s.llnwi.net/hls/1901.Tollywood.in_480p/index.m3u8"}, {"url": "https://www.mxplayer.in/live-tv/dd-yadagiri-live-channel-2880ddyadagiriin?language=te", "logo": "https://qqcdnpictest.mxplay.com/pic/2880.DDYadagiri.in/en/1x1/208x208/test_pic1535463634327.jpg", "title": "DD Yadagiri", "stream": "https://m-c15-j2apps.s.llnwi.net/hls/2880.DDYadagiri.in_480p/index.m3u8"}, {"url": "https://www.mxplayer.in/live-tv/tv5-telugu-live-channel-0440tv5teluguin?language=te", "logo": "https://qqcdnpictest.mxplay.com/pic/0440.TV5Telugu.in/en/1x1/208x208/test_pic1542964247055.jpg", "title": "TV5 Telugu", "stream": "https://m-c01-j2apps.s.llnwi.net/hls/0440.TV5Telugu.in_480p/index.m3u8"}, {"url": "https://www.mxplayer.in/live-tv/mahaa-tv-live-channel-0515mahaatvin?language=te", "logo": "https://qqcdnpictest.mxplay.com/pic/0515.MahaaTV.in/en/1x1/208x208/test_pic1558352506850.jpg", "title": "Mahaa TV", "stream": "https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in_480p/index.m3u8"}, {"url": "https://www.mxplayer.in/live-tv/svbc-live-channel-0382svbcin?language=te", "logo": "https://qqcdnpictest.mxplay.com/pic/0382.SVBC.in/en/1x1/208x208/test_pic1558352447482.jpg", "title": "SVBC", "stream": "https://m-c048-j2apps.s.llnwi.net/hls/0382.SVBC.in_480p/index.m3u8"}, {"url": "https://www.mxplayer.in/live-tv/express-tv-live-channel-8018expresstvin?language=te", "logo": "https://qqcdnpictest.mxplay.com/pic/8018.ExpressTV.in/en/1x1/208x208/test_pic1603098016693.jpg", "title": "Express TV", "stream": "https://m-c06-j2apps.s.llnwi.net/hls/8018.ExpressTV.in_480p/index.m3u8"}]
+[
+  {
+    "url": "https://www.mxplayer.in/live-tv/cvr-om-live-channel-2591cvromin?language=te",
+    "logo": "https://qqcdnpictest.mxplay.com/pic/2591.CVROM.in/en/1x1/208x208/test_pic1543579789270.jpg",
+    "title": "CVR OM",
+    "stream": "https://m-c04-j2apps.s.llnwi.net/hls/2591.CVROM.in_480p/index.m3u8"
+  },
+  {
+    "url": "https://www.mxplayer.in/live-tv/subhavaartha-live-channel-0434subhavaarthain?language=te",
+    "logo": "https://qqcdnpictest.mxplay.com/pic/0434.Subhavaartha.in/en/1x1/208x208/test_pic1543827303308.jpg",
+    "title": "Subhavaartha",
+    "stream": "https://m-c08-j2apps.s.llnwi.net/hls/0434.Subhavaartha.in_480p/index.m3u8"
+  },
+  {
+    "url": "https://www.mxplayer.in/live-tv/studio-one-plus-live-channel-2269studioonein?language=te",
+    "logo": "https://qqcdnpictest.mxplay.com/pic/2269.StudioOne.in/en/1x1/208x208/test_pic1580125615260.jpg",
+    "title": "Studio One Plus",
+    "stream": "https://m-c16-j2apps.s.llnwi.net/hls/2269.StudioOne.in_480p/index.m3u8"
+  },
+  {
+    "url": "https://www.mxplayer.in/live-tv/tollywood-live-channel-1901tollywoodin?language=te",
+    "logo": "https://qqcdnpictest.mxplay.com/pic/1901.Tollywood.in/en/1x1/208x208/test_pic1535465075607.jpg",
+    "title": "Tollywood",
+    "stream": "https://m-c16-j2apps.s.llnwi.net/hls/1901.Tollywood.in_480p/index.m3u8"
+  },
+  {
+    "url": "https://www.mxplayer.in/live-tv/dd-yadagiri-live-channel-2880ddyadagiriin?language=te",
+    "logo": "https://qqcdnpictest.mxplay.com/pic/2880.DDYadagiri.in/en/1x1/208x208/test_pic1535463634327.jpg",
+    "title": "DD Yadagiri",
+    "stream": "https://m-c15-j2apps.s.llnwi.net/hls/2880.DDYadagiri.in_480p/index.m3u8"
+  },
+  {
+    "url": "https://www.mxplayer.in/live-tv/tv5-telugu-live-channel-0440tv5teluguin?language=te",
+    "logo": "https://qqcdnpictest.mxplay.com/pic/0440.TV5Telugu.in/en/1x1/208x208/test_pic1542964247055.jpg",
+    "title": "TV5 Telugu",
+    "stream": "https://m-c01-j2apps.s.llnwi.net/hls/0440.TV5Telugu.in_480p/index.m3u8"
+  },
+  {
+    "url": "https://www.mxplayer.in/live-tv/mahaa-tv-live-channel-0515mahaatvin?language=te",
+    "logo": "https://qqcdnpictest.mxplay.com/pic/0515.MahaaTV.in/en/1x1/208x208/test_pic1558352506850.jpg",
+    "title": "Mahaa TV",
+    "stream": "https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in_480p/index.m3u8"
+  },
+  {
+    "url": "https://www.mxplayer.in/live-tv/svbc-live-channel-0382svbcin?language=te",
+    "logo": "https://qqcdnpictest.mxplay.com/pic/0382.SVBC.in/en/1x1/208x208/test_pic1558352447482.jpg",
+    "title": "SVBC",
+    "stream": "https://m-c048-j2apps.s.llnwi.net/hls/0382.SVBC.in_480p/index.m3u8"
+  },
+  {
+    "url": "https://www.mxplayer.in/live-tv/express-tv-live-channel-8018expresstvin?language=te",
+    "logo": "https://qqcdnpictest.mxplay.com/pic/8018.ExpressTV.in/en/1x1/208x208/test_pic1603098016693.jpg",
+    "title": "Express TV",
+    "stream": "https://m-c06-j2apps.s.llnwi.net/hls/8018.ExpressTV.in_480p/index.m3u8"
+  },
+  {
+    "stream": "http://waytv.livebox.co.in/A9newshls/A9news.m3u8",
+    "title": "A9 News",
+    "url": "",
+    "logo": "https://play-lh.googleusercontent.com/Ukkt1peKbnQePXrRX6cfX66DIBFvkyXAFWWEfc8JjPsQNN7C5Z2F67nV-6ZrPZ1YSjDU=s180-rw"
+  }
+]

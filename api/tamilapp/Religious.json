@@ -5,7 +5,12 @@
     "category": "Religious",
     "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616321696_izzath.png"
   },
-
+  {
+    "name": "PSALM TV",
+    "url": "http://198.144.149.82:8080/NOTV/PSALMTV/index.m3u8?token=GTR",
+    "category": "Religious",
+    "logo": "https://play-lh.googleusercontent.com/0o97L04fjgiarfcbfvBxhiBq2GPEovA8xxvrQA2PhgdJpmwtLkCLTlc9tSpsFnzFycA=s180-rw"
+  },
   {
     "name": "Ark TV",
     "category": "Religious",

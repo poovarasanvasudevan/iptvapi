@@ -1,5 +1,23 @@
 [
   {
+    "url": "",
+    "logo": "https://play-lh.googleusercontent.com/wo0SFi3_ybJpErzHLAkvjpy85onBfejynFgbXkm4un1iGrE70YnveenC0AW6wfXKLsQ=s180-rw",
+    "title": "KCV TV",
+    "stream": "http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR"
+  },
+  {
+    "stream": "http://198.144.149.82:8080/NOTV/RELAXTV/index.m3u8?token=GTR",
+    "title": "Relax TV",
+    "url": "",
+    "logo": "https://images.sftcdn.net/images/t_app-logo-xl,f_auto/p/418545dc-40fd-4910-b9a0-6714693deb22/2241745249/relax-tv-2019-02-18_16-49-22.png"
+  },
+  {
+    "stream": "http://198.144.149.82:8080/NOTV/KCVMOVIE/index.m3u8?token=GTR",
+    "title": "KCV Movies",
+    "url": "",
+    "logo": "https://play-lh.googleusercontent.com/wo0SFi3_ybJpErzHLAkvjpy85onBfejynFgbXkm4un1iGrE70YnveenC0AW6wfXKLsQ=s180-rw"
+  },
+  {
     "stream": "https://live.wmncdn.net/gregoriantv/86d7fdf25c11d39dd3ca51c992186354.sdp/index.m3u8",
     "title": "Gregorian",
     "logo": "https://live-tv-channels.org/pt-data/uploads/logo/in-gregorian-tv-2628-300x225.jpg",
