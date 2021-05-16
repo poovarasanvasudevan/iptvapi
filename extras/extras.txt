@@ -10,6 +10,7 @@ https://supersport.azureedge.net/web-assets/channels/hos/supersport-cricket-live
 http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/chunklist_w927914309.m3u8?checkedby:iptvcat.net
 Divya
 
+/http://nammaoorutv.com/dashboard/api.php?type=channels
 {
       "name": "Vel TV",
       "url": "http://198.144.149.82:8080/NOTV/VELTV/index.m3u8?token=GTR",
