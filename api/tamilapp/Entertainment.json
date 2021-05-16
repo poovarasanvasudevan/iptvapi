@@ -61,7 +61,7 @@
   },
   {
     "name": "Pakalavan TV",
-    "url": "https://player.yarlsriserver.com/pakalavantv/e26fd7c8b4fd8eafbb9f99a19a1c3701.sdp/playlist.m3u8",
+    "url": "http://198.144.149.82:8080/PAKALAVAN_WEB/index.m3u8?token=PK",
     "logo": "https://i.imgur.com/3IzVcjg.png",
     "category": "Entertainment"
   },
