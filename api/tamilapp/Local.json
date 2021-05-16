@@ -1,5 +1,102 @@
 [
   {
+    "name": "J Vision TV",
+    "category": "International",
+    "url": "http://198.144.149.82:8080/DINESH/JVISION/index.m3u8?token=GTR",
+    "logo": "http://nammaoorutv.com/dashboard/upicons/Screenshot_20200922-105004~2.png"
+  },
+  {
+    "name": "Tamil Anjal",
+    "url": "http://198.144.149.82:8080/NOTV/TAMILANJALTV/index.m3u8?token=GTR",
+    "logo": "http://nammaoorutv.com/dashboard/upicons/IMG-20210210-WA0011.jpg",
+    "category": "Local"
+  },
+  {
+    "name": "Maya TV",
+    "category": "Local",
+    "logo": "http://nammaoorutv.com/dashboard/upicons/new logoo.png",
+    "url": "http://softstreamtv.com:8080/NOTV/MAYATV/index.m3u8?token=GTR"
+  },
+  {
+    "name": "U TV",
+    "url": "http://198.144.149.82:8080/NOTV/UTV/index.m3u8?token=GTR",
+    "logo": "http://nammaoorutv.com/dashboard/upicons/IMG-20201225-WA0345.jpg",
+    "category": "Local"
+  },
+  {
+    "name": "Kalai Cinema",
+    "url": "http://singamcloud.in:8080/kalaicinema/kalaicinema/playlist.m3u8",
+    "logo": "http://nammaoorutv.com/dashboard/upicons/IMG-20200908-WA0064.jpg",
+    "category": "Local"
+  },
+  {
+    "name": "ACN Erode",
+    "url": "rtmp://95.216.226.165:1935/babatv",
+    "category": "Local",
+    "logo": "http://nammaoorutv.com/dashboard/upicons/images - 2020-09-08T193508.763.jpeg"
+  },
+  {
+    "name": "Jeyam TV Kovai",
+    "url": "http://198.144.149.82:8080/NOTV/JEYAMTVCOVAI/index.m3u8?token=GTR",
+    "logo": "http://nammaoorutv.com/dashboard/upicons/IMG-20210508-WA0025.jpg",
+    "category": "Local"
+  },
+  {
+    "name": "PC TV",
+    "url": "http://pctv.livebox.co.in/pctvhls/live.m3u8",
+    "category": "Local",
+    "logo": "http://nammaoorutv.com/dashboard/upicons/IMG-20200909-WA0016.jpg"
+  },
+  {
+    "name": "KL My TV",
+    "url": "http://bmlive.net:8000/mytvkl/mytvkl/bms.m3u8",
+    "logo": "http://nammaoorutv.com/dashboard/upicons/IMG-20210324-WA0002.jpg",
+    "category": "Local"
+  },
+  {
+    "name": "V TV",
+    "url": "http://198.144.149.82:8080/NOTV/VTV/index.m3u8?token=GTR",
+    "logo": "http://nammaoorutv.com/dashboard/upicons/v tv logo new.png",
+    "category": "Local"
+  },
+  {
+    "name": "Jayam TV",
+    "url": "http://103.147.60.4:1935/live/jayamtv/playlist.m3u8",
+    "logo": "http://nammaoorutv.com/dashboard/upicons/IMG-20200318-WA0012.jpg",
+    "category": "Local"
+  },
+  {
+    "name": "Nine Start TV",
+    "url": "http://198.144.149.82:8080/NOTV/NINETV/index.m3u8?token=GTR",
+    "category": "Local",
+    "logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/Final.png"
+  },
+
+  {
+    "name": "Kings TV",
+    "url": "http://nextgeninfotech.ddns.net:8080/hls/kings.m3u8",
+    "logo": "http://nammaoorutv.com/dashboard/upicons/IMG-20210428-WA0029.jpg",
+    "category": "Local"
+  },
+  {
+    "name": "Thirumalai TV",
+    "url": "http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8",
+    "logo": "http://nammaoorutv.com/dashboard/upicons/unnamed (9).png",
+    "category": "Local"
+  },
+  {
+    "name": "KCV TV",
+    "url": "http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR",
+    "logo": "http://nammaoorutv.com/dashboard/upicons/IMG-20201211-WA0007.jpg",
+    "category": "Local"
+  },
+  {
+    "name": "KPM TV",
+    "url": "rtmp://198.144.149.82/NOTV/KPMTV?token=GTR",
+    "logo": "https://image.winudf.com/v2/image1/Y29tLnlhYWwuVmlubWVlbk11c2ljX3NjcmVlbl81XzE1NzgxNjMyMTZfMDU0/screen-5.jpg?fakeurl=1&type=.jpg",
+    "category": "Local"
+  },
+  {
     "name": "Surya TV HD",
     "url": "http://account16.livebox.co.in/suriyatvcglhls/live.m3u8",
     "category": "Local",
@@ -16,12 +113,6 @@
     "url": "http://198.144.149.82:8080/NOTV/MMTV/index.m3u8?token=GTR",
     "category": "Local",
     "logo":"https://play-lh.googleusercontent.com/mPyV_zu5RklUrVQtCR345XwLFN5mkB3OYADq40MRja_dByhqcNHxjXACwy4-hV5KmRE=s180-rw"
-  },
-  {
-    "name": "Vel TV",
-    "url": "http://198.144.149.82:8080/NOTV/VELTV/index.m3u8?token=GTR",
-    "category": "Local",
-    "logo": "https://play-lh.googleusercontent.com/jNhg9VeAazuUs-hpME0Esa-wd8y0LMFEkLV91sQDr8P4P_-yQqRaMkx5wyUjEAsLl1qT=s180-rw"
   },
   {
     "name": "ARUL TV",

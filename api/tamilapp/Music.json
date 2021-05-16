@@ -1,5 +1,10 @@
 [
-
+  {
+    "name": "MN Music",
+    "url": "rtmp://mntv.livebox.co.in:1935/music/live",
+    "category": "Music",
+    "logo": "http://nammaoorutv.com/dashboard/upicons/mn tv music logo 01.png"
+  },
   {
     "name": "7S Music",
     "url": "http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8",

@@ -1,0 +1,1151 @@
+{
+  "status": 1,
+  "data": [
+    {
+      "category_id": "1",
+      "category_name": "Common",
+      "category_icon": "Common",
+      "channels": [
+        {
+          "channel_id": "376",
+          "language_id": "1",
+          "channel_name": "New ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/",
+          "streaming_url": "rtmp:\/\/198.144.149.82\/NOTV\/KPMTV?token=GTR",
+          "video_format": "rtmp"
+        },
+        {
+          "channel_id": "433",
+          "language_id": "1",
+          "channel_name": "Kcv tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20201211-WA0007.jpg",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/KCVTV\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "443",
+          "language_id": "2",
+          "channel_name": "A9 News ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20210409-WA0016.jpg",
+          "streaming_url": "http:\/\/waytv.livebox.co.in\/A9newshls\/A9news.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "444",
+          "language_id": "2",
+          "channel_name": "WAY TV ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20210409-WA0017.jpg",
+          "streaming_url": "http:\/\/waytv.livebox.co.in\/waytvhls\/waytv.m3u8",
+          "video_format": "m3u8"
+        }
+      ]
+    },
+    {
+      "category_id": "4",
+      "category_name": "NEWS",
+      "category_icon": "NEWS",
+      "channels": [
+        {
+          "channel_id": "324",
+          "language_id": "1",
+          "channel_name": "Polimer news ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/images (99).jpeg",
+          "streaming_url": "http:\/\/versewsa.pc.cdn.bitgravity.com:80\/versewsa\/live\/polimernews.smil\/chunklist.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "334",
+          "language_id": "1",
+          "channel_name": "Puthiyathalamurai",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/images (92).jpeg",
+          "streaming_url": "http:\/\/versewsa.pc.cdn.bitgravity.com:80\/versewsa\/live\/puthiyathalaimurai.smil\/chunklist.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "354",
+          "language_id": "1",
+          "channel_name": "News 7",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/images - 2020-05-10T075539.200.jpeg",
+          "streaming_url": "http:\/\/versewsa.pc.cdn.bitgravity.com\/versewsa\/live\/tamilnews7.smil\/chunklist_b1000000.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "355",
+          "language_id": "1",
+          "channel_name": "News j ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/logo@2x (1).png",
+          "streaming_url": "http:\/\/versewsa.pc.cdn.bitgravity.com\/versewsa\/live\/amlst:newsj_,b256,b512,b1024,b1824,.smil\/chunklist.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "384",
+          "language_id": "1",
+          "channel_name": "Sathiyam news ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20200908-WA0103.jpg",
+          "streaming_url": "http:\/\/hdserver.7starcloud.com:1935\/sathiyamtv\/livestreaming\/playlist.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "385",
+          "language_id": "1",
+          "channel_name": "One yes tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/images - 2020-09-19T124218.992.jpeg",
+          "streaming_url": "http:\/\/livematrix.in:1935\/1yestv\/1yestv\/playlist.m3u8",
+          "video_format": "m3u8"
+        }
+      ]
+    },
+    {
+      "category_id": "5",
+      "category_name": "LOCALCHANNELS",
+      "category_icon": "LOCALCHANNELS",
+      "channels": [
+        {
+          "channel_id": "308",
+          "language_id": "1",
+          "channel_name": "Boss tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20191025-WA0009.jpg",
+          "streaming_url": "http:\/\/bosstv-notv.chennaistream.net\/bosstv\/bosstvlive\/playlist.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "310",
+          "language_id": "1",
+          "channel_name": "Nila tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/logo 2 YELLOW MX.png",
+          "streaming_url": "http:\/\/account5.livebox.co.in\/nilatvhls\/broadcast.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "312",
+          "language_id": "1",
+          "channel_name": "Amma tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20200724-WA0035.jpg",
+          "streaming_url": "http:\/\/ammacable.com:1935\/acn\/ammachannel\/playlist.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "313",
+          "language_id": "1",
+          "channel_name": "Amma cinema",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20200710-WA0012.jpg",
+          "streaming_url": "http:\/\/ammacable.com:1935\/acn\/acncinema\/playlist.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "314",
+          "language_id": "1",
+          "channel_name": "Arasan tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/1600174738287_IMG-20200724-WA0036.jpg",
+          "streaming_url": "http:\/\/ammacable.com:1935\/acn\/arasantv\/playlist.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "315",
+          "language_id": "1",
+          "channel_name": "Thirumalai tv",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/unnamed (9).png",
+          "streaming_url": "http:\/\/media.7starcloud.com:1935\/tirumalaitv\/stream\/playlist.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "317",
+          "language_id": "1",
+          "channel_name": "Palaru tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/Logo Bg_00000.png",
+          "streaming_url": "http:\/\/account13.livebox.co.in\/palartvhls\/live.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "318",
+          "language_id": "1",
+          "channel_name": "Rcn tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/images - 2020-09-08T140626.997.jpeg",
+          "streaming_url": "rtmp:\/\/95.216.226.165:1935\/rcntv\/rcntv",
+          "video_format": "rtmp"
+        },
+        {
+          "channel_id": "319",
+          "language_id": "1",
+          "channel_name": "Vannavil plus",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/images (28).png",
+          "streaming_url": "http:\/\/51.75.95.11:5080\/LiveApp\/streams\/779115238213688180372781.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "321",
+          "language_id": "1",
+          "channel_name": "Jawahar tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20200218-WA0113.jpg",
+          "streaming_url": "http:\/\/streamingbox.7starcloud.com:1935\/jawahartv\/streamingbox\/playlist.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "322",
+          "language_id": "1",
+          "channel_name": "Acn music",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20200724-WA0034.jpg",
+          "streaming_url": "http:\/\/ammacable.com:1935\/acn\/acnmusic\/playlist.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "325",
+          "language_id": "1",
+          "channel_name": "KINGS TV ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20210428-WA0029.jpg",
+          "streaming_url": "http:\/\/nextgeninfotech.ddns.net:8080\/hls\/kings.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "326",
+          "language_id": "1",
+          "channel_name": "Jcv tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/1600189992815_IMG-20200729-WA0035.jpg",
+          "streaming_url": "http:\/\/account11.livebox.co.in\/jcvtvhls\/live.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "327",
+          "language_id": "1",
+          "channel_name": "Rj tv",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/unnamed (7).png",
+          "streaming_url": "https:\/\/cdn.rjdigilink.in\/rjtamiltv\/livetv\/playlist.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "328",
+          "language_id": "1",
+          "channel_name": "Kavin tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20191229-WA0002.jpg",
+          "streaming_url": "http:\/\/site1.ultramaxnet.com\/client\/hls\/namma-ooru-tv\/kavintv\/index.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "329",
+          "language_id": "1",
+          "channel_name": "CSK tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20190822-WA0019.jpg",
+          "streaming_url": "http:\/\/cdn.live5.in:1935\/livesp\/csktv1\/playlist.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "330",
+          "language_id": "1",
+          "channel_name": "Mn music",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/mn tv music logo 01.png",
+          "streaming_url": "rtmp:\/\/mntv.livebox.co.in:1935\/music\/live",
+          "video_format": "rtmp"
+        },
+        {
+          "channel_id": "332",
+          "language_id": "1",
+          "channel_name": "Arunai tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/Arunai tv super logo text.png",
+          "streaming_url": "http:\/\/7starcloud.com:1935\/live\/arunaitv\/playlist.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "335",
+          "language_id": "1",
+          "channel_name": "Yaal tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20210320-WA0059.jpg",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/VETRITV\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "336",
+          "language_id": "1",
+          "channel_name": "Sai tv Madurai",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/bbbbbbb.png",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/SAITVMD\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "337",
+          "language_id": "1",
+          "channel_name": "Asai tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/Logo aasai tv tamil .png",
+          "streaming_url": "http:\/\/osaitv.livebox.co.in\/osaihls\/live.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "343",
+          "language_id": "1",
+          "channel_name": "Metro tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/51403794_2375690232670745_1233277456496984064_o.jpg",
+          "streaming_url": "http:\/\/softstreamtv.com:8080\/NOTV\/METROTV\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "344",
+          "language_id": "1",
+          "channel_name": "Nine star tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/Final.png",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/NINETV\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "345",
+          "language_id": "1",
+          "channel_name": "Jayam tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20200318-WA0012.jpg",
+          "streaming_url": "http:\/\/103.147.60.4:1935\/live\/jayamtv\/playlist.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "346",
+          "language_id": "1",
+          "channel_name": "My tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/My tv logo.png",
+          "streaming_url": "http:\/\/account19.livebox.co.in\/mytvhls\/live.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "348",
+          "language_id": "1",
+          "channel_name": "V TV",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/v tv logo new.png",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/VTV\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "350",
+          "language_id": "1",
+          "channel_name": "King tv covai",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20201031-WA0003.jpg",
+          "streaming_url": "https:\/\/account24.livebox.co.in\/kinghls\/king.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "351",
+          "language_id": "1",
+          "channel_name": "Hari tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/logo (3).png",
+          "streaming_url": "http:\/\/media.7starcloud.com:1935\/harimedia\/haritv\/playlist.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "352",
+          "language_id": "1",
+          "channel_name": "Tamilan tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/Screenshot_20200908-234711~2.png",
+          "streaming_url": "http:\/\/media.7starcloud.com:1935\/harimedia\/live1\/playlist.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "356",
+          "language_id": "1",
+          "channel_name": "Ezhil tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/ezhil gold logo 2.png",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/EZHILTV\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "359",
+          "language_id": "1",
+          "channel_name": "Orange tv",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20191117-WA0007.jpg",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/ORANGETV\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "360",
+          "language_id": "1",
+          "channel_name": "Krishna tv",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/download (6).png",
+          "streaming_url": "http:\/\/media.7starcloud.com:1935\/erodekrishnatv\/livestream\/playlist.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "363",
+          "language_id": "1",
+          "channel_name": "Super tv",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/super tv hd copy.png",
+          "streaming_url": "rtmp:\/\/stream1.playbox.co.in:1935\/Supertv\/Supertv",
+          "video_format": "rtmp"
+        },
+        {
+          "channel_id": "365",
+          "language_id": "1",
+          "channel_name": "Orange tv",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/images (31).png",
+          "streaming_url": "http:\/\/stream.blackmoon.in:8000\/orangetv\/orangetv\/bms.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "366",
+          "language_id": "1",
+          "channel_name": "KL MY TV",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20210324-WA0002.jpg",
+          "streaming_url": "http:\/\/bmlive.net:8000\/mytvkl\/mytvkl\/bms.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "367",
+          "language_id": "1",
+          "channel_name": "Nagaram tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20200715-WA0025.jpg",
+          "streaming_url": "http:\/\/stream.blackmoon.in:8000\/BMW\/BMW\/bms.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "368",
+          "language_id": "1",
+          "channel_name": "Kanna tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/Screenshot_20210501-093829_Google Play Store.jpg",
+          "streaming_url": "http:\/\/softstreamtv.com:8080\/NOTV\/KANAA\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "370",
+          "language_id": "1",
+          "channel_name": "Laxmi TV",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20210309-WA0032.jpg",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/LAXMITV\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "371",
+          "language_id": "1",
+          "channel_name": "Nanban tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/images - 2020-09-21T110551.930.jpeg",
+          "streaming_url": "http:\/\/site1.ultramaxnet.com\/client\/hls\/namma-ooru-tv\/nanbantv\/index.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "372",
+          "language_id": "1",
+          "channel_name": "Pc tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20200909-WA0016.jpg",
+          "streaming_url": "http:\/\/pctv.livebox.co.in\/pctvhls\/live.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "373",
+          "language_id": "1",
+          "channel_name": "JEYAM TV",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20210508-WA0025.jpg",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/JEYAMTVCOVAI\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "374",
+          "language_id": "1",
+          "channel_name": "Baba tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/images - 2020-09-08T193508.763.jpeg",
+          "streaming_url": "rtmp:\/\/95.216.226.165:1935\/babatv",
+          "video_format": "rtmp"
+        },
+        {
+          "channel_id": "375",
+          "language_id": "1",
+          "channel_name": "Anbu tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/namma anbu tv.png",
+          "streaming_url": "rtmp:\/\/nextgeninfotech.ddns.net:9090\/anbu\/anbu?psk=123456",
+          "video_format": "rtmp"
+        },
+        {
+          "channel_id": "377",
+          "language_id": "1",
+          "channel_name": "Mirror tv",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20200115-WA0079.jpg",
+          "streaming_url": "http:\/\/livematrix.in:1935\/live\/mirrortv\/playlist.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "378",
+          "language_id": "1",
+          "channel_name": "UTV TAMIL",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20201110-WA0004.jpg",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/UTVTAMIL\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "379",
+          "language_id": "1",
+          "channel_name": "uzhavan tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20200904-WA0058.jpg",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/UZHAVANTV\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "380",
+          "language_id": "1",
+          "channel_name": "Kalai cinema ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20200908-WA0064.jpg",
+          "streaming_url": "http:\/\/singamcloud.in:8080\/kalaicinema\/kalaicinema\/playlist.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "381",
+          "language_id": "1",
+          "channel_name": "Jayam tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20200909-WA0039.jpg",
+          "streaming_url": "http:\/\/stream.blackmoon.in:8000\/jeyamtvhd\/JeyamTv\/bms.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "382",
+          "language_id": "1",
+          "channel_name": "Orange tv",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/images (31).png",
+          "streaming_url": "http:\/\/stream.blackmoon.in:8000\/orangetv\/orangetv\/bms.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "383",
+          "language_id": "1",
+          "channel_name": "Vani tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20210501-WA0014.jpg",
+          "streaming_url": "http:\/\/hdserver.7starcloud.com:1935\/vanitv\/livemedia\/playlist.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "390",
+          "language_id": "1",
+          "channel_name": "Amma tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/1600504390188_IMG-20191228-WA0026.jpg",
+          "streaming_url": "http:\/\/site1.ultramaxnet.com\/client\/hls\/namma-ooru-tv\/ammatv-123-vdr-VW0gciLY5hWMu-stream\/index.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "393",
+          "language_id": "1",
+          "channel_name": "Kanchi tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/unnamed (13).png",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/KANCHITV\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "396",
+          "language_id": "1",
+          "channel_name": "VTamil",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20201025-WA0016.jpg",
+          "streaming_url": "http:\/\/softstreamtv.com:8080\/NOTV\/VTAMILTV\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "397",
+          "language_id": "1",
+          "channel_name": "Ragam tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/images - 2020-09-24T110432.747.jpeg",
+          "streaming_url": "http:\/\/account12.livebox.co.in\/ntvhls\/ntv.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "398",
+          "language_id": "1",
+          "channel_name": "Welcome tv",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/welcome1.png",
+          "streaming_url": "rtmp:\/\/livematrix.in:1935\/welcometv\/welcometv",
+          "video_format": "rtmp"
+        },
+        {
+          "channel_id": "401",
+          "language_id": "1",
+          "channel_name": "HELLOTV ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/hello light blue.png",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/HELLOTV\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "403",
+          "language_id": "1",
+          "channel_name": "Max tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20201215-WA0026.jpg",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/MAXTV\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "404",
+          "language_id": "1",
+          "channel_name": "Jeyson tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/Comp JEYSON.png",
+          "streaming_url": "https:\/\/cdn.rjdigilink.in\/jeysontv\/livetv\/playlist.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "406",
+          "language_id": "1",
+          "channel_name": "Utv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20201225-WA0345.jpg",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/UTV\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "407",
+          "language_id": "1",
+          "channel_name": "Jeyam tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/Re size JEYAM PLUS Logo.png",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/JEYAMTVPLUS\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "408",
+          "language_id": "1",
+          "channel_name": "Laxmi tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20201006-WA0000.jpg",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/LAXMITV\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "409",
+          "language_id": "1",
+          "channel_name": "King tv theni ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20201007-WA0066.jpg",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/KINGTVTHENI\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "410",
+          "language_id": "1",
+          "channel_name": "Jeyam tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20201006-WA0001.jpg",
+          "streaming_url": "http:\/\/account26.livebox.co.in\/Jeyamcabletvhls\/live.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "411",
+          "language_id": "1",
+          "channel_name": "Phoenix tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/Screenshot_20201110-162002_Photos.jpg",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/NIXTV\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "412",
+          "language_id": "1",
+          "channel_name": "JJ max tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/JJ Max HD Logo_00017.png",
+          "streaming_url": "https:\/\/cdn.rjdigilink.in\/jjmax\/livetv\/playlist.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "414",
+          "language_id": "1",
+          "channel_name": "Jayam tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20201013-WA0058.jpg",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/JAYAMTV\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "415",
+          "language_id": "1",
+          "channel_name": "Vedha tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20201011-WA0006.jpg",
+          "streaming_url": "http:\/\/site1.ultramaxnet.com\/client\/hls\/namma-ooru-tv\/vedhatv-ihIKv5FxphmYA-stream\/index.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "416",
+          "language_id": "1",
+          "channel_name": "Kvm tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/kvm tv hd logo 2.jpg",
+          "streaming_url": "http:\/\/site1.ultramaxnet.com\/client\/hls\/namma-ooru-tv\/kvmtv-32d6e133e4ba-otua-stream\/index.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "417",
+          "language_id": "1",
+          "channel_name": "Amma tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/logo copy.png",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/AMMATV\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "418",
+          "language_id": "1",
+          "channel_name": "MTIMES ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20201022-WA0108.jpg",
+          "streaming_url": "http:\/\/softstreamtv.com:8080\/NOTV\/MTIMES\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "419",
+          "language_id": "1",
+          "channel_name": "Annai tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/",
+          "streaming_url": "http:\/\/softstreamtv.com:8080\/NOTV\/ANNAITV\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "422",
+          "language_id": "1",
+          "channel_name": "Mithra tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20201115-WA0024.jpg",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/MITHRATV\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "423",
+          "language_id": "1",
+          "channel_name": "Jeevan tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/jeevan tv logo png.png",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/JEEVANTV\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "424",
+          "language_id": "1",
+          "channel_name": "Am tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/AMTV\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "426",
+          "language_id": "1",
+          "channel_name": "Maya tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/new logoo.png",
+          "streaming_url": "http:\/\/softstreamtv.com:8080\/NOTV\/MAYATV\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "429",
+          "language_id": "1",
+          "channel_name": "Jayam tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20201208-WA0018.jpg",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/JEYAMTVUPT\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "434",
+          "language_id": "1",
+          "channel_name": "VAJRA TV ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/3d new size.png",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/VAJRATV\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "436",
+          "language_id": "1",
+          "channel_name": "Vel tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/CG G_00000.png",
+          "streaming_url": " http:\/\/198.144.149.82:8080\/NOTV\/VELTV\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "437",
+          "language_id": "1",
+          "channel_name": "MS MUSIC ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20201230-WA0343.jpg",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/MSMUSICHD\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "438",
+          "language_id": "1",
+          "channel_name": "QMAX TV TVR",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/ssssssssss copy.png",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/QMAX\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "439",
+          "language_id": "1",
+          "channel_name": "SSTV",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20210202-WA0043.jpg",
+          "streaming_url": "rtmp:\/\/kairacloud.in:1935\/ssTV\/ft86lv8l",
+          "video_format": "rtmp"
+        },
+        {
+          "channel_id": "440",
+          "language_id": "1",
+          "channel_name": "PCN TV ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/logo-1.png",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/PCNTV\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "441",
+          "language_id": "1",
+          "channel_name": "TAMILANJALTV ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20210210-WA0011.jpg",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/TAMILANJALTV\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "442",
+          "language_id": "1",
+          "channel_name": "Anali tv 2",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/",
+          "streaming_url": "rtmp:\/\/8kguru.tv:1935\/analaitvmain?rtmpauth=express:video2021",
+          "video_format": "rtmp"
+        }
+      ]
+    },
+    {
+      "category_id": "6",
+      "category_name": "INTERNATIONAL",
+      "category_icon": "INTERNATIONAL",
+      "channels": [
+        {
+          "channel_id": "307",
+          "language_id": "1",
+          "channel_name": "Aus Tamil tv",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/unnamed (8).png",
+          "streaming_url": "https:\/\/bk7l2pn7dx53-hls-live.5centscdn.com\/austamil\/fe01ce2a7fbac8fafaed7c982a04e229.sdp\/playlist.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "309",
+          "language_id": "1",
+          "channel_name": "World tamil tv",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/images (26).png",
+          "streaming_url": "http:\/\/185.105.4.244:1935\/wtt\/wttv\/playlist.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "316",
+          "language_id": "1",
+          "channel_name": "Three tamil",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/images - 2020-09-08T133529.542.jpeg",
+          "streaming_url": "https:\/\/6n3yogbnd9ok-hls-live.5centscdn.com\/threetamil\/d0dbe915091d400bd8ee7f27f0791303.sdp\/playlist.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "340",
+          "language_id": "1",
+          "channel_name": "Analai express tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/download (8).png",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/ANALAI_MOVIE\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "341",
+          "language_id": "1",
+          "channel_name": "Mon tamil tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/montamiltv.jpeg",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/MONTAMIL_CINEMA\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "342",
+          "language_id": "1",
+          "channel_name": "Jay tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/JAYTV\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "386",
+          "language_id": "1",
+          "channel_name": "akarammix tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/images - 2020-09-19T130954.168.jpeg",
+          "streaming_url": "http:\/\/akaram.zecast.net\/akaram-live\/akarammix1\/index.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "387",
+          "language_id": "1",
+          "channel_name": "TVI ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/images - 2020-09-09T075805.305.jpeg",
+          "streaming_url": "http:\/\/live.tamilvision.tv:8081\/TVI\/HD\/playlist.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "388",
+          "language_id": "1",
+          "channel_name": "Akaram kids ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/images (66).jpeg",
+          "streaming_url": "http:\/\/akaram.zecast.net\/akaram-live\/akaramkidz\/index.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "389",
+          "language_id": "1",
+          "channel_name": "Pakkalavan tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/images - 2020-09-19T131742.114.jpeg",
+          "streaming_url": "http:\/\/player.yarlsriserver.com\/pakalavantv\/e26fd7c8b4fd8eafbb9f99a19a1c3701.sdp\/playlist.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "395",
+          "language_id": "1",
+          "channel_name": "J vision tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/Screenshot_20200922-105004~2.png",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/DINESH\/JVISION\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "405",
+          "language_id": "1",
+          "channel_name": "Japan ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/jtv.png",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/japan\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        }
+      ]
+    },
+    {
+      "category_id": "7",
+      "category_name": "SATELLITE",
+      "category_icon": "SATELLITE",
+      "channels": [
+        {
+          "channel_id": "331",
+          "language_id": "1",
+          "channel_name": "Mk six ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/images - 2020-09-08T181616.543.jpeg",
+          "streaming_url": "http:\/\/103.199.160.85\/Content\/mktv6\/Live\/Channel(MKTV6)\/index.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "349",
+          "language_id": "1",
+          "channel_name": "Mk tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/images (30).png",
+          "streaming_url": "http:\/\/103.199.160.85:80\/Content\/mktv\/Live\/Channel(MKTV)\/Stream(01)\/index.m3u8",
+          "video_format": "m3u8"
+        }
+      ]
+    },
+    {
+      "category_id": "8",
+      "category_name": "HINDUDEVOTIONAL",
+      "category_icon": "HINDUDEVOTIONAL",
+      "channels": [
+        {
+          "channel_id": "361",
+          "language_id": "1",
+          "channel_name": "Dharisanam tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20200917-WA0014.jpg",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/DHARISANAMTV\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "362",
+          "language_id": "1",
+          "channel_name": "Shivan tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20191110-WA0045.jpg",
+          "streaming_url": "http:\/\/sivantv.livebox.co.in\/sivantvhls\/sivan.m3u8",
+          "video_format": "m3u8"
+        }
+      ]
+    },
+    {
+      "category_id": "9",
+      "category_name": "CHRISTIAN",
+      "category_icon": "CHRISTIAN",
+      "channels": [
+        {
+          "channel_id": "311",
+          "language_id": "1",
+          "channel_name": "Family tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/Untitled design.png",
+          "streaming_url": "https:\/\/jctvapp.lanevservices.in\/jcfcapp\/jctvlive\/playlist.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "323",
+          "language_id": "1",
+          "channel_name": "Life tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/images (6).jpeg",
+          "streaming_url": "http:\/\/lifetv.livebox.co.in\/lifetvhls\/lifetv.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "347",
+          "language_id": "1",
+          "channel_name": "Adhisayamtv",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20201209-WA0017.jpg",
+          "streaming_url": "http:\/\/indiamatrix.in:1935\/adhisayamtv\/adhisayamtv\/playlist.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "364",
+          "language_id": "1",
+          "channel_name": "Faith tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20200909-WA0076.jpg",
+          "streaming_url": "http:\/\/faithtvlive.livebox.co.in\/faithtvhls\/live.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "369",
+          "language_id": "1",
+          "channel_name": "Ark tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/images (32).png",
+          "streaming_url": "http:\/\/mediastreamer.7starcloud.com:1935\/arktv\/arktv\/playlist.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "391",
+          "language_id": "1",
+          "channel_name": "Psalm tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20200908-WA0124.jpg",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/PSALMTV\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "394",
+          "language_id": "1",
+          "channel_name": "Wordgod tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20200922-WA0025.jpg",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/WORDGODTV\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "421",
+          "language_id": "1",
+          "channel_name": "SATHIYASATTHAMTV ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20201105-WA0111.jpg",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/SATHIYASATTHAMTV\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "425",
+          "language_id": "1",
+          "channel_name": "INIYAN TV ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/INIYAN TV.png",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/INIYANTV\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "427",
+          "language_id": "1",
+          "channel_name": "Lifetv plus ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/life tv plus india.png",
+          "streaming_url": "http:\/\/lifetv.livebox.co.in\/lifetvtamilhls\/live.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "430",
+          "language_id": "1",
+          "channel_name": "Joy tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20201207-WA0003.jpg",
+          "streaming_url": "http:\/\/joytv.livebox.co.in\/joytvhls\/live.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "431",
+          "language_id": "1",
+          "channel_name": "Adhisayamtv",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/WhatsApp Image 2020-12-09 at 18.52.38 (1).jpeg",
+          "streaming_url": " http:\/\/indiamatrix.in:1935\/adhisayamtv\/adhisayamtv\/playlist.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "435",
+          "language_id": "1",
+          "channel_name": "THOPHONYTV ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20210108-WA0020.jpg",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/THOPHONYTV\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        }
+      ]
+    },
+    {
+      "category_id": "10",
+      "category_name": "FASHION",
+      "category_icon": "FASHION",
+      "channels": []
+    },
+    {
+      "category_id": "12",
+      "category_name": "MUSLIM",
+      "category_icon": "MUSLIM",
+      "channels": []
+    },
+    {
+      "category_id": "13",
+      "category_name": "RASInetwork",
+      "category_icon": "RASInetwork",
+      "channels": [
+        {
+          "channel_id": "320",
+          "language_id": "1",
+          "channel_name": "Rasi tv",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/RASI TV logo HD.png",
+          "streaming_url": "http:\/\/singamcloud.in:8080\/rasinetwork\/rasitv\/playlist.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "333",
+          "language_id": "1",
+          "channel_name": "Rasi movie",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/RASI MOVIES LOGO HD.png",
+          "streaming_url": "http:\/\/singamcloud.in:8080\/rasinetwork\/rasimovies\/playlist.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "339",
+          "language_id": "1",
+          "channel_name": "Rasi comedy",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/Rasi Comedy copy.png",
+          "streaming_url": "http:\/\/singamcloud.in:8080\/rasinetwork\/rasicomedy\/playlist.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "353",
+          "language_id": "1",
+          "channel_name": "Rasi classic",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/Rasi Classic HD-2 (1).png",
+          "streaming_url": "http:\/\/singamcloud.in:8080\/rasinetwork\/rasiclassic\/playlist.m3u8",
+          "video_format": "m3u8"
+        }
+      ]
+    },
+    {
+      "category_id": "14",
+      "category_name": "Educations",
+      "category_icon": "Educations",
+      "channels": [
+        {
+          "channel_id": "358",
+          "language_id": "1",
+          "channel_name": "Kalvi cholai tv",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20200810-WA0031.jpg",
+          "streaming_url": "http:\/\/nextgeninfotech.ddns.net:8080\/kalvisolai\/kalvisolai.m3u8",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "428",
+          "language_id": "1",
+          "channel_name": "Kalvi tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/KALVI_GR10\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        }
+      ]
+    },
+    {
+      "category_id": "15",
+      "category_name": "malayalam",
+      "category_icon": "malayalam",
+      "channels": [
+        {
+          "channel_id": "357",
+          "language_id": "1",
+          "channel_name": "Janam tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/1609825563447_Janam logo blue.png",
+          "streaming_url": "rtmp:\/\/stream.janamtv.com:2095\/nammaooru\/janamtv",
+          "video_format": "rtmp"
+        },
+        {
+          "channel_id": "399",
+          "language_id": "1",
+          "channel_name": "KCV MOVIES ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20210113-WA0179.jpg",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/KCVMOVIE\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "413",
+          "language_id": "1",
+          "channel_name": "Dreamz HD",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20210113-WA0178.jpg",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/DREAMHD\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        },
+        {
+          "channel_id": "432",
+          "language_id": "1",
+          "channel_name": "Relax tv ",
+          "channel_logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/IMG-20210113-WA0180.jpg",
+          "streaming_url": "http:\/\/198.144.149.82:8080\/NOTV\/RELAXTV\/index.m3u8?token=GTR",
+          "video_format": "m3u8"
+        }
+      ]
+    }
+  ]
+}

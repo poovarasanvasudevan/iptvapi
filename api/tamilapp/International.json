@@ -1,5 +1,11 @@
 [
   {
+    "name": "J Vision TV",
+    "category": "International",
+    "url": "http://198.144.149.82:8080/DINESH/JVISION/index.m3u8?token=GTR",
+    "logo": "http://nammaoorutv.com/dashboard/upicons/Screenshot_20200922-105004~2.png"
+  },
+  {
     "name": "Puthuyugam",
     "category": "International",
     "url": "http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8",
