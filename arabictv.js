@@ -14,7 +14,7 @@ arabiclanguage.forEach(d => {
       arabiccat['Other'] = []
       arabiccat['Other'].push(d)
     }
-  } else if (d.category === "News" || d.category === "Documentary" || d.category === "Other" || d.category === 'Religious'|| d.category === 'General') {
+  } else if (d.category === "News" || d.category === "Documentary" || d.category === 'Religious') {
   } else {
     if (arabiccat.hasOwnProperty(d.category)) {
       arabiccat[d.category].push(d)

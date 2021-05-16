@@ -1,0 +1,867 @@
+[
+  {
+    "name": "Abu Dhabi Sports 1",
+    "logo": "https://i.imgur.com/lKl2wZH.png",
+    "url": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
+    "category": "Sports",
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ae",
+        "name": "United Arab Emirates"
+      },
+      {
+        "code": "bh",
+        "name": "Bahrain"
+      },
+      {
+        "code": "dj",
+        "name": "Djibouti"
+      },
+      {
+        "code": "dz",
+        "name": "Algeria"
+      },
+      {
+        "code": "eg",
+        "name": "Egypt"
+      },
+      {
+        "code": "iq",
+        "name": "Iraq"
+      },
+      {
+        "code": "jo",
+        "name": "Jordan"
+      },
+      {
+        "code": "km",
+        "name": "Comoros"
+      },
+      {
+        "code": "kw",
+        "name": "Kuwait"
+      },
+      {
+        "code": "lb",
+        "name": "Lebanon"
+      },
+      {
+        "code": "ly",
+        "name": "Libya"
+      },
+      {
+        "code": "ma",
+        "name": "Morocco"
+      },
+      {
+        "code": "mr",
+        "name": "Mauritania"
+      },
+      {
+        "code": "om",
+        "name": "Oman"
+      },
+      {
+        "code": "ps",
+        "name": "Palestine"
+      },
+      {
+        "code": "qa",
+        "name": "Qatar"
+      },
+      {
+        "code": "sa",
+        "name": "Saudi Arabia"
+      },
+      {
+        "code": "sd",
+        "name": "Sudan"
+      },
+      {
+        "code": "so",
+        "name": "Somalia"
+      },
+      {
+        "code": "sy",
+        "name": "Syria"
+      },
+      {
+        "code": "tn",
+        "name": "Tunisia"
+      },
+      {
+        "code": "ye",
+        "name": "Yemen"
+      }
+    ],
+    "tvg": {
+      "id": "Abu Dhabi Sports 1",
+      "name": "Abu Dhabi Sports",
+      "url": null
+    }
+  },
+  {
+    "name": "Abu Dhabi Sports 2",
+    "logo": "https://i.imgur.com/9q8gFsq.png",
+    "url": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8",
+    "category": "Sports",
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ae",
+        "name": "United Arab Emirates"
+      },
+      {
+        "code": "bh",
+        "name": "Bahrain"
+      },
+      {
+        "code": "dj",
+        "name": "Djibouti"
+      },
+      {
+        "code": "dz",
+        "name": "Algeria"
+      },
+      {
+        "code": "eg",
+        "name": "Egypt"
+      },
+      {
+        "code": "iq",
+        "name": "Iraq"
+      },
+      {
+        "code": "jo",
+        "name": "Jordan"
+      },
+      {
+        "code": "km",
+        "name": "Comoros"
+      },
+      {
+        "code": "kw",
+        "name": "Kuwait"
+      },
+      {
+        "code": "lb",
+        "name": "Lebanon"
+      },
+      {
+        "code": "ly",
+        "name": "Libya"
+      },
+      {
+        "code": "ma",
+        "name": "Morocco"
+      },
+      {
+        "code": "mr",
+        "name": "Mauritania"
+      },
+      {
+        "code": "om",
+        "name": "Oman"
+      },
+      {
+        "code": "ps",
+        "name": "Palestine"
+      },
+      {
+        "code": "qa",
+        "name": "Qatar"
+      },
+      {
+        "code": "sa",
+        "name": "Saudi Arabia"
+      },
+      {
+        "code": "sd",
+        "name": "Sudan"
+      },
+      {
+        "code": "so",
+        "name": "Somalia"
+      },
+      {
+        "code": "sy",
+        "name": "Syria"
+      },
+      {
+        "code": "tn",
+        "name": "Tunisia"
+      },
+      {
+        "code": "ye",
+        "name": "Yemen"
+      }
+    ],
+    "tvg": {
+      "id": "Abu Dhabi Sports 2",
+      "name": "Abu Dhabi Sports 2",
+      "url": null
+    }
+  },
+  {
+    "name": "Abu Dhabi Sports 3",
+    "logo": "https://i.imgur.com/U6XDpXY.png",
+    "url": "https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8",
+    "category": "Sports",
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ae",
+        "name": "United Arab Emirates"
+      },
+      {
+        "code": "bh",
+        "name": "Bahrain"
+      },
+      {
+        "code": "dj",
+        "name": "Djibouti"
+      },
+      {
+        "code": "dz",
+        "name": "Algeria"
+      },
+      {
+        "code": "eg",
+        "name": "Egypt"
+      },
+      {
+        "code": "iq",
+        "name": "Iraq"
+      },
+      {
+        "code": "jo",
+        "name": "Jordan"
+      },
+      {
+        "code": "km",
+        "name": "Comoros"
+      },
+      {
+        "code": "kw",
+        "name": "Kuwait"
+      },
+      {
+        "code": "lb",
+        "name": "Lebanon"
+      },
+      {
+        "code": "ly",
+        "name": "Libya"
+      },
+      {
+        "code": "ma",
+        "name": "Morocco"
+      },
+      {
+        "code": "mr",
+        "name": "Mauritania"
+      },
+      {
+        "code": "om",
+        "name": "Oman"
+      },
+      {
+        "code": "ps",
+        "name": "Palestine"
+      },
+      {
+        "code": "qa",
+        "name": "Qatar"
+      },
+      {
+        "code": "sa",
+        "name": "Saudi Arabia"
+      },
+      {
+        "code": "sd",
+        "name": "Sudan"
+      },
+      {
+        "code": "so",
+        "name": "Somalia"
+      },
+      {
+        "code": "sy",
+        "name": "Syria"
+      },
+      {
+        "code": "tn",
+        "name": "Tunisia"
+      },
+      {
+        "code": "ye",
+        "name": "Yemen"
+      }
+    ],
+    "tvg": {
+      "id": "Abu Dhabi Sports 3",
+      "name": "Abu Dhabi Sports 3",
+      "url": null
+    }
+  },
+  {
+    "name": "Abu Dhabi Sports 4",
+    "logo": "https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5e3ad6cc72.png",
+    "url": "https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8",
+    "category": "Sports",
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ae",
+        "name": "United Arab Emirates"
+      },
+      {
+        "code": "bh",
+        "name": "Bahrain"
+      },
+      {
+        "code": "dj",
+        "name": "Djibouti"
+      },
+      {
+        "code": "dz",
+        "name": "Algeria"
+      },
+      {
+        "code": "eg",
+        "name": "Egypt"
+      },
+      {
+        "code": "iq",
+        "name": "Iraq"
+      },
+      {
+        "code": "jo",
+        "name": "Jordan"
+      },
+      {
+        "code": "km",
+        "name": "Comoros"
+      },
+      {
+        "code": "kw",
+        "name": "Kuwait"
+      },
+      {
+        "code": "lb",
+        "name": "Lebanon"
+      },
+      {
+        "code": "ly",
+        "name": "Libya"
+      },
+      {
+        "code": "ma",
+        "name": "Morocco"
+      },
+      {
+        "code": "mr",
+        "name": "Mauritania"
+      },
+      {
+        "code": "om",
+        "name": "Oman"
+      },
+      {
+        "code": "ps",
+        "name": "Palestine"
+      },
+      {
+        "code": "qa",
+        "name": "Qatar"
+      },
+      {
+        "code": "sa",
+        "name": "Saudi Arabia"
+      },
+      {
+        "code": "sd",
+        "name": "Sudan"
+      },
+      {
+        "code": "so",
+        "name": "Somalia"
+      },
+      {
+        "code": "sy",
+        "name": "Syria"
+      },
+      {
+        "code": "tn",
+        "name": "Tunisia"
+      },
+      {
+        "code": "ye",
+        "name": "Yemen"
+      }
+    ],
+    "tvg": {
+      "id": "Abu Dhabi Sports 4",
+      "name": "Abu Dhabi Sports 4",
+      "url": null
+    }
+  },
+  {
+    "name": "Al Kass Five",
+    "logo": "https://i.imgur.com/o90fKsH.png",
+    "url": "https://alkasmsl4.akamaized.net/hls/live/2003123/alkas5abe/master.m3u8",
+    "category": "Sports",
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "qa",
+        "name": "Qatar"
+      }
+    ],
+    "tvg": {
+      "id": "AlKassFive.qa",
+      "name": "Al Kass Five",
+      "url": null
+    }
+  },
+  {
+    "name": "Al Kass Four",
+    "logo": "https://i.imgur.com/o90fKsH.png",
+    "url": "https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4aobe/master.m3u8",
+    "category": "Sports",
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "qa",
+        "name": "Qatar"
+      }
+    ],
+    "tvg": {
+      "id": "AlKassFour.qa",
+      "name": "Al Kass Four",
+      "url": null
+    }
+  },
+  {
+    "name": "Al Kass One",
+    "logo": "https://i.imgur.com/o90fKsH.png",
+    "url": "https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1oppe/master.m3u8",
+    "category": "Sports",
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "qa",
+        "name": "Qatar"
+      }
+    ],
+    "tvg": {
+      "id": "Al Kass One ARB",
+      "name": "Al Kass One ARB",
+      "url": null
+    }
+  },
+  {
+    "name": "Al Kass Online",
+    "logo": "https://www.alkass.net/alkass/assets/images/logo.png",
+    "url": "https://alkasmsl4.akamaized.net/hls/live/2003123/AlkassOnlineG129/playlist.m3u8",
+    "category": "Sports",
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "qa",
+        "name": "Qatar"
+      }
+    ],
+    "tvg": {
+      "id": "AlKassOnline.qa",
+      "name": "Al Kass Online",
+      "url": null
+    }
+  },
+  {
+    "name": "Al Kass Two",
+    "logo": null,
+    "url": "https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2pwi/master.m3u8",
+    "category": "Sports",
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "qa",
+        "name": "Qatar"
+      }
+    ],
+    "tvg": {
+      "id": "AlKassTwo.qa",
+      "name": "Al Kass Two",
+      "url": null
+    }
+  },
+  {
+    "name": "Arryadia",
+    "logo": "https://i.imgur.com/liFebM9.png",
+    "url": "http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8",
+    "category": "Sports",
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ma",
+        "name": "Morocco"
+      }
+    ],
+    "tvg": {
+      "id": "Arryadia.ma",
+      "name": "Arryadia",
+      "url": null
+    }
+  },
+  {
+    "name": "Arryadia",
+    "logo": "https://i.imgur.com/liFebM9.png",
+    "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8",
+    "category": "Sports",
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ma",
+        "name": "Morocco"
+      }
+    ],
+    "tvg": {
+      "id": "Arryadia.ma",
+      "name": "Arryadia",
+      "url": null
+    }
+  },
+  {
+    "name": "Bahrain Sports 1",
+    "logo": null,
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8",
+    "category": "Sports",
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "bh",
+        "name": "Bahrain"
+      }
+    ],
+    "tvg": {
+      "id": "BahrainSports1.bh",
+      "name": "Bahrain Sports 1",
+      "url": null
+    }
+  },
+  {
+    "name": "Bahrain Sports 2",
+    "logo": null,
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8",
+    "category": "Sports",
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "bh",
+        "name": "Bahrain"
+      }
+    ],
+    "tvg": {
+      "id": "BahrainSports2.bh",
+      "name": "Bahrain Sports 2",
+      "url": null
+    }
+  },
+  {
+    "name": "Dubai Racing",
+    "logo": "https://i.imgur.com/eytrf0Y.png",
+    "url": "https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8",
+    "category": "Sports",
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ae",
+        "name": "United Arab Emirates"
+      }
+    ],
+    "tvg": {
+      "id": "Dubai Racing",
+      "name": "Dubai Racing",
+      "url": null
+    }
+  },
+  {
+    "name": "Dubai Racing 2",
+    "logo": "https://i.imgur.com/eytrf0Y.png",
+    "url": "https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8",
+    "category": "Sports",
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ae",
+        "name": "United Arab Emirates"
+      }
+    ],
+    "tvg": {
+      "id": "Dubai Racing 2",
+      "name": "Dubai Racing 2",
+      "url": null
+    }
+  },
+  {
+    "name": "Dubai Racing 3",
+    "logo": "https://i.imgur.com/eytrf0Y.png",
+    "url": "https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8",
+    "category": "Sports",
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ae",
+        "name": "United Arab Emirates"
+      }
+    ],
+    "tvg": {
+      "id": "Dubai Racing 3",
+      "name": "Dubai Racing 3",
+      "url": null
+    }
+  },
+  {
+    "name": "Dubai Sports 1",
+    "logo": "https://i.imgur.com/iYgHR5D.png",
+    "url": "https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8",
+    "category": "Sports",
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ae",
+        "name": "United Arab Emirates"
+      }
+    ],
+    "tvg": {
+      "id": "Dubai Sports 1",
+      "name": "Dubai Sports 1",
+      "url": null
+    }
+  },
+  {
+    "name": "Dubai Sports 2",
+    "logo": "https://i.imgur.com/qBdOZ1x.png",
+    "url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8",
+    "category": "Sports",
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ae",
+        "name": "United Arab Emirates"
+      }
+    ],
+    "tvg": {
+      "id": "Dubai Sports 2",
+      "name": "Dubai Sports 2",
+      "url": null
+    }
+  },
+  {
+    "name": "Dubai Sports 3",
+    "logo": "https://i.imgur.com/hxxjMPJ.jpg",
+    "url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8",
+    "category": "Sports",
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ae",
+        "name": "United Arab Emirates"
+      }
+    ],
+    "tvg": {
+      "id": "Dubai Sports 3",
+      "name": "Dubai Sports 3",
+      "url": null
+    }
+  },
+  {
+    "name": "KTV Sport",
+    "logo": "http://www.goalzz.com/images/logo_sport/kuwaitsport.jpg",
+    "url": "https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8",
+    "category": "Sports",
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "kw",
+        "name": "Kuwait"
+      }
+    ],
+    "tvg": {
+      "id": "KTV Sport ARB",
+      "name": "KTV Sport ARB",
+      "url": null
+    }
+  },
+  {
+    "name": "Oman Sport",
+    "logo": "http://part.gov.om/part/images/oman_sport.png",
+    "url": "https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8",
+    "category": "Sports",
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "om",
+        "name": "Oman"
+      }
+    ],
+    "tvg": {
+      "id": "Oman Sport ARB",
+      "name": "Oman Sport ARB",
+      "url": null
+    }
+  },
+  {
+    "name": "Sharjah Sports TV",
+    "logo": "https://i.imgur.com/IaRaabJ.jpg",
+    "url": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8",
+    "category": "Sports",
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ae",
+        "name": "United Arab Emirates"
+      }
+    ],
+    "tvg": {
+      "id": "Sharjah Sports HD",
+      "name": "Sharjah Sports HD",
+      "url": null
+    }
+  },
+  {
+    "name": "Yas TV",
+    "logo": "https://i.imgur.com/ky1sNul.png",
+    "url": "https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8",
+    "category": "Sports",
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ae",
+        "name": "United Arab Emirates"
+      }
+    ],
+    "tvg": {
+      "id": "YasTV.ae",
+      "name": "Yas TV",
+      "url": null
+    }
+  }
+]

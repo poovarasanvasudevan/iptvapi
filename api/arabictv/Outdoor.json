@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Beity",
+    "logo": "https://i.imgur.com/7aD1yan.jpg",
+    "url": "http://82.212.74.2:8000/live/7312.m3u8",
+    "category": "Outdoor",
+    "languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      }
+    ],
+    "countries": [
+      {
+        "code": "sa",
+        "name": "Saudi Arabia"
+      }
+    ],
+    "tvg": {
+      "id": "Beity.sa",
+      "name": "Beity",
+      "url": null
+    }
+  }
+]
