@@ -1196,12 +1196,6 @@
       "category": "Local"
     },
     {
-      "name": "Sigaram TV",
-      "url": "http://7starcloud.com:1935/sigaram/sigaramtv/playlist.m3u8",
-      "logo": "https://i.imgur.com/QXV7bn4.png",
-      "category": "Entertainment"
-    },
-    {
       "name": "Singam TV",
       "category": "Local",
       "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602588016_1601609507_singam.jpg",

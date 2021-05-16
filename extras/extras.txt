@@ -17,3 +17,11 @@ Divya
       "url": "http://uk1.zecast.com:1935/star-live/ktv/index.m3u8",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/5/57/K_TV.jpg/revision/latest?cb=20181104100739"
     },
+
+
+  {
+    "name": "Sigaram TV",
+    "url": "http://7starcloud.com:1935/sigaram/sigaramtv/playlist.m3u8",
+    "logo": "https://i.imgur.com/QXV7bn4.png",
+    "category": "Entertainment"
+  },
