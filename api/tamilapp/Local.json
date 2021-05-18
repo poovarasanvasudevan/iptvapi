@@ -715,18 +715,7 @@
     "url": "https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/mayatv_low/index.m3u8",
     "logo": "https://static.ultramaxnet.com/images/maya_tv_logo.png"
   },
-  {
-    "name": "Raj TV",
-    "category": "Local",
-    "url": "http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(02)/index.m3u8",
-    "logo": "https://www.logolynx.com/images/logolynx/s_07/07a630cdfc84f486eeefd860b94fdcaa.jpeg"
-  },
-  {
-    "name": "Colors Tamil",
-    "category": "Local",
-    "url": "http://uk1.zecast.com:1935/star-live/colours/index.m3u8",
-    "logo": "https://img.favpng.com/7/21/6/viacom-18-logo-color-television-colors-png-favpng-7KQH4kbTqUNq5xnjqLEmPYpKW.jpg"
-  },
+
   {
     "url": "http://7starcloud.com:1935/aarya/aaryatv/playlist.m3u8",
     "category": "Local",
