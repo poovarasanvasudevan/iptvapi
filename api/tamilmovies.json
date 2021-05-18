@@ -2,6 +2,19 @@
   "showLogo": true,
   "language": "Tamil",
   "movies": [
-    
+    {
+      "url": "http://www.cinemv.fun/files/Tamil%202018%20Movies/2%20Point%200%20(2018)%20Proper%20HDRip/2%20Point%200%20Tamil%20Proper%20HDRip%20Single%20Part/2%20Point%200%20(2018)%20Tamil%20Proper%20HDRip%20Single%20Part.mp4",
+      "title": "2.0",
+      "logo": "http://www.cinemv.fun/details/Preview/1579.jpg",
+      "description": "After mobiles start mysteriously flying out of the hands of people in Chennai, Dr Vaseegaran summons his trusted robot Chitti to ward off the bird-shaped supernatural powers of Pakshirajan.",
+      "year": "2018"
+    },
+    {
+      "url": "http://files.inditechman.com/video/lucy.mp4",
+      "title": "Lucy",
+      "logo": "https://1.bp.blogspot.com/-GmKuZGqF3Os/XhdUQTTLo4I/AAAAAAAABTM/qAKeWUq5SZonhP6bRkXq7viHoTeUhpD0QCNcBGAsYHQ/s1600/107946.jpg",
+      "description": "A woman, accidentally caught in a dark deal, turns the tables on her captors and transforms into a merciless warrior evolved beyond human logic.",
+      "year": "2014"
+    }
   ]
 }
