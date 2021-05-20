@@ -72,10 +72,9 @@
     "logo": "https://i.imgur.com/0ApLXUi.png",
     "category": "Entertainment"
   },
-
   {
     "name": "Yaal Tv",
-    "url": "http://198.144.149.82:8080/NOTV/VETRITV/index.m3u8?token=GTR",
+    "url": "http://198.144.149.82:8080/NOTV/YAALTV/index.m3u8?token=GTR",
     "category": "Entertainment",
     "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/YAALTVLOGO.png"
   }
