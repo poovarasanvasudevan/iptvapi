@@ -10,11 +10,18 @@
       "year": "2018"
     },
     {
-      "url": "http://files.inditechman.com/video/lucy.mp4",
-      "title": "Lucy",
-      "logo": "https://1.bp.blogspot.com/-GmKuZGqF3Os/XhdUQTTLo4I/AAAAAAAABTM/qAKeWUq5SZonhP6bRkXq7viHoTeUhpD0QCNcBGAsYHQ/s1600/107946.jpg",
-      "description": "A woman, accidentally caught in a dark deal, turns the tables on her captors and transforms into a merciless warrior evolved beyond human logic.",
-      "year": "2014"
+      "url": "http://files.inditechman.com/video/mandela.mp4",
+      "title": "Mandela",
+      "logo": "http://www.cinemv.fun/details/Preview/3744.jpg",
+      "description": "A local barber's fate turns overnight when he becomes the single deciding vote in the village elections.",
+      "year": "2021"
+    },
+    {
+      "url": "http://files.inditechman.com/video/master.mp4",
+      "title": "Master",
+      "logo": "http://www.cinemv.fun/details/Preview/3525.jpg",
+      "description": "An alcoholic professor is sent to a juvenile school, where he clashes with a gangster who uses the school children for criminal activities.",
+      "year": "2021"
     }
   ]
 }
