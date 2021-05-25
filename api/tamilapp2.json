@@ -2,6 +2,139 @@
   "showLogo": true,
   "channels": [
     {
+      "name": "HARI TV",
+      "logo": "http://haritv.com/images/logo.png",
+      "url": "http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8",
+      "category": "Local"
+    },
+    {
+      "name": "Kalai Cinema",
+      "url": "http://singamcloud.in:8080/kalaicinema/kalaicinema/playlist.m3u8",
+      "logo": "http://nammaoorutv.com/dashboard/upicons/IMG-20200908-WA0064.jpg",
+      "category": "Local"
+    },
+    {
+      "name": "Yogaa TV",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616306258_yogaatv.png",
+      "url": "http://live.singamcloud.in:1935/yogaatv/yogaatv/playlist.m3u8",
+      "category": "Local"
+    },
+    {
+      "name": "Salem Merchi TV",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616306145_salemmerchi.png",
+      "category": "Local",
+      "url": "http://stream.singamcloud.in:1935/salammerchitv/salammerchitv/playlist.m3u8"
+    },
+    {
+      "name": "T TV",
+      "url": "http://singamcloud.in:1935/ttv/ttv/playlist.m3u8",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616318214_ttv.png",
+      "category": "Local"
+    },
+    {
+      "name": "Purple TV",
+      "url": "http://singamcloud.in:1935/purpletv/purpletv/playlist.m3u8",
+      "category": "Local",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616318402_perpole.png"
+    },
+    {
+      "name": "SMCV TV",
+      "url": "http://singamcloud.in:1935/smcvtv/smcvtv/playlist.m3u8",
+      "category": "Local",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616318924_smcvtv.png"
+    },
+    {
+      "name": "SSS 4K",
+      "logo": "1616319296_ssstv.png",
+      "url": "http://stream.singamcloud.in:1935/ssshd/ssshd/playlist.m3u8",
+      "category": "Local"
+    },
+    {
+      "name": "Shalini MAX",
+      "url": "http://stream.singamcloud.in:1935/shalinimax/shalinimax/playlist.m3u8",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616319472_shalinimax.png",
+      "category": "Local"
+    },
+    {
+      "name": "Vani Plus",
+      "category": "Local",
+      "url": "http://live.singamcloud.in:1935/vanipluse/vanipluse/playlist.m3u8",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616319770_vaniplus.png"
+    },
+    {
+      "name": "Anu TV",
+      "url": "http://live.singamcloud.in:1935/anutv/anutv/playlist.m3u8",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616320869_anutv.png",
+      "category": "Local"
+    },
+    {
+      "name": "Kalai Chinima",
+      "url": "http://singamcloud.in:1935/kalaicinema/kalaicinema/playlist.m3u8",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616232574_kalaichinema.png",
+      "category": "Local"
+    },
+    {
+      "name": "Saran TV",
+      "url": "http://live.singamcloud.in:1935/sarantv/sarantv/playlist.m3u8",
+      "category": "Local",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616483751_sarantv.png"
+    },
+    {
+      "name": "ABM TV",
+      "url": "http://singamcloud.in:1935/abmtv/abmtv/playlist.m3u8",
+      "category": "Local",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616494049_abm.png"
+    },
+    {
+      "name": "Tamilan",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616434820_tamilan.png",
+      "url": "http://media.akamaicdn.us:1935/tamilan/tamilan/playlist.m3u8",
+      "category": "Entertainment"
+    },
+    {
+      "name": "Kumari Now",
+      "url": "http://live.singamcloud.in:1935/kumarinow/kumarinow/playlist.m3u8",
+      "category": "Local",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1617953717_KUMARINow.png"
+    },
+    {
+      "name": "JOS TV",
+      "url": "http://stream.singamcloud.in:1935/jostv/jostv/playlist.m3u8",
+      "category": "Local",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1617956537_Jos_tv.png"
+    },
+    {
+      "name": "SAI TV",
+      "url": "http://live.singamcloud.in:1935/saitvtvl/saitvtvl/playlist.m3u8",
+      "category": "Local",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1618489114_sai_tv.png"
+    },
+    {
+      "name": "Rainbow TV HD",
+      "url": "http://live.singamcloud.in:1935/rainbowtv/rainbowtv/playlist.m3u8",
+      "logo": "https://yt3.ggpht.com/ytc/AAUvwnjl60SR14iQSd4ylAqrjK2Pkd8S0hy12wIkl9LgOg=s900-c-k-c0x00ffffff-no-rj",
+      "category": "Local"
+    },
+
+    {
+      "name": "Rasi Hollywood",
+      "logo": "https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.jpg?fakeurl=1&type=.jpg",
+      "url": "http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8",
+      "category": "Local"
+    },
+    {
+      "name": "Rasi Tamil",
+      "logo": "https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.jpg?fakeurl=1&type=.jpg",
+      "url": "http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8",
+      "category": "Local"
+    },
+    {
+      "name": "Rasi Music",
+      "logo": "https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.jpg?fakeurl=1&type=.jpg",
+      "url": "http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8",
+      "category": "Local"
+    },
+    {
       "name": "J Vision TV",
       "category": "International",
       "url": "http://198.144.149.82:8080/DINESH/JVISION/index.m3u8?token=GTR",
@@ -25,12 +158,7 @@
       "logo": "http://nammaoorutv.com/dashboard/upicons/IMG-20201225-WA0345.jpg",
       "category": "Local"
     },
-    {
-      "name": "Kalai Cinema",
-      "url": "http://singamcloud.in:8080/kalaicinema/kalaicinema/playlist.m3u8",
-      "logo": "http://nammaoorutv.com/dashboard/upicons/IMG-20200908-WA0064.jpg",
-      "category": "Local"
-    },
+
     {
       "name": "ACN Erode",
       "url": "rtmp://95.216.226.165:1935/babatv",
@@ -241,60 +369,7 @@
       "category": "Local",
       "logo": "https://harisofttecch.in/tamiltvlive//upload/1617258979_01.png"
     },
-    {
-      "name": "Yogaa TV",
-      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616306258_yogaatv.png",
-      "url": "http://live.singamcloud.in:1935/yogaatv/yogaatv/playlist.m3u8",
-      "category": "Local"
-    },
-    {
-      "name": "Salem Merchi TV",
-      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616306145_salemmerchi.png",
-      "category": "Local",
-      "url": "http://stream.singamcloud.in:1935/salammerchitv/salammerchitv/playlist.m3u8"
-    },
-    {
-      "name": "T TV",
-      "url": "http://singamcloud.in:1935/ttv/ttv/playlist.m3u8",
-      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616318214_ttv.png",
-      "category": "Local"
-    },
-    {
-      "name": "Purple TV",
-      "url": "http://singamcloud.in:1935/purpletv/purpletv/playlist.m3u8",
-      "category": "Local",
-      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616318402_perpole.png"
-    },
-    {
-      "name": "SMCV TV",
-      "url": "http://singamcloud.in:1935/smcvtv/smcvtv/playlist.m3u8",
-      "category": "Local",
-      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616318924_smcvtv.png"
-    },
-    {
-      "name": "SSS 4K",
-      "logo": "1616319296_ssstv.png",
-      "url": "http://stream.singamcloud.in:1935/ssshd/ssshd/playlist.m3u8",
-      "category": "Local"
-    },
-    {
-      "name": "Shalini MAX",
-      "url": "http://stream.singamcloud.in:1935/shalinimax/shalinimax/playlist.m3u8",
-      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616319472_shalinimax.png",
-      "category": "Local"
-    },
-    {
-      "name": "Vani Plus",
-      "category": "Local",
-      "url": "http://live.singamcloud.in:1935/vanipluse/vanipluse/playlist.m3u8",
-      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616319770_vaniplus.png"
-    },
-    {
-      "name": "Anu TV",
-      "url": "http://live.singamcloud.in:1935/anutv/anutv/playlist.m3u8",
-      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616320869_anutv.png",
-      "category": "Local"
-    },
+
     {
       "name": "Puthuyugam",
       "category": "International",
@@ -349,72 +424,7 @@
       "logo": "https://i.imgur.com/0ApLXUi.png",
       "category": "Entertainment"
     },
-    {
-      "name": "Saran TV",
-      "url": "http://live.singamcloud.in:1935/sarantv/sarantv/playlist.m3u8",
-      "category": "Local",
-      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616483751_sarantv.png"
-    },
-    {
-      "name": "ABM TV",
-      "url": "http://singamcloud.in:1935/abmtv/abmtv/playlist.m3u8",
-      "category": "Local",
-      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616494049_abm.png"
-    },
-    {
-      "name": "Tamilan",
-      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616434820_tamilan.png",
-      "url": "http://media.akamaicdn.us:1935/tamilan/tamilan/playlist.m3u8",
-      "category": "Entertainment"
-    },
-    {
-      "name": "Kumari Now",
-      "url": "http://live.singamcloud.in:1935/kumarinow/kumarinow/playlist.m3u8",
-      "category": "Local",
-      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1617953717_KUMARINow.png"
-    },
-    {
-      "name": "JOS TV",
-      "url": "http://stream.singamcloud.in:1935/jostv/jostv/playlist.m3u8",
-      "category": "Local",
-      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1617956537_Jos_tv.png"
-    },
-    {
-      "name": "SAI TV",
-      "url": "http://live.singamcloud.in:1935/saitvtvl/saitvtvl/playlist.m3u8",
-      "category": "Local",
-      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1618489114_sai_tv.png"
-    },
-    {
-      "name": "Rainbow TV HD",
-      "url": "http://live.singamcloud.in:1935/rainbowtv/rainbowtv/playlist.m3u8",
-      "logo": "https://yt3.ggpht.com/ytc/AAUvwnjl60SR14iQSd4ylAqrjK2Pkd8S0hy12wIkl9LgOg=s900-c-k-c0x00ffffff-no-rj",
-      "category": "Local"
-    },
-    {
-      "name": "Kalai Chinima",
-      "url": "http://singamcloud.in:1935/kalaicinema/kalaicinema/playlist.m3u8",
-      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616232574_kalaichinema.png",
-      "category": "Local"
-    },
-    {
-      "name": "Rasi Hollywood",
-      "logo": "https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.jpg?fakeurl=1&type=.jpg",
-      "url": "http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8",
-      "category": "Local"
-    },
-    {
-      "name": "Rasi Tamil",
-      "logo": "https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.jpg?fakeurl=1&type=.jpg",
-      "url": "http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8",
-      "category": "Local"
-    },
-    {
-      "name": "Rasi Music",
-      "logo": "https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.jpg?fakeurl=1&type=.jpg",
-      "url": "http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8",
-      "category": "Local"
-    },
+
     {
       "name": "Vaanoviya TV",
       "url": "https://stream1.playbox.co.in:1936/vaanoviyatv/vaanoviyatv/playlist.m3u8",
@@ -957,12 +967,7 @@
       "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602587920_1598792614_ETNowcopy.jpg",
       "url": "https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8"
     },
-    {
-      "name": "HARI TV",
-      "logo": "http://haritv.com/images/logo.png",
-      "url": "http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8",
-      "category": "Local"
-    },
+
     {
       "name": "IBC Bakthi",
       "url": "https://ibcbakthi-origin.ibctamil.com/transcode/ibcbakthi.m3u8",
@@ -1621,7 +1626,7 @@
       "name": "JEYSON TV",
       "category": "Local",
       "url": "https://cdn.rjdigilink.in/jeysontv/livetv/playlist.m3u8",
-      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/deepam.png"
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/ /main/extras/images/deepam.png"
     }
   ]
 }
