@@ -6,6 +6,18 @@
     "logo": "https://image.winudf.com/v2/image1/Y29tLnlhYWwuVmlubWVlbk11c2ljX3NjcmVlbl81XzE1NzgxNjMyMTZfMDU0/screen-5.jpg?fakeurl=1&type=.jpg"
   },
   {
+    "name": "News Plus TV",
+    "category": "Religious",
+    "url": "http://hdserver.7starcloud.com:1935/newsplus/live/playlist.m3u8",
+    "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG81454.png"
+  },
+  {
+    "name": "SAI TV",
+    "url": "https://streaming37.worldbbtv.com/hls/saitv.m3u8",
+    "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG93824.png",
+    "category": "Religious"
+  },
+  {
     "name": "IZZAth TV",
     "url": "http://stream.singamcloud.in:1935/izzathtv/izzathtv/playlist.m3u8",
     "category": "Religious",

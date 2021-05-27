@@ -450,6 +450,12 @@
       "logo": "http://nammaoorutv.com/dashboard/upicons/download (8).png"
     },
     {
+      "name": "Bluemoon TV",
+      "category": "Local",
+      "url": "http://bmlive.net:8000/bms/bmtv/bms.m3u8",
+      "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG68898.png"
+    },
+    {
       "name": "Hello TV",
       "url": "http://198.144.149.82:8080/NOTV/HELLOTV/index.m3u8?token=GTR",
       "logo": "http://nammaoorutv.com/dashboard/upicons/hello light blue.png",
@@ -584,7 +590,7 @@
     {
       "name": "Sharvesh 7Star TV",
       "category": "Local",
-      "url": "https://account16.livebox.co.in/account2hls/live.m3u8",
+      "url": "http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8",
       "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG58756.png"
     },
     {
@@ -670,6 +676,12 @@
       "category": "Local",
       "url": "http://mediastreamer.7starcloud.com:1935/arktv/arktv/playlist.m3u8",
       "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG61473.png"
+    },
+    {
+      "name": "News Plus TV",
+      "category": "Religious",
+      "url": "http://hdserver.7starcloud.com:1935/newsplus/live/playlist.m3u8",
+      "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG81454.png"
     },
     {
       "name": "Velur TV",
@@ -768,6 +780,12 @@
       "logo": "http://site1.ultramaxnet.com/client/ultramax/images/kannimartv.jpg"
     },
     {
+      "name": "Nila TV",
+      "logo": "http://site1.ultramaxnet.com/client/ultramax/images/nilaatv.png",
+      "url": "http://hdserver.7starcloud.com:1935/nilatv/livetv/playlist.m3u8",
+      "category": "Local"
+    },
+    {
       "name": "MK HD",
       "category": "Local",
       "url": "https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/mktv_low/index.m3u8",
@@ -813,7 +831,7 @@
     },
     {
       "name": "7Star TV",
-      "url": "http://media.7starcloud.com:1935/live/7star/playlist.m3u8",
+      "url": "http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8",
       "logo": "https://i.imgur.com/EaHWWNl.jpg",
       "category": "Entertainment"
     },
@@ -839,6 +857,12 @@
       "name": "Aasirvadham TV",
       "logo": "http://7startv.in/astv.png",
       "url": "http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w365086533.m3u8",
+      "category": "Local"
+    },
+    {
+      "name": "ACN TV",
+      "url": "https://stream1.playbox.co.in:1936/babatv/babatv/playlist.m3u8",
+      "logo": "http://7starcloud.in/tamilcloud/uploads/images/",
       "category": "Local"
     },
     {
@@ -950,6 +974,11 @@
       "name": "Chithiram TV"
     },
     {
+      "name": "Spice TV", "category": "Local",
+      "url": "http://7starcloud.com:1935/spicetv/spicelivetv/playlist.m3u8",
+      "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG39299.png"
+    },
+    {
       "name": "DD Sports",
       "category": "Sports",
       "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1603524158_1598791651_DD Sportscopy.jpg",
@@ -1023,10 +1052,22 @@
       "category": "Entertainment"
     },
     {
+      "name": "Polimer TV",
+      "url": "http://watchindia.net:8880/live/60275/20486/2147.ts",
+      "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG10684.png",
+      "category": "Entertainment"
+    },
+    {
       "name": "iDream TV",
       "category": "Local",
       "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1609652365_idream.png",
       "url": "http://139.99.41.37:1935/dream/live/playlist.m3u8"
+    },
+    {
+      "name": "SAI TV",
+      "url": "https://streaming37.worldbbtv.com/hls/saitv.m3u8",
+      "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG93824.png",
+      "category": "Religious"
     },
     {
       "name": "Isai Saaral",
@@ -1283,7 +1324,7 @@
     {
       "name": "Sana TV",
       "logo": "https://i.imgur.com/zAQSZeC.png",
-      "url": "http://7starcloud.com:1935/sanatv/sanatv/playlist.m3u8",
+      "url": "http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8",
       "category": "Local"
     },
     {
@@ -1475,7 +1516,7 @@
     {
       "name": "VENDHAR TV",
       "logo": "https://j2apps.s.llnwi.net/isa1/pic/7077.VendarTV.in/en/1x1/208x208/test_pic1596109828563.jpg",
-      "url": "https://m-c06-j2apps.s.llnwi.net/hls/7077.VendarTV.in_288p/index.m3u8",
+      "url": "https://m-c06-j2apps.s.llnwi.net/hls/7077.VendarTV.in_480p/index.m3u8",
       "category": "Local"
     },
     {

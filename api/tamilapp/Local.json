@@ -71,7 +71,6 @@
     "category": "Local",
     "logo": "http:\/\/nammaoorutv.com\/dashboard\/upicons\/Final.png"
   },
-
   {
     "name": "Kings TV",
     "url": "http://nextgeninfotech.ddns.net:8080/hls/kings.m3u8",
@@ -112,7 +111,7 @@
     "name": "MM TV",
     "url": "http://198.144.149.82:8080/NOTV/MMTV/index.m3u8?token=GTR",
     "category": "Local",
-    "logo":"https://play-lh.googleusercontent.com/mPyV_zu5RklUrVQtCR345XwLFN5mkB3OYADq40MRja_dByhqcNHxjXACwy4-hV5KmRE=s180-rw"
+    "logo": "https://play-lh.googleusercontent.com/mPyV_zu5RklUrVQtCR345XwLFN5mkB3OYADq40MRja_dByhqcNHxjXACwy4-hV5KmRE=s180-rw"
   },
   {
     "name": "ARUL TV",
@@ -168,7 +167,6 @@
     "category": "Local",
     "logo": "https://play-lh.googleusercontent.com/-crlR57oMHsivIsNDukhrS5qsDRfeJjDkZhlF9_FQdKDAFiICd3YSamxug6G120P8w=s180-rw"
   },
-
   {
     "name": "AK TV",
     "url": "http://198.144.149.82:8080/NOTV/AKTV/index.m3u8?token=GTR",
@@ -512,6 +510,12 @@
     "category": "Local"
   },
   {
+    "name": "Bluemoon TV",
+    "category": "Local",
+    "url": "http://bmlive.net:8000/bms/bmtv/bms.m3u8",
+    "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG68898.png"
+  },
+  {
     "name": "Uzhavan TV",
     "url": "http://198.144.149.82:8080/NOTV/UZHAVANTV/index.m3u8?token=GTR",
     "logo": "http://nammaoorutv.com/dashboard/upicons/IMG-20200904-WA0058.jpg",
@@ -532,7 +536,7 @@
   {
     "name": "Sharvesh 7Star TV",
     "category": "Local",
-    "url": "https://account16.livebox.co.in/account2hls/live.m3u8",
+    "url": "http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8",
     "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG58756.png"
   },
   {
@@ -715,7 +719,6 @@
     "url": "https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/mayatv_low/index.m3u8",
     "logo": "https://static.ultramaxnet.com/images/maya_tv_logo.png"
   },
-
   {
     "url": "http://7starcloud.com:1935/aarya/aaryatv/playlist.m3u8",
     "category": "Local",
@@ -885,10 +888,22 @@
     "category": "Local"
   },
   {
-    "name": "OM TV",
+    "name": "Nila TV",
+    "logo": "http://site1.ultramaxnet.com/client/ultramax/images/nilaatv.png",
+    "url": "http://hdserver.7starcloud.com:1935/nilatv/livetv/playlist.m3u8",
+    "category": "Local"
+  },
+  {
+    "name": "Spice TV",
     "category": "Local",
-    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602587339_1599302178_omtvcopy.jpg",
-    "url": "http://media.7starcloud.com:1935/omtv/livestream/playlist.m3u8"
+    "url": "http://7starcloud.com:1935/spicetv/spicelivetv/playlist.m3u8",
+    "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG39299.png"
+  },
+  {
+    "name": "ACN TV",
+    "url": "https://stream1.playbox.co.in:1936/babatv/babatv/playlist.m3u8",
+    "logo": "http://7starcloud.in/tamilcloud/uploads/images/",
+    "category": "Local"
   },
   {
     "name": "OM TV",
@@ -902,7 +917,6 @@
     "logo": "http://jenohdtv.gq/wp-content/uploads/2019/11/Pappers-TV.png",
     "name": "Peppers TV"
   },
-
   {
     "url": "http://account12.livebox.co.in/ntvhls/ntv.m3u8",
     "category": "Local",
@@ -948,7 +962,7 @@
   {
     "name": "Sana TV",
     "logo": "https://i.imgur.com/zAQSZeC.png",
-    "url": "http://7starcloud.com:1935/sanatv/sanatv/playlist.m3u8",
+    "url": "http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8",
     "category": "Local"
   },
   {
@@ -1038,7 +1052,7 @@
   {
     "name": "VENDHAR TV",
     "logo": "https://j2apps.s.llnwi.net/isa1/pic/7077.VendarTV.in/en/1x1/208x208/test_pic1596109828563.jpg",
-    "url": "https://m-c06-j2apps.s.llnwi.net/hls/7077.VendarTV.in_288p/index.m3u8",
+    "url": "https://m-c06-j2apps.s.llnwi.net/hls/7077.VendarTV.in_480p/index.m3u8",
     "category": "Local"
   },
   {

@@ -13,7 +13,7 @@
   },
   {
     "name": "7Star TV",
-    "url": "http://media.7starcloud.com:1935/live/7star/playlist.m3u8",
+    "url": "http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8",
     "logo": "https://i.imgur.com/EaHWWNl.jpg",
     "category": "Entertainment"
   },
@@ -21,6 +21,12 @@
     "name": "Aarya Premiere",
     "url": "http://7starcloud.com:1935/aarya/aaryalive/playlist.m3u8",
     "logo": null,
+    "category": "Entertainment"
+  },
+  {
+    "name": "Polimer TV",
+    "url": "http://watchindia.net:8880/live/60275/20486/2147.ts",
+    "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG10684.png",
     "category": "Entertainment"
   },
   {
