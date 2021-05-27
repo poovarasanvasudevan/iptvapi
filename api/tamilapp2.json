@@ -45,8 +45,14 @@
     },
     {
       "name": "SSS 4K",
-      "logo": "1616319296_ssstv.png",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616319296_ssstv.png",
       "url": "http://stream.singamcloud.in:1935/ssshd/ssshd/playlist.m3u8",
+      "category": "Local"
+    },
+    {
+      "name": "SS Varmaa TV",
+      "url": "http://stream.singamcloud.in:1935/ssvarmatv/ssvarmatv/playlist.m3u8",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1618312581_ssvarmatv.png",
       "category": "Local"
     },
     {
