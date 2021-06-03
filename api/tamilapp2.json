@@ -2,6 +2,42 @@
   "showLogo": true,
   "channels": [
     {
+      "url": "https://mntv.livebox.co.in/mntvhls/mntv.m3u8",
+      "category": "Local",
+      "name": "MN TV",
+      "logo": "http://jenohdtv.gq/wp-content/uploads/2019/11/Marutam-Nelli-TV.png"
+    },
+    {
+      "name": "Kanchi TV",
+      "category": "Local",
+      "url": "http://198.144.149.82:8080/NOTV/KANCHITV/tracks-v1a1/mono.m3u8?token=GTR",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616305753_kanichi.png"
+    },
+    {
+      "name": "Sakthi TV",
+      "category": "Local",
+      "url": "http://live.singamcloud.in:1935/sakthitv/sakthitv/playlist.m3u8",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616333670_sakthitv.png"
+    },
+    {
+      "name": "King TV",
+      "category": "Local",
+      "url": "http://account24.livebox.co.in/kinghls/king.m3u8",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616429577_kingtv.png"
+    },
+    {
+      "name": "Jothi TV",
+      "category": "Local",
+      "url": "http://live.singamcloud.in:1935/jothitv/jothitv/playlist.m3u8",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622638174_jothitv.png"
+    },
+    {
+      "name": "Jeyam TV Madurai",
+      "category": "Local",
+      "url": "http://bmlive.net:8000/jeyamtvhd/JeyamTv/bms.m3u8",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616306017_jayamtv.png"
+    },
+    {
       "name": "HARI TV",
       "logo": "http://haritv.com/images/logo.png",
       "url": "http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8",
@@ -1165,12 +1201,7 @@
       "logo": "http://mhdtvworld.com/wp-content/uploads/2019/07/mk_tv_in.png",
       "category": "Entertainment"
     },
-    {
-      "url": "http://mntv.livebox.co.in/mntvhls/mntv.m3u8",
-      "category": "Local",
-      "name": "MN TV",
-      "logo": "http://jenohdtv.gq/wp-content/uploads/2019/11/Marutam-Nelli-TV.png"
-    },
+
     {
       "name": "Moon TV",
       "logo": "http://www.moontvlive.com/images/logo.png",
