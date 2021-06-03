@@ -224,5 +224,12 @@
     "logo": "https://10tvmedia.s3.amazonaws.com/wp-content/uploads/2020/08/10tv-logo-200x200-1.png",
     "type": "yt",
     "category": "News"
+  },
+  {
+    "category": "Entertainment",
+    "name": "Mana TV Telugu",
+    "url": "http://decode.streamplay.in:1935/telugutv/telugutv/playlist.m3u8",
+    "type": "stream",
+    "logo": "https://play-lh.googleusercontent.com/bKKt89-_fMbTPa9Oby_lop-lVwW5tgjfHGB6ZRzrO5kmXNbPniBHkrW9PJ3gCoRmcWo=s180-rw"
   }
 ]

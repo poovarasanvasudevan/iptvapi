@@ -174,5 +174,49 @@
     "channel_type": "URL",
     "video_id": "",
     "category_name": "Satellite Channel"
+  },
+  {
+    "channel_id": 1089,
+    "category_id": 33,
+    "channel_name": "DD SPORTS",
+    "channel_image": "1616435679_DD sports.png",
+    "channel_url": "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8",
+    "channel_description": "",
+    "channel_type": "URL",
+    "video_id": "",
+    "category_name": "Sports"
+  },
+  {
+    "channel_id": 760,
+    "category_id": 33,
+    "channel_name": "Sony Six HD",
+    "channel_image": "1622639372_sonysix.png",
+    "channel_url": "http://212.102.60.40:2200/R-EX/SPORTS_SONY_SIX_HD-in/index.m3u8",
+    "channel_description": "",
+    "channel_type": "URL",
+    "video_id": "",
+    "category_name": "Sports"
+  },
+  {
+    "channel_id": 733,
+    "category_id": 33,
+    "channel_name": "Willow HD",
+    "channel_image": "1622192935_willow.png",
+    "channel_url": "https://atc.hopto.org/Cricket-Willow-Quality/tracks-v3a1/mono.m3u8",
+    "channel_description": "",
+    "channel_type": "URL",
+    "video_id": "",
+    "category_name": "Sports"
+  },
+  {
+    "channel_id": 701,
+    "category_id": 33,
+    "channel_name": "Star Sports 1",
+    "channel_image": "1622188105_star sports tamil.png",
+    "channel_url": "http://212.224.98.206:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=rk",
+    "channel_description": "",
+    "channel_type": "URL",
+    "video_id": "",
+    "category_name": "Sports"
   }
 ]
