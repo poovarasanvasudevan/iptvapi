@@ -1,1 +1,20 @@
-[{"name":"Akaram Kidz","url":"http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8","logo":"https://i.imgur.com/hAgaVPa.jpg","category":"Kids"},{"name":"IBC Kids","url":"https://ibckids-live.ibctamil.com/transcode/ibckids.m3u8","logo":"https://assets.zoftcdn.com/branding/ibctv/ibc-kids.png","category":"Kids"}]
+[
+  {
+    "name": "Akaram Kidz",
+    "url": "http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8",
+    "logo": "https://i.imgur.com/hAgaVPa.jpg",
+    "category": "Kids"
+  },
+  {
+    "name": "IBC Kids",
+    "url": "https://tx1.ibctamil.tv/CDN_IBC_Kids/index.m3u8",
+    "logo": "https://assets.zoftcdn.com/branding/ibctv/ibc-kids.png",
+    "category": "Kids"
+  },
+  {
+    "name": "Tiji Kids",
+    "url": "https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622189968_tijitv.png",
+    "category": "Kids"
+  }
+]

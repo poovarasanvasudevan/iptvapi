@@ -1,5 +1,11 @@
 [
   {
+    "category": "Entertainment",
+    "name": "Yupp Thirai",
+    "url": "http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622187910_yupp.png"
+  },
+  {
     "name": "Tamilan",
     "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616434820_tamilan.png",
     "url": "http://media.akamaicdn.us:1935/tamilan/tamilan/playlist.m3u8",
@@ -71,7 +77,6 @@
     "logo": "https://i.imgur.com/3IzVcjg.png",
     "category": "Entertainment"
   },
-
   {
     "name": "Thalapathy TV",
     "url": "http://7starcloud.com:1935/thalapathytv/livethalapathy/playlist.m3u8",

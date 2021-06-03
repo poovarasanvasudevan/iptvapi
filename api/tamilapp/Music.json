@@ -1,5 +1,47 @@
 [
   {
+    "name": "Tiji Kids",
+    "url": "https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622189968_tijitv.png",
+    "category": "Kids"
+  },
+  {
+    "name": "M Music",
+    "url": "https://mntv.livebox.co.in/musichls/live.m3u8",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622176344_mmusic.png",
+    "category": "Music"
+  },
+  {
+    "name": "Sachin Music",
+    "url": "http://singamcloud.in:1935/sachinmusichd/sachinmusichd/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622178257_satchin.png",
+    "category": "Music"
+  },
+  {
+    "url": "https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8",
+    "name": "IBC Music",
+    "category": "Music",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616431447_IBCisai.png"
+  },
+  {
+    "url": "http://singamcloud.in:1935/kalaiisai/kalaiisai/playlist.m3u8",
+    "name": "Kalai Isai",
+    "category": "Music",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616232479_kalaiisai.png"
+  },
+  {
+    "name": "MK Six",
+    "url": "http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8",
+    "logo": "http://mhdtvworld.com/wp-content/uploads/2018/11/MK_SIX.png",
+    "category": "Music"
+  },
+  {
+    "name": "MK Tunes",
+    "url": "http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8",
+    "logo": "http://mhdtvworld.com/wp-content/uploads/2018/11/MK_TUNES.png",
+    "category": "Music"
+  },
+  {
     "name": "MN Music",
     "url": "rtmp://mntv.livebox.co.in:1935/music/live",
     "category": "Music",

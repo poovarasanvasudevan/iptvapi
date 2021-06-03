@@ -1,5 +1,23 @@
 [
   {
+    "name": "Astro Vaanavil Singapore",
+    "url": "https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8",
+    "category": "International",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622173663_astrovanavill.png"
+  },
+  {
+    "name": "Suriyan TV",
+    "category": "International",
+    "url": "http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622175356_Sooriyantv.png"
+  },
+  {
+    "name": "Vasantham TV singapore",
+    "url": "http://185.180.221.194:8278/streams/d/Vasantham/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622177661_vasanthamtv.png",
+    "category": "International"
+  },
+  {
     "name": "J Vision TV",
     "category": "International",
     "url": "http://198.144.149.82:8080/DINESH/JVISION/index.m3u8?token=GTR",

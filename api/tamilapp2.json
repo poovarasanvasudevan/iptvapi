@@ -2,6 +2,54 @@
   "showLogo": true,
   "channels": [
     {
+      "category": "Entertainment",
+      "name": "Yupp Thirai",
+      "url": "http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622187910_yupp.png"
+    },
+    {
+      "name": "Astro Vaanavil Singapore",
+      "url": "https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8",
+      "category": "International",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622173663_astrovanavill.png"
+    },
+    {
+      "name": "Suriyan TV",
+      "category": "International",
+      "url": "http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622175356_Sooriyantv.png"
+    },
+    {
+      "name": "Vasantham TV singapore",
+      "url": "http://185.180.221.194:8278/streams/d/Vasantham/playlist.m3u8",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622177661_vasanthamtv.png",
+      "category": "International"
+    },
+    {
+      "name": "M Music",
+      "url": "https://mntv.livebox.co.in/musichls/live.m3u8",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622176344_mmusic.png",
+      "category": "Music"
+    },
+    {
+      "name": "Sachin Music",
+      "url": "http://singamcloud.in:1935/sachinmusichd/sachinmusichd/playlist.m3u8",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622178257_satchin.png",
+      "category": "Music"
+    },
+    {
+      "url": "https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8",
+      "name": "IBC Music",
+      "category": "Music",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616431447_IBCisai.png"
+    },
+    {
+      "url": "http://singamcloud.in:1935/kalaiisai/kalaiisai/playlist.m3u8",
+      "name": "Kalai Isai",
+      "category": "Music",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616232479_kalaiisai.png"
+    },
+    {
       "url": "https://mntv.livebox.co.in/mntvhls/mntv.m3u8",
       "category": "Local",
       "name": "MN TV",
@@ -157,7 +205,6 @@
       "logo": "https://yt3.ggpht.com/ytc/AAUvwnjl60SR14iQSd4ylAqrjK2Pkd8S0hy12wIkl9LgOg=s900-c-k-c0x00ffffff-no-rj",
       "category": "Local"
     },
-
     {
       "name": "Rasi Hollywood",
       "logo": "https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.jpg?fakeurl=1&type=.jpg",
@@ -200,7 +247,6 @@
       "logo": "http://nammaoorutv.com/dashboard/upicons/IMG-20201225-WA0345.jpg",
       "category": "Local"
     },
-
     {
       "name": "ACN Erode",
       "url": "rtmp://95.216.226.165:1935/babatv",
@@ -411,7 +457,6 @@
       "category": "Local",
       "logo": "https://harisofttecch.in/tamiltvlive//upload/1617258979_01.png"
     },
-
     {
       "name": "Puthuyugam",
       "category": "International",
@@ -466,7 +511,6 @@
       "logo": "https://i.imgur.com/0ApLXUi.png",
       "category": "Entertainment"
     },
-
     {
       "name": "Vaanoviya TV",
       "url": "https://stream1.playbox.co.in:1936/vaanoviyatv/vaanoviyatv/playlist.m3u8",
@@ -845,8 +889,6 @@
       "url": "https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/alphatv_low/index.m3u8",
       "logo": "http://site1.ultramaxnet.com/client/ultramax/images/alphatv.jpg"
     },
-
-
     {
       "name": "1 Yes TV",
       "category": "News",
@@ -1010,7 +1052,8 @@
       "name": "Chithiram TV"
     },
     {
-      "name": "Spice TV", "category": "Local",
+      "name": "Spice TV",
+      "category": "Local",
       "url": "http://7starcloud.com:1935/spicetv/spicelivetv/playlist.m3u8",
       "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG39299.png"
     },
@@ -1038,7 +1081,6 @@
       "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1602587920_1598792614_ETNowcopy.jpg",
       "url": "https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8"
     },
-
     {
       "name": "IBC Bakthi",
       "url": "https://ibcbakthi-origin.ibctamil.com/transcode/ibcbakthi.m3u8",
@@ -1187,13 +1229,13 @@
       "name": "MK Six",
       "url": "http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8",
       "logo": "http://mhdtvworld.com/wp-content/uploads/2018/11/MK_SIX.png",
-      "category": null
+      "category": "Music"
     },
     {
       "name": "MK Tunes",
       "url": "http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8",
       "logo": "http://mhdtvworld.com/wp-content/uploads/2018/11/MK_TUNES.png",
-      "category": null
+      "category": "Music"
     },
     {
       "name": "MK TV",
@@ -1201,7 +1243,6 @@
       "logo": "http://mhdtvworld.com/wp-content/uploads/2019/07/mk_tv_in.png",
       "category": "Entertainment"
     },
-
     {
       "name": "Moon TV",
       "logo": "http://www.moontvlive.com/images/logo.png",

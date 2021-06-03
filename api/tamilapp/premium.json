@@ -1,0 +1,178 @@
+[
+  {
+    "channel_id": 758,
+    "category_id": 37,
+    "channel_name": "Vijay Music",
+    "channel_image": "1622638898_vijay music.png",
+    "channel_url": "http://212.224.98.196:2200/R-EX/Star_Viyaj_Music-in/index.m3u8?token=rk",
+    "channel_description": "",
+    "channel_type": "URL",
+    "video_id": "",
+    "category_name": "Music"
+  },
+  {
+    "channel_id": 721,
+    "category_id": 37,
+    "channel_name": "Sun Music",
+    "channel_image": "1622186279_sun music.png",
+    "channel_url": "http://uk1.zecast.com:1935/star-live/smusic/chunklist_w1365562027.m3u8",
+    "channel_description": "",
+    "channel_type": "URL",
+    "video_id": "",
+    "category_name": "Music"
+  },
+  {
+    "channel_id": 732,
+    "category_id": 32,
+    "channel_name": "Star Movies",
+    "channel_image": "1622191990_star movies.png",
+    "channel_url": "http://212.224.98.196:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=RK",
+    "channel_description": "",
+    "channel_type": "URL",
+    "video_id": "",
+    "category_name": "Hollywood Channel"
+  },
+  {
+    "channel_id": 726,
+    "category_id": 42,
+    "channel_name": "Jaya TV",
+    "channel_image": "1622187760_jaya tv.png",
+    "channel_url": "http://212.224.98.196:2200/R-EX/TAMIL_JAYA_TV_HD-in/index.m3u8?token=rk",
+    "channel_description": "",
+    "channel_type": "URL",
+    "video_id": "",
+    "category_name": "Satellite Channel"
+  },
+  {
+    "channel_id": 1072,
+    "category_id": 42,
+    "channel_name": "RAJ TV",
+    "channel_image": "1616432987_raj tv.png",
+    "channel_url": "http://203.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8",
+    "channel_description": "",
+    "channel_type": "URL",
+    "video_id": "",
+    "category_name": "Satellite Channel"
+  },
+  {
+    "channel_id": 731,
+    "category_id": 32,
+    "channel_name": "AXN ",
+    "channel_image": "1622191780_axn.png",
+    "channel_url": "http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8",
+    "channel_description": "",
+    "channel_type": "URL",
+    "video_id": "",
+    "category_name": "Hollywood Channel"
+  },
+  {
+    "channel_id": 730,
+    "category_id": 32,
+    "channel_name": "Fox Action Movie",
+    "channel_image": "1622191696_fox action.png",
+    "channel_url": "http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8",
+    "channel_description": "",
+    "channel_type": "URL",
+    "video_id": "",
+    "category_name": "Hollywood Channel"
+  },
+  {
+    "channel_id": 729,
+    "category_id": 32,
+    "channel_name": "HBO HD",
+    "channel_image": "1622191569_hbo hD.png",
+    "channel_url": "http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8",
+    "channel_description": "",
+    "channel_type": "URL",
+    "video_id": "",
+    "category_name": "Hollywood Channel"
+  },
+  {
+    "channel_id": 724,
+    "category_id": 42,
+    "channel_name": "Zee Tamil HD",
+    "channel_image": "1622187488_zeetamil.png",
+    "channel_url": "http://212.224.98.196:2200/R-EX/TAMIL_ZEE_TAMIL_HD-in/index.m3u8?token=rk",
+    "channel_description": "",
+    "channel_type": "URL",
+    "video_id": "",
+    "category_name": "Satellite Channel"
+  },
+  {
+    "channel_id": 723,
+    "category_id": 42,
+    "channel_name": "Zee Thirai",
+    "channel_image": "1622187423_zeethirai.png",
+    "channel_url": "https://z5ams.akamaized.net/out/v1/48fbba85dc7643df9a97fbf6c30cf6a3/index.m3u8?hdnts=st=1620627781~exp=1620630781~acl=/*~hmac=805e7a404f5cdf774489626029a2fb883f0a5b826833226bd0bb2319f9798f29",
+    "channel_description": "",
+    "channel_type": "URL",
+    "video_id": "",
+    "category_name": "Satellite Channel"
+  },
+  {
+    "channel_id": 722,
+    "category_id": 42,
+    "channel_name": "Colors Tamil",
+    "channel_image": "1622186574_colors tamil.png",
+    "channel_url": "http://uk1.zecast.com:1935/star-live/colours/playlist.m3u8",
+    "channel_description": "",
+    "channel_type": "URL",
+    "video_id": "",
+    "category_name": "Satellite Channel"
+  },
+  {
+    "channel_id": 720,
+    "category_id": 42,
+    "channel_name": "Star Vijay Super",
+    "channel_image": "1622186157_vijay super.png",
+    "channel_url": "http://212.224.98.196:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=rk",
+    "channel_description": "",
+    "channel_type": "URL",
+    "video_id": "",
+    "category_name": "Satellite Channel"
+  },
+  {
+    "channel_id": 719,
+    "category_id": 42,
+    "channel_name": "Vijay tv HD",
+    "channel_image": "1622185952_vijay tv.png",
+    "channel_url": "http://212.224.98.196:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=rk",
+    "channel_description": "",
+    "channel_type": "URL",
+    "video_id": "",
+    "category_name": "Satellite Channel"
+  },
+  {
+    "channel_id": 718,
+    "category_id": 42,
+    "channel_name": "K TV HD",
+    "channel_image": "1622185695_ktv.png",
+    "channel_url": "http://uk1.zecast.com:1935/star-live/ktv/chunklist_w866208673.m3u8",
+    "channel_description": "",
+    "channel_type": "URL",
+    "video_id": "",
+    "category_name": "Satellite Channel"
+  },
+  {
+    "channel_id": 717,
+    "category_id": 42,
+    "channel_name": "Adithya TV ",
+    "channel_image": "1622185610_aathiya.png",
+    "channel_url": "http://uk1.zecast.com:1935/star-live/adithya/index.m3u8",
+    "channel_description": "",
+    "channel_type": "URL",
+    "video_id": "",
+    "category_name": "Satellite Channel"
+  },
+  {
+    "channel_id": 716,
+    "category_id": 42,
+    "channel_name": "Sun TV",
+    "channel_image": "1622185413_sun tv.png",
+    "channel_url": "http://185.180.221.194:8278/streams/d/Suntv/playlist.m3u8",
+    "channel_description": "",
+    "channel_type": "URL",
+    "video_id": "",
+    "category_name": "Satellite Channel"
+  }
+]
