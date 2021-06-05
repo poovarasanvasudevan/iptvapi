@@ -1,5 +1,98 @@
 [
   {
+    "stream": "https://kcltv.livebox.co.in/kclhls/live.m3u8",
+    "url": "",
+    "title": "KCL TV",
+    "logo": "https://imgur.com/download/pFcAsl5/"
+  },
+  {
+    "stream": "https://live.wmncdn.net/kaumuditv1/live.stream/chunks.m3u8",
+    "url": "",
+    "title": "Kaumudy",
+    "logo": "https://i.imgur.com/5ukchGM.png"
+  },
+  {
+    "stream": "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/chunks.m3u8",
+    "url": "",
+    "title": "Safari TV",
+    "logo": "https://i.imgur.com/w881DVW.png"
+  },
+  {
+    "stream": "https://live.wmncdn.net/victers/live.stream/chunks.m3u8",
+    "url": "",
+    "title": "Kite-Victers",
+    "logo": "https://imgur.com/download/sq6tRB3/"
+  },
+  {
+    "stream": "https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/playlist.m3u8",
+    "url": "",
+    "title": "ACV Plus",
+    "logo": "https://i.imgur.com/Hcp2Noi.png"
+  },
+  {
+    "stream": "http://cloudcdn.tk:80/JCJd0ex114/tj6BHP7630/21537",
+    "url": "",
+    "title": "Asianet Plus",
+    "logo": "https://imgur.com/download/KEfP8MX/"
+  },
+  {
+    "stream": "http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/6251",
+    "url": "",
+    "title": "Asianet Movies",
+    "logo": "https://imgur.com/download/x4ZACva/"
+  },
+  {
+    "stream": "https://bit.ly/3ucIpHv",
+    "url": "",
+    "title": "Surya TV HD UK",
+    "logo": "https://imgur.com/download/xl5ICfJ/"
+  },
+  {
+    "stream": "http://212.224.98.196:2200/R-EX/MALAYALAM_ASIANET_MIDDLE-EAST-in/index.m3u8?token=",
+    "url": "",
+    "title": "Middle East",
+    "logo": "https://imgur.com/download/eXLxXbh/"
+  },
+  {
+    "stream": "https://streaming37.worldbbtv.com/hls/darshana.m3u8",
+    "url": "",
+    "title": "Darshana TV",
+    "logo": "https://imgur.com/download/C7D2Pdw/"
+  },
+  {
+    "stream": "http://cloud.logicwebs.in:1935/ubl/ublchannel/chunklist_w875749225.m3u8",
+    "url": "",
+    "title": "UBL TV",
+    "logo": "https://imgur.com/download/Hrqfmp5/"
+  },
+  {
+    "url": "",
+    "title": "Zee Keralam",
+    "stream": "https://y5w8j4a9.ssl.hwcdn.net/livingfoodzhd/tracks-v2a1/mono.m3u8",
+    "logo": "https://imgur.com/download/wHKvVQH/"
+  },
+  {
+    "url": "",
+    "title": "Asinet HD",
+    "stream": "http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/10183",
+    "logo": "https://imgur.com/download/rI7ywyz/"
+  },
+
+  {
+    "url": "",
+    "title": "Surya TV HD",
+    "stream": "http://cloudcdn.tk:80/JCJd0ex114/tj6BHP7630/20209",
+    "logo": "https://imgur.com/download/xl5ICfJ/"
+  },
+
+  {
+    "url": "",
+    "title": "Surya TV HD",
+    "stream": "http://cloudcdn.tk:80/JCJd0ex114/tj6BHP7630/20209",
+    "logo": "https://imgur.com/download/xl5ICfJ/"
+  },
+
+  {
     "url": "",
     "logo": "https://play-lh.googleusercontent.com/wo0SFi3_ybJpErzHLAkvjpy85onBfejynFgbXkm4un1iGrE70YnveenC0AW6wfXKLsQ=s180-rw",
     "title": "KCV TV",
@@ -181,6 +274,12 @@
   },
   {
     "url": "",
+    "stream": "https://idvd.multitvsolution.com/idvo/kairaliarabia_540p/index.m3u8",
+    "title": "Kairali Arabia",
+    "logo": "https://i.imgur.com/u5gY8fB.png"
+  },
+  {
+    "url": "",
     "stream": "http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8",
     "title": "Kappa TV",
     "logo": "https://i.imgur.com/MkfPo1V.jpg"
@@ -211,7 +310,7 @@
   },
   {
     "url": "",
-    "stream": "http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8",
+    "stream": "https://bit.ly/3wRyUjd",
     "title": "Mazhavil Manorama HD",
     "logo": "https://i.imgur.com/xCHQrH0.png"
   },
