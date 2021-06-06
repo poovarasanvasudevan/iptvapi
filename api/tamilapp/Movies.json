@@ -22,5 +22,10 @@
     "url": "http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8",
     "logo": "https://i.imgur.com/kKFfLMd.jpg",
     "category": "Movies"
+  },
+  {
+    "name": "Java Movie", "category": "Movies",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622895526_jayatv.png",
+    "url": "https://catchup.yuppcdn.net/amazonv2/20/preview/jayamovies/master/master.m3u8"
   }
 ]

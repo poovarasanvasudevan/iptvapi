@@ -68,6 +68,12 @@
       "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616333670_sakthitv.png"
     },
     {
+      "name": "Meenakshi TV",
+      "url": "http://live.singamcloud.in:1935/meenachitv/meenachitv/playlist.m3u8",
+      "category": "Local",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622797348_meenachi.png"
+    },
+    {
       "name": "King TV",
       "category": "Local",
       "url": "http://account24.livebox.co.in/kinghls/king.m3u8",
@@ -1088,6 +1094,11 @@
       "category": "Religious"
     },
     {
+      "name": "Java Movie", "category": "Movies",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622895526_jayatv.png",
+      "url": "https://catchup.yuppcdn.net/amazonv2/20/preview/jayamovies/master/master.m3u8"
+    },
+    {
       "name": "IBC Comedy",
       "url": "https://ibccomedy-live.ibctamil.com/transcode/ibccomedy.m3u8",
       "logo": "https://assets.zoftcdn.com/branding/ibctv/ibc-pagadi.png",
@@ -1212,6 +1223,18 @@
       "category": "News",
       "logo": "http://jenohdtv.gq/wp-content/uploads/2019/11/Madhimugam-TV.png",
       "name": "Mathimugam TV"
+    },
+    {
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622898529_IMG_20210605_183607.jpg",
+      "name": "KBO Classic",
+      "category": "International",
+      "url": "https://catchup.yuppcdn.net/amazonv2/20/preview/kboclassic/master/master.m3u8"
+    },
+    {
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622898474_IMG_20210605_183550.jpg",
+      "name": "KBO Tamil",
+      "category": "International",
+      "url": "https://catchup.yuppcdn.net/amazonv2/20/preview/kbo/master/master.m3u8"
     },
     {
       "name": "MEENAKSHI TV",

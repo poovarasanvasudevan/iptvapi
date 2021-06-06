@@ -46,5 +46,17 @@
     "category": "International",
     "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1597394379_tvicopy.jpg",
     "url": "http://89.187.162.89/Capital_TV-LIVE/index.m3u8"
+  },
+  {
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622898529_IMG_20210605_183607.jpg",
+    "name": "KBO Classic",
+    "category": "International",
+    "url": "https://catchup.yuppcdn.net/amazonv2/20/preview/kboclassic/master/master.m3u8"
+  },
+  {
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622898474_IMG_20210605_183550.jpg",
+    "name": "KBO Tamil",
+    "category": "International",
+    "url": "https://catchup.yuppcdn.net/amazonv2/20/preview/kbo/master/master.m3u8"
   }
 ]
