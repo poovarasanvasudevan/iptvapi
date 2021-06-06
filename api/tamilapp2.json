@@ -140,6 +140,12 @@
       "category": "Local"
     },
     {
+      "name": "CTS TV",
+      "url": "http://live.singamcloud.in:1935/crstv/crstv/playlist.m3u8",
+      "category": "Local",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616922602_crstv.png"
+    },
+    {
       "name": "SS Varmaa TV",
       "url": "http://stream.singamcloud.in:1935/ssvarmatv/ssvarmatv/playlist.m3u8",
       "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1618312581_ssvarmatv.png",
