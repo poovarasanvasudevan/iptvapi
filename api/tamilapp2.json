@@ -2,6 +2,12 @@
   "showLogo": true,
   "channels": [
     {
+      "category": "Local",
+      "name": "Nivi TV",
+      "url": "http://media.7starcloud.com:1935/live/nivitvlive/playlist.m3u8",
+      "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG86627.png"
+    },
+    {
       "category": "Entertainment",
       "name": "Yupp Thirai",
       "url": "http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8",
@@ -140,7 +146,7 @@
       "category": "Local"
     },
     {
-      "name": "CTS TV",
+      "name": "CRS TV",
       "url": "http://live.singamcloud.in:1935/crstv/crstv/playlist.m3u8",
       "category": "Local",
       "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616922602_crstv.png"
