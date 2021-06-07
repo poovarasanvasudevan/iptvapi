@@ -14,13 +14,6 @@
     "type": "stream"
   },
   {
-    "name": "ETV Bharath Andhra",
-    "logo": "teluguetvnewsAndhra.jpg",
-    "category": "International",
-    "url": "https://d1lqvjyfwvyj07.cloudfront.net/out/v1/d54651fa806648719a92727a661fa0d0/ETVB_CF_AP_NewsTime_1.m3u8",
-    "type": "stream"
-  },
-  {
     "url": "http://blmtech.in:8086/hls/vhmtv/index.m3u8",
     "name": "VHM TV HD",
     "logo": "https://cdn.apk-cloud.com/detail/image/com.gnrdsoftsolutions.SatyaNewsAndroidAppp-w130.png",
@@ -31,63 +24,50 @@
     "url": "http://blmtech.in:8086/hls/csnews/index.m3u8",
     "name": "CS News",
     "category": "News",
-    "logo": "https://play-lh.googleusercontent.com/dCNkN-iBRO8G8p7Q08eNSfUU7L69Wrl_VuUj-hAx5mWmDj7xumbB4RvBGamKpFuxDg=s180-rw",
-    "type": "stream"
-  },
-  {
-    "logo": "https://play-lh.googleusercontent.com/y7nG2foe5dSlc9atI01_uKg0737PdUXVE-SFYDTuH56-tLc7PP2TVHnCsEUn_cjPGkY=s180-rw",
-    "category": "Local",
-    "name": "Saranya TV",
-    "url": "http://blmtech.in:8086/hls/saranyatv/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/csnews.webp",
     "type": "stream"
   },
   {
     "name": "N6 News",
     "url": "http://blmtech.in:8086/hls/ngnews/index.m3u8",
     "category": "News",
-    "logo": "https://play-lh.googleusercontent.com/JHjzDIKPpKuPcc4O4TmOzEyeDJPcAj4mXPB61e2HHwLdUg1rHdCnMif8Q0pp1vAwGGg=s180-rw",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/n6news.jpg",
     "type": "stream"
   },
   {
     "name": "Sathya News",
     "url": "http://blmtech.in:8086/hls/satyanews/index.m3u8",
     "category": "News",
-    "logo": "https://play-lh.googleusercontent.com/DTK6083Z8NlyQrtms-MR_5kx0kurxQzJAfGtQQXAnd4UD9cIs62jxzk7Qo54cz9JtA=s180-rw",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/nsatya.webp",
     "type": "stream"
   },
-  {
-    "name": "Vihari TV",
-    "url": "http://blmtech.in:8086/hls/viharitv/index.m3u8",
-    "category": "Local",
-    "logo": "https://play-lh.googleusercontent.com/SpFUpCdwhHEHLpfW6uWWCWzo0Z2XV0FJl70-E80b-gGkJLK3RbwA3ScV_SUqlvCEWB0P=s180-rw",
-    "type": "stream"
-  },
+
   {
     "name": "Vijwal TV",
     "url": "http://blmtech.in:8086/hls/vijwaltv/index.m3u8",
     "category": "Local",
-    "logo": "https://play-lh.googleusercontent.com/Ld4lhqxIHcjf_PgKJUfioygZ_kz31QlAWwQOGvs3NU59uupNA1F7r969jBJwZyHtr6w=s180-rw",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/vijwal.webp",
     "type": "stream"
   },
   {
     "name": "City News TV",
     "category": "News",
     "url": "http://server.streamplay.in:1935/citynews/citynews/playlist.m3u8",
-    "logo": "https://play-lh.googleusercontent.com/JX__NKk0RMa5P00ROEnftE1hxcA78rMFny0_hdf5YNrLIRx3lEq03tVMgZ7O5a5ffq8=s180-rw",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/citynews.webp",
     "type": "stream"
   },
   {
     "name": "Public TV",
     "category": "Local",
     "url": "http://msoout.freedocast.com/vgpt/publictv/playlist.m3u8",
-    "logo": "https://play-lh.googleusercontent.com/uRymo85379BlCjGB-aVeYRew_jS2hzxEl2qHMLPX2YPUXuxYHLOS0-12cRw7lGfHWZw=s180-rw",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/publictv.webp",
     "type": "stream"
   },
   {
     "name": "VH TV",
     "category": "Local",
     "url": "http://cludestreamplay.com:1935/vhtv/vhtv/playlist.m3u8",
-    "logo": "https://play-lh.googleusercontent.com/0WXFrLHPtLJkXm58dElLz-pp8fv1zn3lN5P9-cnHPBLUHGSYxyj_Tfb0Ki5m6HU92nPS=s180-rw",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/vhtv.webp",
     "type": "stream"
   },
   {
@@ -95,38 +75,6 @@
     "category": "Local",
     "url": "http://blmtech.in:8086/hls/stvtelugu/index.m3u8",
     "logo": "https://yt3.ggpht.com/ytc/AAUvwnj5cbiFsqCEVuplBIqHgAOSkk4W-8wKS-QkxTdLvw=s900-c-k-c0x00ffffff-no-rj",
-    "type": "stream"
-  },
-  {
-    "tmp": "https://www.mxplayer.in/live-tv/cvr-om-live-channel-2591cvromin?language=te",
-    "logo": "https://qqcdnpictest.mxplay.com/pic/2591.CVROM.in/en/1x1/208x208/test_pic1543579789270.jpg",
-    "name": "CVR OM",
-    "category": "Other",
-    "url": "https://m-c04-j2apps.s.llnwi.net/hls/2591.CVROM.in_480p/index.m3u8",
-    "type": "stream"
-  },
-  {
-    "tmp": "https://www.mxplayer.in/live-tv/subhavaartha-live-channel-0434subhavaarthain?language=te",
-    "logo": "https://qqcdnpictest.mxplay.com/pic/0434.Subhavaartha.in/en/1x1/208x208/test_pic1543827303308.jpg",
-    "name": "Subhavaartha",
-    "category": "Other",
-    "url": "https://m-c08-j2apps.s.llnwi.net/hls/0434.Subhavaartha.in_480p/index.m3u8",
-    "type": "stream"
-  },
-  {
-    "tmp": "https://www.mxplayer.in/live-tv/studio-one-plus-live-channel-2269studioonein?language=te",
-    "logo": "https://qqcdnpictest.mxplay.com/pic/2269.StudioOne.in/en/1x1/208x208/test_pic1580125615260.jpg",
-    "name": "Studio One Plus",
-    "category": "Other",
-    "url": "https://m-c16-j2apps.s.llnwi.net/hls/2269.StudioOne.in_480p/index.m3u8",
-    "type": "stream"
-  },
-  {
-    "tmp": "https://www.mxplayer.in/live-tv/tollywood-live-channel-1901tollywoodin?language=te",
-    "logo": "https://qqcdnpictest.mxplay.com/pic/1901.Tollywood.in/en/1x1/208x208/test_pic1535465075607.jpg",
-    "name": "Tollywood",
-    "category": "Other",
-    "url": "https://m-c16-j2apps.s.llnwi.net/hls/1901.Tollywood.in_480p/index.m3u8",
     "type": "stream"
   },
   {
@@ -169,21 +117,6 @@
     "url": "https://m-c06-j2apps.s.llnwi.net/hls/8018.ExpressTV.in_480p/index.m3u8",
     "type": "stream"
   },
-
-  {
-    "category": "Entertainment",
-    "name": "Mana TV Telugu",
-    "url": "http://decode.streamplay.in:1935/telugutv/telugutv/playlist.m3u8",
-    "type": "stream",
-    "logo": "https://play-lh.googleusercontent.com/bKKt89-_fMbTPa9Oby_lop-lVwW5tgjfHGB6ZRzrO5kmXNbPniBHkrW9PJ3gCoRmcWo=s180-rw"
-  },
-  {
-    "category": "News",
-    "url": "https://teluguwebsolutions.com/hls/ysrtv/ysrtv.m3u8",
-    "name": "YSR TV",
-    "type": "stream",
-    "logo": "https://play-lh.googleusercontent.com/RJA4rO1SnKW2QQm2AF80PBni3UpO8qqm3XS7Mma3XLeyvDB9UV3-W8xF1CxWz8PDHFc=s180-rw"
-  },
   {
     "category": "Local",
     "url": "https://gvjyg5n9doem-hls-live.qezycdn.com/metrotv/b1f4f51a218492fff9f0616b4c91297c.sdp/playlist.m3u8",
@@ -197,68 +130,5 @@
     "name": "BCN Channel",
     "type": "stream",
     "logo": "https://play-lh.googleusercontent.com/ClePPVBWTmlUmeTLZEggWZBVROHVyPXHOkyJzXwrnwzIH3NG9mNtTRfQMHm7UD9UNpU1=s180-rw"
-  },
-  {
-    "name": "Shreyas TV",
-    "url": "https://tv.capitalfi.net:4403/Shreyas/live/index.m3u8",
-    "category": "Local",
-    "logo": "https://play-lh.googleusercontent.com/MPWG4eX_b9nUE7hFEL54faL0QZrGCN_vb1f4rPMBEmgKyydSSinwUI3ku7Lb7cGrhlA=s180-rw",
-    "type": "stream"
-  },
-  {
-    "name": "Cowa TV",
-    "url": "http://live.streamplay.in:1935/cowa/cowa/playlist.m3u8",
-    "category": "Local",
-    "type": "stream",
-    "logo": "https://lh3.googleusercontent.com/TpQn_OjdF_NQiVX6ZnEmTJ72jh0pXJ_MhWqyjzdK44xbdUrwSU94t1BXf3PKXWdmdgM"
-  },
-  {
-    "name": "Yuva TV",
-    "url": "http://sundaylive.livebox.co.in/yuvahls/yuvat.m3u8",
-    "category": "Local",
-    "type": "stream",
-    "logo": "http://sundaylive.in/client/client_images/160445625520201103_151308.jpg"
-  },
-  {
-    "name": "ABC Sun Live",
-    "url": "http://sundaylive.livebox.co.in/abcsunlivehls/sundaylive.m3u8",
-    "category": "Local",
-    "type": "stream",
-    "logo": "https://image.winudf.com/v2/image1/Y29tLnR2b25uZXdzX3NjcmVlbl8wXzE2MDM1MjczNDFfMDQ4/screen-0.jpg?fakeurl=1&type=.jpg"
-  },
-  {
-    "name": "Blessings TV",
-    "url": "http://sundaylive.livebox.co.in/blessingtvhls/blessingtvtv.m3u8",
-    "category": "Local",
-    "type": "stream",
-    "logo": "https://images.jdmagicbox.com/comp/chennai/z8/044pxx44.xx44.121213103839.e6z8/catalogue/blessing-tv-thiruvanmiyur-chennai-satellite-channels-cwqcfnc4zu.jpg?clr="
-  },
-  {
-    "name": "JL TV",
-    "url": "http://sundaylive.livebox.co.in/jltvhls/jltvtv.m3u8",
-    "category": "Local",
-    "type": "stream",
-    "logo": "http://sundaylive.in/client/client_images/160445625520201103_151308.jpg"
-  },
-  {
-    "name": "Reshya TV",
-    "url": "http://sundaylive.livebox.co.in/reshyahls/reshyatv.m3u8",
-    "category": "Local",
-    "type": "stream",
-    "logo": "http://prfibers.com/assets/images/reshya%20125.png"
-  },
-  {
-    "name": "Rk 24 / 7",
-    "logo": "https://img7.androidappsapk.co/ihq_voMIgMhxYsgtV6IOvNdAwXRmdJqW8mpAGVU6YEzP8lWmw3m1RwKwG2vbacjBEiHt=s500",
-    "url": "http://sundaylive.livebox.co.in/rk24by7hls/rk24by7tv.m3u8",
-    "category": "News",
-    "type": "stream"
-  },
-  {
-    "url": "http://sundaylive.livebox.co.in/D2Newshls/D2Newsd.m3u8",
-    "name": "D2 News",
-    "category": "News",
-    "type": "stream",
-    "logo": "https://yt3.ggpht.com/ytc/AAUvwnjZNXGJUR1arWBVK1SEtAr0yCBxUpUq2u24ncsdTA=s88-c-k-c0x00ffffff-no-rj"
   }
 ]
