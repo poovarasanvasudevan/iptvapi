@@ -2,6 +2,24 @@
   "showLogo": true,
   "channels": [
     {
+      "category": "Entertainment",
+      "url": "http://live.singamcloud.in:1935/trendingtv/trendingtv/playlist.m3u8",
+      "name": "Trending Tamil TV",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1623072866_trending.png"
+    },
+    {
+      "category": "Education",
+      "name": "Kalvi Channel",
+      "url": "https://askmedia.livebox.co.in/KalviTVhls/5.m3u8",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1620121482_dan-004.jpg"
+    },
+    {
+      "category": "Music",
+      "name": "Marutham Music",
+      "url": "https://mntv.livebox.co.in/musichls/live.m3u8",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1621431616_images.jpg"
+    },
+    {
       "category": "Local",
       "name": "Nivi TV",
       "url": "http://media.7starcloud.com:1935/live/nivitvlive/playlist.m3u8",
@@ -1106,7 +1124,8 @@
       "category": "Religious"
     },
     {
-      "name": "Java Movie", "category": "Movies",
+      "name": "Java Movie",
+      "category": "Movies",
       "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622895526_jayatv.png",
       "url": "https://catchup.yuppcdn.net/amazonv2/20/preview/jayamovies/master/master.m3u8"
     },
