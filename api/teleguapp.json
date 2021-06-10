@@ -1,23 +1,9 @@
 [
   {
-    "url": "https://m-c15-j2apps.s.llnwi.net/hls/2880.DDYadagiri.in.m3u8",
-    "name": "DD Yadagiri",
-    "category": "International",
-    "logo": "mxyadagiri.jpg",
-    "type": "stream"
-  },
-  {
     "url": "https://d1lqvjyfwvyj07.cloudfront.net/out/v1/d54651fa806648719a92727a661fa0d0/ETVB_CF_AP_NewsTime_1.m3u8",
     "name": "ETV Bharath Andhra",
     "category": "News",
     "logo": "teluguetvnewsAndhra.jpg",
-    "type": "stream"
-  },
-  {
-    "url": "http://blmtech.in:8086/hls/vhmtv/index.m3u8",
-    "name": "VHM TV HD",
-    "logo": "https://cdn.apk-cloud.com/detail/image/com.gnrdsoftsolutions.SatyaNewsAndroidAppp-w130.png",
-    "category": "Local",
     "type": "stream"
   },
   {
@@ -28,20 +14,12 @@
     "type": "stream"
   },
   {
-    "name": "N6 News",
-    "url": "http://blmtech.in:8086/hls/ngnews/index.m3u8",
-    "category": "News",
-    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/n6news.jpg",
-    "type": "stream"
-  },
-  {
     "name": "Sathya News",
     "url": "http://blmtech.in:8086/hls/satyanews/index.m3u8",
     "category": "News",
     "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/nsatya.webp",
     "type": "stream"
   },
-
   {
     "name": "Vijwal TV",
     "url": "http://blmtech.in:8086/hls/vijwaltv/index.m3u8",
@@ -71,21 +49,6 @@
     "type": "stream"
   },
   {
-    "name": "S TV Telegu",
-    "category": "Local",
-    "url": "http://blmtech.in:8086/hls/stvtelugu/index.m3u8",
-    "logo": "https://yt3.ggpht.com/ytc/AAUvwnj5cbiFsqCEVuplBIqHgAOSkk4W-8wKS-QkxTdLvw=s900-c-k-c0x00ffffff-no-rj",
-    "type": "stream"
-  },
-  {
-    "tmp": "https://www.mxplayer.in/live-tv/dd-yadagiri-live-channel-2880ddyadagiriin?language=te",
-    "logo": "https://qqcdnpictest.mxplay.com/pic/2880.DDYadagiri.in/en/1x1/208x208/test_pic1535463634327.jpg",
-    "name": "DD Yadagiri",
-    "category": "Other",
-    "url": "https://m-c15-j2apps.s.llnwi.net/hls/2880.DDYadagiri.in_480p/index.m3u8",
-    "type": "stream"
-  },
-  {
     "tmp": "https://www.mxplayer.in/live-tv/tv5-telugu-live-channel-0440tv5teluguin?language=te",
     "logo": "https://qqcdnpictest.mxplay.com/pic/0440.TV5Telugu.in/en/1x1/208x208/test_pic1542964247055.jpg",
     "name": "TV5 Telugu",
@@ -110,12 +73,108 @@
     "type": "stream"
   },
   {
+    "category": "Local",
+    "url": "http://bcnchannelapp.logosys.in:8080/hls/bcnchannelapp.m3u8",
+    "name": "BCN Channel",
+    "type": "stream",
+    "logo": "https://play-lh.googleusercontent.com/ClePPVBWTmlUmeTLZEggWZBVROHVyPXHOkyJzXwrnwzIH3NG9mNtTRfQMHm7UD9UNpU1=s180-rw"
+  },
+  {
+    "url": "http://blmtech.in:8086/hls/vhmtv/index.m3u8",
+    "name": "VHM TV HD",
+    "logo": "https://cdn.apk-cloud.com/detail/image/com.gnrdsoftsolutions.SatyaNewsAndroidAppp-w130.png",
+    "category": "Local",
+    "type": "stream"
+  },
+  {
+    "logo": "https://play-lh.googleusercontent.com/y7nG2foe5dSlc9atI01_uKg0737PdUXVE-SFYDTuH56-tLc7PP2TVHnCsEUn_cjPGkY=s180-rw",
+    "category": "Local",
+    "name": "Saranya TV",
+    "url": "http://blmtech.in:8086/hls/saranyatv/index.m3u8",
+    "type": "stream"
+  },
+  {
+    "name": "N6 News",
+    "url": "http://blmtech.in:8086/hls/ngnews/index.m3u8",
+    "category": "News",
+    "logo": "https://play-lh.googleusercontent.com/JHjzDIKPpKuPcc4O4TmOzEyeDJPcAj4mXPB61e2HHwLdUg1rHdCnMif8Q0pp1vAwGGg=s180-rw",
+    "type": "stream"
+  },
+  {
+    "name": "Vihari TV",
+    "url": "http://blmtech.in:8086/hls/viharitv/index.m3u8",
+    "category": "Local",
+    "logo": "https://play-lh.googleusercontent.com/SpFUpCdwhHEHLpfW6uWWCWzo0Z2XV0FJl70-E80b-gGkJLK3RbwA3ScV_SUqlvCEWB0P=s180-rw",
+    "type": "stream"
+  },
+  {
+    "name": "S TV Telegu",
+    "category": "Local",
+    "url": "http://blmtech.in:8086/hls/stvtelugu/index.m3u8",
+    "logo": "https://yt3.ggpht.com/ytc/AAUvwnj5cbiFsqCEVuplBIqHgAOSkk4W-8wKS-QkxTdLvw=s900-c-k-c0x00ffffff-no-rj",
+    "type": "stream"
+  },
+  {
+    "tmp": "https://www.mxplayer.in/live-tv/cvr-om-live-channel-2591cvromin?language=te",
+    "logo": "https://qqcdnpictest.mxplay.com/pic/2591.CVROM.in/en/1x1/208x208/test_pic1543579789270.jpg",
+    "name": "CVR OM",
+    "category": "Other",
+    "url": "https://m-c04-j2apps.s.llnwi.net/hls/2591.CVROM.in_480p/index.m3u8",
+    "type": "stream"
+  },
+  {
+    "tmp": "https://www.mxplayer.in/live-tv/subhavaartha-live-channel-0434subhavaarthain?language=te",
+    "logo": "https://qqcdnpictest.mxplay.com/pic/0434.Subhavaartha.in/en/1x1/208x208/test_pic1543827303308.jpg",
+    "name": "Subhavaartha",
+    "category": "Other",
+    "url": "https://m-c08-j2apps.s.llnwi.net/hls/0434.Subhavaartha.in_480p/index.m3u8",
+    "type": "stream"
+  },
+  {
+    "tmp": "https://www.mxplayer.in/live-tv/studio-one-plus-live-channel-2269studioonein?language=te",
+    "logo": "https://qqcdnpictest.mxplay.com/pic/2269.StudioOne.in/en/1x1/208x208/test_pic1580125615260.jpg",
+    "name": "Studio One Plus",
+    "category": "Other",
+    "url": "https://m-c16-j2apps.s.llnwi.net/hls/2269.StudioOne.in_480p/index.m3u8",
+    "type": "stream"
+  },
+  {
+    "tmp": "https://www.mxplayer.in/live-tv/tollywood-live-channel-1901tollywoodin?language=te",
+    "logo": "https://qqcdnpictest.mxplay.com/pic/1901.Tollywood.in/en/1x1/208x208/test_pic1535465075607.jpg",
+    "name": "Tollywood",
+    "category": "Other",
+    "url": "https://m-c16-j2apps.s.llnwi.net/hls/1901.Tollywood.in_480p/index.m3u8",
+    "type": "stream"
+  },
+  {
+    "tmp": "https://www.mxplayer.in/live-tv/dd-yadagiri-live-channel-2880ddyadagiriin?language=te",
+    "logo": "https://qqcdnpictest.mxplay.com/pic/2880.DDYadagiri.in/en/1x1/208x208/test_pic1535463634327.jpg",
+    "name": "DD Yadagiri",
+    "category": "Other",
+    "url": "https://m-c15-j2apps.s.llnwi.net/hls/2880.DDYadagiri.in_480p/index.m3u8",
+    "type": "stream"
+  },
+  {
     "tmp": "https://www.mxplayer.in/live-tv/express-tv-live-channel-8018expresstvin?language=te",
     "logo": "https://qqcdnpictest.mxplay.com/pic/8018.ExpressTV.in/en/1x1/208x208/test_pic1603098016693.jpg",
     "name": "Express TV",
     "category": "Other",
     "url": "https://m-c06-j2apps.s.llnwi.net/hls/8018.ExpressTV.in_480p/index.m3u8",
     "type": "stream"
+  },
+  {
+    "category": "Entertainment",
+    "name": "Mana TV Telugu",
+    "url": "http://decode.streamplay.in:1935/telugutv/telugutv/playlist.m3u8",
+    "type": "stream",
+    "logo": "https://play-lh.googleusercontent.com/bKKt89-_fMbTPa9Oby_lop-lVwW5tgjfHGB6ZRzrO5kmXNbPniBHkrW9PJ3gCoRmcWo=s180-rw"
+  },
+  {
+    "category": "News",
+    "url": "https://teluguwebsolutions.com/hls/ysrtv/ysrtv.m3u8",
+    "name": "YSR TV",
+    "type": "stream",
+    "logo": "https://play-lh.googleusercontent.com/RJA4rO1SnKW2QQm2AF80PBni3UpO8qqm3XS7Mma3XLeyvDB9UV3-W8xF1CxWz8PDHFc=s180-rw"
   },
   {
     "category": "Local",
@@ -125,10 +184,122 @@
     "logo": "http://www.metrotvtelugu.com/images/metro-logo.jpg"
   },
   {
+    "name": "Shreyas TV",
+    "url": "https://tv.capitalfi.net:4403/Shreyas/live/index.m3u8",
     "category": "Local",
-    "url": "http://bcnchannelapp.logosys.in:8080/hls/bcnchannelapp.m3u8",
-    "name": "BCN Channel",
+    "logo": "https://play-lh.googleusercontent.com/MPWG4eX_b9nUE7hFEL54faL0QZrGCN_vb1f4rPMBEmgKyydSSinwUI3ku7Lb7cGrhlA=s180-rw",
+    "type": "stream"
+  },
+  {
+    "name": "Cowa TV",
+    "url": "http://live.streamplay.in:1935/cowa/cowa/playlist.m3u8",
+    "category": "Local",
     "type": "stream",
-    "logo": "https://play-lh.googleusercontent.com/ClePPVBWTmlUmeTLZEggWZBVROHVyPXHOkyJzXwrnwzIH3NG9mNtTRfQMHm7UD9UNpU1=s180-rw"
+    "logo": "https://lh3.googleusercontent.com/TpQn_OjdF_NQiVX6ZnEmTJ72jh0pXJ_MhWqyjzdK44xbdUrwSU94t1BXf3PKXWdmdgM"
+  },
+  {
+    "name": "Yuva TV",
+    "url": "http://sundaylive.livebox.co.in/yuvahls/yuvat.m3u8",
+    "category": "Local",
+    "type": "stream",
+    "logo": "http://sundaylive.in/client/client_images/160445625520201103_151308.jpg"
+  },
+  {
+    "name": "ABC Sun Live",
+    "url": "http://sundaylive.livebox.co.in/abcsunlivehls/sundaylive.m3u8",
+    "category": "Local",
+    "type": "stream",
+    "logo": "https://image.winudf.com/v2/image1/Y29tLnR2b25uZXdzX3NjcmVlbl8wXzE2MDM1MjczNDFfMDQ4/screen-0.jpg?fakeurl=1&type=.jpg"
+  },
+  {
+    "name": "Blessings TV",
+    "url": "http://sundaylive.livebox.co.in/blessingtvhls/blessingtvtv.m3u8",
+    "category": "Local",
+    "type": "stream",
+    "logo": "https://images.jdmagicbox.com/comp/chennai/z8/044pxx44.xx44.121213103839.e6z8/catalogue/blessing-tv-thiruvanmiyur-chennai-satellite-channels-cwqcfnc4zu.jpg?clr="
+  },
+  {
+    "name": "JL TV",
+    "url": "http://sundaylive.livebox.co.in/jltvhls/jltvtv.m3u8",
+    "category": "Local",
+    "type": "stream",
+    "logo": "http://sundaylive.in/client/client_images/160445625520201103_151308.jpg"
+  },
+  {
+    "name": "Reshya TV",
+    "url": "http://sundaylive.livebox.co.in/reshyahls/reshyatv.m3u8",
+    "category": "Local",
+    "type": "stream",
+    "logo": "http://prfibers.com/assets/images/reshya%20125.png"
+  },
+  {
+    "name": "Rk 24 / 7",
+    "logo": "https://img7.androidappsapk.co/ihq_voMIgMhxYsgtV6IOvNdAwXRmdJqW8mpAGVU6YEzP8lWmw3m1RwKwG2vbacjBEiHt=s500",
+    "url": "http://sundaylive.livebox.co.in/rk24by7hls/rk24by7tv.m3u8",
+    "category": "News",
+    "type": "stream"
+  },
+  {
+    "url": "http://sundaylive.livebox.co.in/D2Newshls/D2Newsd.m3u8",
+    "name": "D2 News",
+    "category": "News",
+    "type": "stream",
+    "logo": "https://yt3.ggpht.com/ytc/AAUvwnjZNXGJUR1arWBVK1SEtAr0yCBxUpUq2u24ncsdTA=s88-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "url": "IKj_cj51_W0",
+    "name": "ABN Telegu",
+    "category": "International",
+    "logo": "https://live-tv-channels.org/pt-data/uploads/logo/in-abn-telugu-6374.jpg",
+    "type": "yt"
+  },
+  {
+    "name": "HMTV Live",
+    "category": "News",
+    "url": "qIY8IeluF9g",
+    "logo": "https://image3.mouthshut.com/images/imagesp/925599133s.jpg",
+    "type": "yt"
+  },
+  {
+    "name": "V6 News",
+    "category": "News",
+    "url": "bl9VaUaI0r0",
+    "logo": "https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/06/22/v8.jpg?itok=YIownLbh",
+    "type": "yt"
+  },
+  {
+    "name": "TV9 Telugu",
+    "category": "News",
+    "url": "Q6QR4979KIQ",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/TV9TeluguLogo.jpg",
+    "type": "yt"
+  },
+  {
+    "name": "TV5 News",
+    "url": "lyRusqvbZMc",
+    "logo": "https://yt3.ggpht.com/Hz0ZWAZq64ouDXsGnGv9h1cG6wezsPuYowayytoEVchaYErA8k08WWfA5ox35jJ0hRgn4oBkHg=s900-c-k-c0x00ffffff-no-rj",
+    "type": "yt",
+    "category": "News"
+  },
+  {
+    "name": "NTV Telugu",
+    "url": "HUiHKse-YgM",
+    "logo": "https://telugupeople.org/wp-content/uploads/2019/06/NTV.png",
+    "type": "yt",
+    "category": "News"
+  },
+  {
+    "name": "T News Live",
+    "url": "m4QKX6fdBKE",
+    "logo": "https://i.pinimg.com/736x/48/2a/3f/482a3f645351690897caf339b02ff0ba.jpg",
+    "type": "yt",
+    "category": "News"
+  },
+  {
+    "name": "10TV News",
+    "url": "dblGda8apjk",
+    "logo": "https://10tvmedia.s3.amazonaws.com/wp-content/uploads/2020/08/10tv-logo-200x200-1.png",
+    "type": "yt",
+    "category": "News"
   }
 ]
