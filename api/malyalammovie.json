@@ -1,0 +1,12 @@
+[
+  {
+    "name": "V (Malayalam)",
+    "logo": "https://image.tmdb.org/t/p/w185/iBVcwOVZNGNCNlOLFmcYJW83tTu.jpg",
+    "stream": "https://api.inditechman.com/movies/malayalam/v.mp4"
+  },
+  {
+    "name": "Rangasthalam (Malayalam)",
+    "logo": "https://image.tmdb.org/t/p/w185/yiEzDgBBFC25Zd6z0r7sMngn5vr.jpg",
+    "stream": "https://api.inditechman.com/movies/malayalam/Rangasthalam.mp4"
+  }
+]
