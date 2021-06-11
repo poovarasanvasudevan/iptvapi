@@ -50,6 +50,8 @@
   },
   {
     "name": "News 18 Malayalam",
+    "category": "News",
+    "type": "stream",
     "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622638042_news18.png",
     "url": "https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8?sd=10&rebase=on"
   },
