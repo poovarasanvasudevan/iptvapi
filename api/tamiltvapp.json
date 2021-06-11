@@ -1748,6 +1748,18 @@
         "url": "https://tx1.ibctamil.tv/CDN_IBC_Kids/index.m3u8",
         "logo": "https://assets.zoftcdn.com/branding/ibctv/ibc-kids.png",
         "category": "Kids"
+      },
+      {
+        "name": "Tiji Kids",
+        "url": "https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8",
+        "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622189968_tijitv.png",
+        "category": "Kids"
+      },
+      {
+        "name": "MR Bean",
+        "url": "http://bit.ly/5gBean",
+        "logo": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/bbc62fbd2f7c5259e2f9fec89ec073ed373de093a982759de84fde243709f14f._RI_V_TTW_.jpg",
+        "category": "Kids"
       }
     ]
   },
