@@ -31,108 +31,108 @@
     "type": "stream",
     "name": "Media4",
     "category": "Local",
-    "logo": "1622369151_IMG-20210530-WA0014.jpg",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622369151_IMG-20210530-WA0014.jpg",
     "url": "http://live.singamcloud.in:1935/media4/media4/playlist.m3u8"
   },
   {
     "name": "TCV",
-    "logo": "1622645536_IMG_20210602_201956.jpg",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622645536_IMG_20210602_201956.jpg",
     "url": "https://stream.ufworldind.in/tcv/tcv/playlist.m3u8",
     "category": "Local",
     "type": "stream"
   },
   {
     "name": "MY TV",
-    "logo": "1622638282_mytv.png",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622638282_mytv.png",
     "url": "http://bmlive.net:8000/mytvkl/mytvkl/bms.m3u8",
     "category": "Local",
     "type": "stream"
   },
   {
     "name": "News 18 Malayalam",
-    "logo": "1622638042_news18.png",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622638042_news18.png",
     "url": "https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8?sd=10&rebase=on"
   },
   {
     "name": "Kaumudy",
-    "logo": "1622286807_Kaumudy TV.png",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622286807_KaumudyTV.png",
     "url": "http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8",
     "category": "Local",
     "type": "stream"
   },
   {
     "name": "Kappa TV",
-    "logo": "1622286601_kappa.png",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622286601_kappa.png",
     "url": "http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8",
     "category": "Local",
     "type": "stream"
   },
   {
     "name": "Manorama News",
-    "logo": "1622285815_mano.png",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622285815_mano.png",
     "url": "http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8",
     "category": "Local",
     "type": "stream"
   },
   {
     "name": "Kairali",
-    "logo": "1622285594_Kairali.png",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622285594_Kairali.png",
     "url": "http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/Stream(01)/index.m3u8",
     "category": "Local",
     "type": "stream"
   },
   {
     "name": "Jaihind TV",
-    "logo": "1622285476_Jaihind TV.png",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622285476_JaihindTV.png",
     "url": "http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8",
     "category": "Local",
     "type": "stream"
   },
   {
     "name": "Flowers TV",
-    "logo": "1622285264_Flowers TV.png",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622285264_FlowersTV.png",
     "url": "http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8",
     "category": "Local",
     "type": "stream"
   },
   {
     "name": "DD Malayalam",
-    "logo": "1622285110_DD malayam.png",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622285110_DDmalayam.png",
     "url": "http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8",
     "category": "Local",
     "type": "stream"
   },
   {
     "name": "Nvision",
-    "logo": "1622284783_Nvision.png",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622284783_Nvision.png",
     "url": "http://live.singamcloud.in:1935/nvision/nvision/playlist.m3u8",
     "category": "Local",
     "type": "stream"
   },
   {
     "name": "Jeevan tv",
-    "logo": "1622284673_janam tv copy.png",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622284673_janamvcopy.png",
     "url": "http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8",
     "category": "Local",
     "type": "stream"
   },
   {
     "name": "Amrita TV",
-    "logo": "1622284492_Amrita TV.png",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622284492_AmritaTV.png",
     "url": "http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8",
     "category": "Local",
     "type": "stream"
   },
   {
     "name": "Asianet NEWS",
-    "logo": "1622284368_ASINET.png",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622284368_ASINET.png",
     "url": "http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8",
     "category": "Local",
     "type": "stream"
   },
   {
     "name": "janam tv",
-    "logo": "1622284191_janam tv copy.png",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622284191_janamtvcopy.png",
     "url": "https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live2/chunks.m3u8",
     "category": "Local",
     "type": "stream"
