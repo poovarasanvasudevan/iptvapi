@@ -13,8 +13,6 @@
     "name": "Malanadu TV",
     "type": "stream"
   },
-
-
   {
     "url": "https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8",
     "logo": "https://www.onlinechannels.live/wp-content/uploads/2020/05/Victers-Channel.jpg",
@@ -29,140 +27,115 @@
     "name": "Harvest TV",
     "type": "stream"
   },
-
   {
-    "url": "MSvVHEzEAJ0",
-    "logo": "https://www.onlinechannels.live/wp-content/uploads/2021/02/Kerala-Vision-News.jpg",
-    "category": "News",
-    "name": "Kerala Visin News",
-    "type": "yt"
-  },
-  {
-    "url": "yVdV_-wuau4",
-    "logo": "https://www.onlinechannels.live/wp-content/uploads/2021/01/Sabha-TV.jpg",
-    "category": "News",
-    "name": "Sabha TV",
-    "type": "yt"
-  },
-  {
-    "url": "JstrU2QnMY0",
-    "logo": "https://www.onlinechannels.live/wp-content/uploads/2018/08/asianet_news1-1.png",
-    "category": "News",
-    "name": "Asianet News",
-    "type": "yt"
-  },
-  {
-    "url": "zcrUCvBD16k",
-    "logo": "https://www.onlinechannels.live/wp-content/uploads/2018/12/24news_logo.png",
-    "category": "News",
-    "name": "24 Malayalam",
-    "type": "yt"
-  },
-  {
-    "url": "jjH6v95z3Nw",
-    "logo": "https://www.onlinechannels.live/wp-content/uploads/2017/05/manorama_news4.png",
-    "category": "News",
-    "name": "Manorama News",
-    "type": "yt"
-  },
-  {
-    "url": "z3EoIQAKJ5c",
-    "logo": "https://www.onlinechannels.live/wp-content/uploads/2018/08/mathrubhumi_news.png",
-    "category": "News",
-    "name": "Mathrubhumi News",
-    "type": "yt"
-  },
-  {
-    "url": "d1iwUB9YFnA",
-    "logo": "https://www.onlinechannels.live/wp-content/uploads/2018/08/media_one-1.png",
-    "category": "News",
-    "name": "Media One",
-    "type": "yt"
-  },
-  {
-    "url": "ET5Y3H3Jusc",
-    "logo": "https://www.onlinechannels.live/wp-content/uploads/2019/06/kairali_news.jpg",
-    "category": "News",
-    "name": "Kairali News",
-    "type": "yt"
-  },
-  {
-    "url": "iTrw7Dqz_4s",
-    "logo": "https://www.onlinechannels.live/wp-content/uploads/2018/08/news18_kerala-1.png",
-    "category": "News",
-    "name": "News 18 Kerla",
-    "type": "yt"
-  },
-  {
-    "url": "_WK30gnY3_4",
-    "logo": "https://www.onlinechannels.live/wp-content/uploads/2018/11/janam_tv_logo.png",
-    "category": "News",
-    "name": "Janam TV Live",
-    "type": "yt"
-  },
-  {
-    "url": "1Xg1K7y0YZk",
-    "logo": "https://www.onlinechannels.live/wp-content/uploads/2021/05/gregorian-tv.jpg",
-    "category": "Regional",
-    "name": "Gregorial TV",
-    "type": "yt"
-  },
-  {
-    "url": "paKhjvslvXk",
-    "logo": "https://www.onlinechannels.live/wp-content/uploads/2020/05/jaihind-tv.jpg",
-    "category": "News",
-    "name": "Jai Hind TV",
-    "type": "yt"
-  },
-  {
-    "url": "c33ORWYFOCE",
-    "logo": "https://www.onlinechannels.live/wp-content/uploads/2020/03/Shekinah-tv-channel.jpg",
-    "category": "News",
-    "name": "Shekinah News Live",
-    "type": "yt"
-  },
-  {
-    "url": "2IC_P9J-ugg",
-    "logo": "https://www.onlinechannels.live/wp-content/uploads/2020/02/Goodness-tv.jpg",
-    "category": "Regional",
-    "name": "Goodness TV",
-    "type": "yt"
-  },
-
-  {
-    "url": "ET5Y3H3Jusc",
-    "logo": "https://www.onlinechannels.live/wp-content/uploads/2018/08/kairali-1.png",
-    "category": "News",
-    "name": "Kairali People TV",
-    "type": "yt"
-  },
-  {
-    "url": "B-D4yeSj_Ug",
-    "logo": "https://www.onlinechannels.live/wp-content/uploads/2018/08/pulari_tv_logo.png",
+    "type": "stream",
+    "name": "Media4",
     "category": "Local",
-    "name": "Pulari TV",
-    "type": "yt"
+    "logo": "1622369151_IMG-20210530-WA0014.jpg",
+    "url": "http://live.singamcloud.in:1935/media4/media4/playlist.m3u8"
   },
   {
-    "url": "O99sp7830yk",
-    "logo": "https://www.onlinechannels.live/wp-content/uploads/2018/08/mangalam-1.png",
-    "category": "News",
-    "name": "Mangalam TV",
-    "type": "yt"
+    "name": "TCV",
+    "logo": "1622645536_IMG_20210602_201956.jpg",
+    "url": "https://stream.ufworldind.in/tcv/tcv/playlist.m3u8",
+    "category": "Local",
+    "type": "stream"
   },
   {
-    "url": "cLEHxvjFTSg",
-    "logo": "https://www.onlinechannels.live/wp-content/uploads/2018/08/reporter-1.png",
-    "category": "News",
-    "name": "Reporter Live",
-    "type": "yt"
+    "name": "MY TV",
+    "logo": "1622638282_mytv.png",
+    "url": "http://bmlive.net:8000/mytvkl/mytvkl/bms.m3u8",
+    "category": "Local",
+    "type": "stream"
   },
   {
-    "url": "L42NP9a8paw",
-    "logo": "https://www.onlinechannels.live/wp-content/uploads/2018/08/powervisiontv-1.png",
-    "category": "Regional",
-    "name": "Power Vision TV",
-    "type": "yt"
+    "name": "News 18 Malayalam",
+    "logo": "1622638042_news18.png",
+    "url": "https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8?sd=10&rebase=on"
+  },
+  {
+    "name": "Kaumudy",
+    "logo": "1622286807_Kaumudy TV.png",
+    "url": "http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8",
+    "category": "Local",
+    "type": "stream"
+  },
+  {
+    "name": "Kappa TV",
+    "logo": "1622286601_kappa.png",
+    "url": "http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8",
+    "category": "Local",
+    "type": "stream"
+  },
+  {
+    "name": "Manorama News",
+    "logo": "1622285815_mano.png",
+    "url": "http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8",
+    "category": "Local",
+    "type": "stream"
+  },
+  {
+    "name": "Kairali",
+    "logo": "1622285594_Kairali.png",
+    "url": "http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/Stream(01)/index.m3u8",
+    "category": "Local",
+    "type": "stream"
+  },
+  {
+    "name": "Jaihind TV",
+    "logo": "1622285476_Jaihind TV.png",
+    "url": "http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8",
+    "category": "Local",
+    "type": "stream"
+  },
+  {
+    "name": "Flowers TV",
+    "logo": "1622285264_Flowers TV.png",
+    "url": "http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8",
+    "category": "Local",
+    "type": "stream"
+  },
+  {
+    "name": "DD Malayalam",
+    "logo": "1622285110_DD malayam.png",
+    "url": "http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8",
+    "category": "Local",
+    "type": "stream"
+  },
+  {
+    "name": "Nvision",
+    "logo": "1622284783_Nvision.png",
+    "url": "http://live.singamcloud.in:1935/nvision/nvision/playlist.m3u8",
+    "category": "Local",
+    "type": "stream"
+  },
+  {
+    "name": "Jeevan tv",
+    "logo": "1622284673_janam tv copy.png",
+    "url": "http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8",
+    "category": "Local",
+    "type": "stream"
+  },
+  {
+    "name": "Amrita TV",
+    "logo": "1622284492_Amrita TV.png",
+    "url": "http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8",
+    "category": "Local",
+    "type": "stream"
+  },
+  {
+    "name": "Asianet NEWS",
+    "logo": "1622284368_ASINET.png",
+    "url": "http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8",
+    "category": "Local",
+    "type": "stream"
+  },
+  {
+    "name": "janam tv",
+    "logo": "1622284191_janam tv copy.png",
+    "url": "https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live2/chunks.m3u8",
+    "category": "Local",
+    "type": "stream"
   }
 ]
 
