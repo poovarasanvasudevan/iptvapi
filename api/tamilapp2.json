@@ -125,7 +125,7 @@
       "name": "Kalai Cinema",
       "url": "http://singamcloud.in:8080/kalaicinema/kalaicinema/playlist.m3u8",
       "logo": "http://nammaoorutv.com/dashboard/upicons/IMG-20200908-WA0064.jpg",
-      "category": "Local"
+      "category": "Movies"
     },
     {
       "name": "Yogaa TV",
@@ -166,7 +166,7 @@
     {
       "name": "CRS TV",
       "url": "http://live.singamcloud.in:1935/crstv/crstv/playlist.m3u8",
-      "category": "Local",
+      "category": "Religious",
       "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616922602_crstv.png"
     },
     {
@@ -191,12 +191,6 @@
       "name": "Anu TV",
       "url": "http://live.singamcloud.in:1935/anutv/anutv/playlist.m3u8",
       "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616320869_anutv.png",
-      "category": "Local"
-    },
-    {
-      "name": "Kalai Chinima",
-      "url": "http://singamcloud.in:1935/kalaicinema/kalaicinema/playlist.m3u8",
-      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616232574_kalaichinema.png",
       "category": "Local"
     },
     {
@@ -245,19 +239,19 @@
       "name": "Rasi Hollywood",
       "logo": "https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.jpg?fakeurl=1&type=.jpg",
       "url": "http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8",
-      "category": "Local"
+      "category": "Movies"
     },
     {
       "name": "Rasi Tamil",
       "logo": "https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.jpg?fakeurl=1&type=.jpg",
       "url": "http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8",
-      "category": "Local"
+      "category": "Movies"
     },
     {
       "name": "Rasi Music",
       "logo": "https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.jpg?fakeurl=1&type=.jpg",
       "url": "http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8",
-      "category": "Local"
+      "category": "Music"
     },
     {
       "name": "J Vision TV",
@@ -305,7 +299,7 @@
       "name": "KL My TV",
       "url": "http://bmlive.net:8000/mytvkl/mytvkl/bms.m3u8",
       "logo": "http://nammaoorutv.com/dashboard/upicons/IMG-20210324-WA0002.jpg",
-      "category": "Local"
+      "category": "Malayalam"
     },
     {
       "name": "V TV",
@@ -347,7 +341,7 @@
       "name": "KCV TV",
       "url": "http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR",
       "logo": "http://nammaoorutv.com/dashboard/upicons/IMG-20201211-WA0007.jpg",
-      "category": "Local"
+      "category": "Malayalam"
     },
     {
       "name": "KPM TV",
@@ -396,12 +390,6 @@
       "category": "Local",
       "url": "http://198.144.149.82:8080/NOTV/AMTV/index.m3u8?token=GTR",
       "logo": "https://play-lh.googleusercontent.com/jQByRmyu-l1KW4BvpyGrGal4LJZoMo0Jy5LtI9GHS25GTHCIp6VC5ZYme4eMhrLA0VsU=s180-rw"
-    },
-    {
-      "name": "JM TV",
-      "category": "Local",
-      "url": "http://198.144.149.82:8080/NOTV/JMTV/index.m3u8?token=GTR",
-      "logo": "https://play-lh.googleusercontent.com/5xFHW_xzj4il2ZkE2bYBmZhdxsLm33RzaqOmklQ0LMjYqe5rNy_WWImjZDJVZvzZ6Fc=s180-rw"
     },
     {
       "name": "EZHIL TV",
@@ -561,7 +549,7 @@
     },
     {
       "name": "Analai Express TV",
-      "category": "Local",
+      "category": "International",
       "url": "http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR",
       "logo": "http://nammaoorutv.com/dashboard/upicons/download (8).png"
     },
@@ -581,7 +569,7 @@
       "name": "Jay TV",
       "url": "http://198.144.149.82:8080/JAYTV/index.m3u8?token=GTR",
       "logo": "http://nammaoorutv.com/dashboard/upicons/Jay tv.png",
-      "category": "Local"
+      "category": "International"
     },
     {
       "name": "JCV TV",
@@ -611,19 +599,19 @@
       "name": "Laxmi Tv",
       "url": "http://198.144.149.82:8080/NOTV/LAXMITV/index.m3u8?token=GTR",
       "logo": "http://nammaoorutv.com/dashboard/upicons/IMG-20201006-WA0000.jpg",
-      "category": "Local"
+      "category": "Religious"
     },
     {
       "name": "Life Tv",
       "url": "http://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8",
       "logo": "http://nammaoorutv.com/dashboard/upicons/images (6).jpeg",
-      "category": "Local"
+      "category": "Religious"
     },
     {
       "name": "Life Tv Plus",
       "url": "http://lifetv.livebox.co.in/lifetvtamilhls/live.m3u8",
       "logo": "http://nammaoorutv.com/dashboard/upicons/life tv plus india.png",
-      "category": "Local"
+      "category": "Religious"
     },
     {
       "name": "Metro TV",
@@ -641,7 +629,7 @@
       "name": "Mon Tamil TV",
       "url": "http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR",
       "logo": "http://nammaoorutv.com/dashboard/upicons/montamiltv.jpeg",
-      "category": "Local"
+      "category": "International"
     },
     {
       "name": "Orange TV",
@@ -665,7 +653,7 @@
       "name": "Sivan TV",
       "url": "http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8",
       "logo": "http://nammaoorutv.com/dashboard/upicons/IMG-20191110-WA0045.jpg",
-      "category": "Local"
+      "category": "Religious"
     },
     {
       "name": "Tamilan TV",
@@ -819,7 +807,7 @@
     },
     {
       "name": "Imayam TV",
-      "category": "Local",
+      "category": "Entertainment",
       "url": "https://itvorigin.multitvsolution.com/idvo/imayamtv_540p/index.m3u8",
       "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG54067.png"
     },
@@ -861,7 +849,7 @@
     },
     {
       "name": "Jeevan TV",
-      "category": "Local",
+      "category": "Religious",
       "url": "https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ammatvvdr_low/index.m3u8",
       "logo": "http://site1.ultramaxnet.com/client/ultramax/images/jeevantv.jpg"
     },
@@ -971,7 +959,7 @@
       "name": "Aasirvadham TV",
       "logo": "http://7startv.in/astv.png",
       "url": "http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w365086533.m3u8",
-      "category": "Local"
+      "category": "Religious"
     },
     {
       "name": "ACN TV",
@@ -1031,7 +1019,7 @@
       "name": "AUS TAMIL",
       "logo": "https://austamil.tv/wp-content/uploads/2020/04/aus-tamil-HD-New-e1586081963171.png",
       "url": "https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8",
-      "category": "Local"
+      "category": "International"
     },
     {
       "url": "http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w794457741.m3u8",
@@ -1079,11 +1067,11 @@
       "name": "CAPTAIN TV",
       "logo": "https://j2apps.s.llnwi.net/isa1/pic/0680.CaptainTV.in/en/1x1/208x208/test_pic1535463113447.jpg",
       "url": "https://m-c29-j2apps.s.llnwi.net/hls/0680.CaptainTV.in_288p/index.m3u8",
-      "category": "Local"
+      "category": "Entertainment"
     },
     {
       "url": "http://103.199.161.254/Content/kalaignarchittiram/Live/Channel(KalaignarChittiram)/Stream(01)/index.m3u8",
-      "category": "Local",
+      "category": "Movies",
       "logo": "http://jenohdtv.gq/wp-content/uploads/2019/11/Chithiram-TV.png",
       "name": "Chithiram TV"
     },
@@ -1179,7 +1167,7 @@
     },
     {
       "name": "iDream TV",
-      "category": "Local",
+      "category": "Music",
       "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1609652365_idream.png",
       "url": "http://139.99.41.37:1935/dream/live/playlist.m3u8"
     },
@@ -1191,7 +1179,7 @@
     },
     {
       "name": "Isai Saaral",
-      "category": "Local",
+      "category": "Music",
       "url": "http://bmlive.net:8000/srmusix/srmusix/bms.m3u8",
       "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/85.png"
     },
@@ -1199,7 +1187,7 @@
       "name": "ISAIARUVI",
       "logo": "https://j2apps.s.llnwi.net/isa1/pic/0390.IsaiAruvi.in/en/1x1/208x208/test_pic1552384764086.jpg",
       "url": "https://m-c049-j2apps.s.llnwi.net/hls/0390.IsaiAruvi.in_360p/index.m3u8",
-      "category": "Local"
+      "category": "Music"
     },
     {
       "url": "http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8",
@@ -1229,11 +1217,11 @@
       "name": "Madha TV",
       "logo": "https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Madha_TV-black.png",
       "url": "http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w67072347.m3u8",
-      "category": "Local"
+      "category": "Religious"
     },
     {
       "url": "https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/mono.m3u8",
-      "category": "Local",
+      "category": "Entertainment",
       "logo": "http://jenohdtv.gq/wp-content/uploads/2019/11/Makkal-TV.png",
       "name": "Makkal TV"
     },
@@ -1301,7 +1289,7 @@
       "name": "Moon TV",
       "logo": "http://www.moontvlive.com/images/logo.png",
       "url": "http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8",
-      "category": "Local"
+      "category": "Entertainment"
     },
     {
       "name": "MTV",
@@ -1311,7 +1299,7 @@
     },
     {
       "url": "http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8",
-      "category": "Local",
+      "category": "Music",
       "logo": "http://jenohdtv.gq/wp-content/uploads/2019/11/Murasu-TV.png",
       "name": "Murasu TV"
     },
@@ -1383,7 +1371,7 @@
     },
     {
       "url": "http://xlbor33arvaj-hls-live.wmncdn.net/peppers/live.stream/index.m3u8",
-      "category": "Local",
+      "category": "Music",
       "logo": "http://jenohdtv.gq/wp-content/uploads/2019/11/Pappers-TV.png",
       "name": "Peppers TV"
     },
@@ -1410,24 +1398,6 @@
       "category": "Local",
       "logo": "http://ambitious.in.net/new/cloudTv/uploads/images/channel_IMG2922.png",
       "url": "http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8"
-    },
-    {
-      "name": "Rasi Classic",
-      "logo": "https://i.imgur.com/vqtHzOL.jpg",
-      "url": "http://singamcloud.in:1935/rasinetwork/rasiclassic/playlist.m3u8",
-      "category": "Local"
-    },
-    {
-      "name": "Rasi Movies",
-      "logo": "https://i.imgur.com/vqtHzOL.jpg",
-      "url": "http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8",
-      "category": "Movies"
-    },
-    {
-      "name": "Rasi TV",
-      "logo": "https://i.imgur.com/i9ct2MX.png",
-      "url": "http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8",
-      "category": "Local"
     },
     {
       "name": "Reach TV",
@@ -1457,7 +1427,7 @@
       "name": "Sangamam HD",
       "logo": "http://sangamamtv.com/images/logo%20header%20banner.png",
       "url": "http://livematrix.in:1935/live/sangamamtv/playlist.m3u8",
-      "category": "Local"
+      "category": "Music"
     },
     {
       "name": "Santhora Short Flim",
@@ -1487,7 +1457,7 @@
       "name": "SD Media",
       "logo": "https://i.imgur.com/FigDbPo.png",
       "url": "http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8",
-      "category": "Local"
+      "category": "Music"
     },
     {
       "name": "Singam TV",
@@ -1571,7 +1541,7 @@
       "name": "TUNE 6",
       "logo": "https://j2apps.s.llnwi.net/isa1/pic/3731.Tunes6.in/en/1x1/208x208/test_pic1552387113014.jpg",
       "url": "https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8",
-      "category": "Local"
+      "category": "Music"
     },
     {
       "name": "TV9",
@@ -1607,7 +1577,7 @@
       "name": "VANAVIL",
       "logo": "https://vaanavil.live/wp-content/uploads/2019/10/Vaanavil-Logo-GIF.gif",
       "url": "https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8",
-      "category": "Local"
+      "category": "Music"
     },
     {
       "name": "Vanavil Plus",
@@ -1623,7 +1593,7 @@
     },
     {
       "url": "http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f",
-      "category": "Local",
+      "category": "Entertainment",
       "logo": "http://jenohdtv.gq/wp-content/uploads/2019/11/Vasanth-TV.png",
       "name": "Vasanth TV"
     },
@@ -1643,7 +1613,7 @@
       "name": "VENDHAR TV",
       "logo": "https://j2apps.s.llnwi.net/isa1/pic/7077.VendarTV.in/en/1x1/208x208/test_pic1596109828563.jpg",
       "url": "https://m-c06-j2apps.s.llnwi.net/hls/7077.VendarTV.in_480p/index.m3u8",
-      "category": "Local"
+      "category": "Entertainment"
     },
     {
       "name": "VIDIYAL TV",
@@ -1667,7 +1637,7 @@
       "name": "WORLD TAMIL TV",
       "logo": "http://www.worldtamil.tv/img/logo.png",
       "url": "http://185.105.4.244:1935/wtt/wttv/playlist.m3u8",
-      "category": "Local"
+      "category": "International"
     },
     {
       "name": "Yaal Tv",
@@ -1677,7 +1647,7 @@
     },
     {
       "name": "Gospel",
-      "category": "Local",
+      "category": "Religious",
       "url": "rtmp://bmlive.net:1935/gospeltv/gospeltv",
       "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/2.png"
     },
