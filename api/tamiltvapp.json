@@ -1,8 +1,38 @@
 [
   {
     "label": "Entertainment",
-    "count": 23,
+    "count": 28,
     "channels": [
+      {
+        "name": "Rasi TV",
+        "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/rasi/rasitv.png",
+        "url": "rtmp://singamcloud.in:1935/rasinetwork/rasitv",
+        "category": "Entertainment"
+      },
+      {
+        "name": "Rasi Lifestyle",
+        "url": "rtmp://singamcloud.in:1935/rasinetwork/cookings",
+        "category": "Entertainment",
+        "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/rasi/rasitamil.png"
+      },
+      {
+        "name": "Rasi Classic",
+        "url": "rtmp://singamcloud.in:1935/rasinetwork/rasiclassic",
+        "category": "Entertainment",
+        "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/rasi/rasiclassic.png"
+      },
+      {
+        "name": "Rasi Movies",
+        "url": "rtmp://singamcloud.in:1935/rasinetwork/rasimovies",
+        "category": "Entertainment",
+        "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/rasi/rasimovies.png"
+      },
+      {
+        "category": "Entertainment",
+        "url": "http://live.singamcloud.in:1935/applemusic/applemusic/chunklist_w422916913.m3u8",
+        "name": "TDCTO",
+        "logo": ""
+      },
       {
         "category": "Entertainment",
         "url": "http://live.singamcloud.in:1935/trendingtv/trendingtv/playlist.m3u8",
@@ -144,14 +174,56 @@
     ]
   },
   {
-    "label": "Education",
-    "count": 1,
+    "label": "Movies",
+    "count": 8,
     "channels": [
       {
-        "category": "Education",
-        "name": "Kalvi Channel",
-        "url": "https://askmedia.livebox.co.in/KalviTVhls/5.m3u8",
-        "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1620121482_dan-004.jpg"
+        "name": "Rasi Hollywood",
+        "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/rasi/rasihollywood.png",
+        "url": "rtmp://singamcloud.in:1935/rasinetwork/rasihollywood",
+        "category": "Movies"
+      },
+      {
+        "name": "Rasi Tamil",
+        "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/rasi/rasitamil.png",
+        "url": "rtmp://singamcloud.in:1935/rasinetwork/rasitamil",
+        "category": "Movies"
+      },
+      {
+        "name": "Kalai Cinema",
+        "url": "http://singamcloud.in:8080/kalaicinema/kalaicinema/playlist.m3u8",
+        "logo": "http://nammaoorutv.com/dashboard/upicons/IMG-20200908-WA0064.jpg",
+        "category": "Movies"
+      },
+      {
+        "name": "Tharun Movies",
+        "url": "https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/tharunmovies_low/index.m3u8",
+        "category": "Movies",
+        "logo": "https://static.ultramaxnet.com/images/thiru_tv_logo.jpeg"
+      },
+      {
+        "name": "ACN Cinema",
+        "url": "http://ammacable.com:1935/acn/acncinema/playlist.m3u8",
+        "logo": null,
+        "category": "Movies"
+      },
+      {
+        "url": "http://103.199.161.254/Content/kalaignarchittiram/Live/Channel(KalaignarChittiram)/Stream(01)/index.m3u8",
+        "category": "Movies",
+        "logo": "http://jenohdtv.gq/wp-content/uploads/2019/11/Chithiram-TV.png",
+        "name": "Chithiram TV"
+      },
+      {
+        "name": "Java Movie",
+        "category": "Movies",
+        "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622895526_jayatv.png",
+        "url": "https://catchup.yuppcdn.net/amazonv2/20/preview/jayamovies/master/master.m3u8"
+      },
+      {
+        "name": "Santhora Short Flim",
+        "url": "http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8",
+        "logo": "https://i.imgur.com/kKFfLMd.jpg",
+        "category": "Movies"
       }
     ]
   },
@@ -159,6 +231,12 @@
     "label": "Music",
     "count": 24,
     "channels": [
+      {
+        "name": "Rasi Music",
+        "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/rasi/rasimusic.png",
+        "url": "rtmp://singamcloud.in:1935/rasinetwork/rasimusic",
+        "category": "Music"
+      },
       {
         "category": "Music",
         "name": "Marutham Music",
@@ -188,12 +266,6 @@
         "name": "Kalai Isai",
         "category": "Music",
         "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1616232479_kalaiisai.png"
-      },
-      {
-        "name": "Rasi Music",
-        "logo": "https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.jpg?fakeurl=1&type=.jpg",
-        "url": "http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8",
-        "category": "Music"
       },
       {
         "name": "MN Music",
@@ -302,6 +374,66 @@
         "logo": "https://vaanavil.live/wp-content/uploads/2019/10/Vaanavil-Logo-GIF.gif",
         "url": "https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8",
         "category": "Music"
+      }
+    ]
+  },
+  {
+    "label": "Telugu",
+    "count": 1,
+    "channels": [
+      {
+        "name": "Rasi Telugu",
+        "url": "rtmp://singamcloud.in:1935/rasinetwork/rasitelugu",
+        "category": "Telugu",
+        "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/rasi/rasitelugu.png"
+      }
+    ]
+  },
+  {
+    "label": "Malayalam",
+    "count": 3,
+    "channels": [
+      {
+        "name": "Rasi Malayalam",
+        "url": "rtmp://singamcloud.in:1935/rasinetwork/rasimalayalam",
+        "category": "Malayalam",
+        "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/rasi/rasimalayalam.png"
+      },
+      {
+        "name": "KL My TV",
+        "url": "http://bmlive.net:8000/mytvkl/mytvkl/bms.m3u8",
+        "logo": "http://nammaoorutv.com/dashboard/upicons/IMG-20210324-WA0002.jpg",
+        "category": "Malayalam"
+      },
+      {
+        "name": "KCV TV",
+        "url": "http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR",
+        "logo": "http://nammaoorutv.com/dashboard/upicons/IMG-20201211-WA0007.jpg",
+        "category": "Malayalam"
+      }
+    ]
+  },
+  {
+    "label": "Hindi",
+    "count": 1,
+    "channels": [
+      {
+        "name": "Rasi Hindi",
+        "url": "rtmp://singamcloud.in:1935/rasinetwork/rasihindi",
+        "category": "Hindi",
+        "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/rasi/rasihindi.png"
+      }
+    ]
+  },
+  {
+    "label": "Education",
+    "count": 1,
+    "channels": [
+      {
+        "category": "Education",
+        "name": "Kalvi Channel",
+        "url": "https://askmedia.livebox.co.in/KalviTVhls/5.m3u8",
+        "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1620121482_dan-004.jpg"
       }
     ]
   },
@@ -1380,60 +1512,6 @@
     ]
   },
   {
-    "label": "Movies",
-    "count": 8,
-    "channels": [
-      {
-        "name": "Kalai Cinema",
-        "url": "http://singamcloud.in:8080/kalaicinema/kalaicinema/playlist.m3u8",
-        "logo": "http://nammaoorutv.com/dashboard/upicons/IMG-20200908-WA0064.jpg",
-        "category": "Movies"
-      },
-      {
-        "name": "Rasi Hollywood",
-        "logo": "https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.jpg?fakeurl=1&type=.jpg",
-        "url": "http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8",
-        "category": "Movies"
-      },
-      {
-        "name": "Rasi Tamil",
-        "logo": "https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.jpg?fakeurl=1&type=.jpg",
-        "url": "http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8",
-        "category": "Movies"
-      },
-      {
-        "name": "Tharun Movies",
-        "url": "https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/tharunmovies_low/index.m3u8",
-        "category": "Movies",
-        "logo": "https://static.ultramaxnet.com/images/thiru_tv_logo.jpeg"
-      },
-      {
-        "name": "ACN Cinema",
-        "url": "http://ammacable.com:1935/acn/acncinema/playlist.m3u8",
-        "logo": null,
-        "category": "Movies"
-      },
-      {
-        "url": "http://103.199.161.254/Content/kalaignarchittiram/Live/Channel(KalaignarChittiram)/Stream(01)/index.m3u8",
-        "category": "Movies",
-        "logo": "http://jenohdtv.gq/wp-content/uploads/2019/11/Chithiram-TV.png",
-        "name": "Chithiram TV"
-      },
-      {
-        "name": "Java Movie",
-        "category": "Movies",
-        "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1622895526_jayatv.png",
-        "url": "https://catchup.yuppcdn.net/amazonv2/20/preview/jayamovies/master/master.m3u8"
-      },
-      {
-        "name": "Santhora Short Flim",
-        "url": "http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8",
-        "logo": "https://i.imgur.com/kKFfLMd.jpg",
-        "category": "Movies"
-      }
-    ]
-  },
-  {
     "label": "Religious",
     "count": 27,
     "channels": [
@@ -1602,24 +1680,6 @@
     ]
   },
   {
-    "label": "Malayalam",
-    "count": 2,
-    "channels": [
-      {
-        "name": "KL My TV",
-        "url": "http://bmlive.net:8000/mytvkl/mytvkl/bms.m3u8",
-        "logo": "http://nammaoorutv.com/dashboard/upicons/IMG-20210324-WA0002.jpg",
-        "category": "Malayalam"
-      },
-      {
-        "name": "KCV TV",
-        "url": "http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR",
-        "logo": "http://nammaoorutv.com/dashboard/upicons/IMG-20201211-WA0007.jpg",
-        "category": "Malayalam"
-      }
-    ]
-  },
-  {
     "label": "News",
     "count": 18,
     "channels": [
@@ -1735,7 +1795,7 @@
   },
   {
     "label": "Kids",
-    "count": 2,
+    "count": 4,
     "channels": [
       {
         "name": "Akaram Kidz",
@@ -1824,7 +1884,7 @@
     ]
   },
   {
-    "label": "Others",
+    "label": "Other",
     "count": 6,
     "channels": [
       {

@@ -1,0 +1,13 @@
+ rtmp://singamcloud.in:1935/rasinetwork/rasitv                   - RASI TV
+rtmp://singamcloud.in:1935/rasinetwork/rasitamil               - RASI TAMIL
+rtmp://singamcloud.in:1935/rasinetwork/rasimusic             - RASI MUSIC
+rtmp://singamcloud.in:1935/rasinetwork/rasimovies           - RASI MOVIES
+rtmp://singamcloud.in:1935/rasinetwork/rasihollywood       - RASI HOLLYWOOD
+
+rtmp://singamcloud.in:1935/rasinetwork/rasiclassic            - RASI CLASSIC
+rtmp://singamcloud.in:1935/rasinetwork/rasihindi               - RASI HINDI
+rtmp://singamcloud.in:1935/rasinetwork/rasimalayalam     - RASI MALAYALAM
+ rtmp://singamcloud.in:1935/rasinetwork/rasitelugu - RASI TELUGU
+ rtmp://singamcloud.in:1935/rasinetwork/cookings - RASI LIFESTYLE
+
+
