@@ -1,66 +1,7 @@
 {
   "showLogo": true,
   "channels": [
-    {
-      "name": "Rasi TV",
-      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/rasi/rasitv.png",
-      "url": "rtmp://singamcloud.in:1935/rasinetwork/rasitv",
-      "category": "Entertainment"
-    },
-    {
-      "name": "Rasi Hollywood",
-      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/rasi/rasihollywood.png",
-      "url": "rtmp://singamcloud.in:1935/rasinetwork/rasihollywood",
-      "category": "Movies"
-    },
-    {
-      "name": "Rasi Tamil",
-      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/rasi/rasitamil.png",
-      "url": "rtmp://singamcloud.in:1935/rasinetwork/rasitamil",
-      "category": "Movies"
-    },
-    {
-      "name": "Rasi Music",
-      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/rasi/rasimusic.png",
-      "url": "rtmp://singamcloud.in:1935/rasinetwork/rasimusic",
-      "category": "Music"
-    },
-    {
-      "name": "Rasi Lifestyle",
-      "url": "rtmp://singamcloud.in:1935/rasinetwork/cookings",
-      "category": "Entertainment",
-      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/rasi/rasitamil.png"
-    },
-    {
-      "name": "Rasi Telugu",
-      "url": "rtmp://singamcloud.in:1935/rasinetwork/rasitelugu",
-      "category": "Telugu",
-      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/rasi/rasitelugu.png"
-    },
-    {
-      "name": "Rasi Malayalam",
-      "url": "rtmp://singamcloud.in:1935/rasinetwork/rasimalayalam",
-      "category": "Malayalam",
-      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/rasi/rasimalayalam.png"
-    },
-    {
-      "name": "Rasi Hindi",
-      "url": "rtmp://singamcloud.in:1935/rasinetwork/rasihindi",
-      "category": "Hindi",
-      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/rasi/rasihindi.png"
-    },
-    {
-      "name": "Rasi Classic",
-      "url": "rtmp://singamcloud.in:1935/rasinetwork/rasiclassic",
-      "category": "Entertainment",
-      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/rasi/rasiclassic.png"
-    },
-    {
-      "name": "Rasi Movies",
-      "url": "rtmp://singamcloud.in:1935/rasinetwork/rasimovies",
-      "category": "Entertainment",
-      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/rasi/rasimovies.png"
-    },
+
     {
       "category": "Entertainment",
       "url": "http://live.singamcloud.in:1935/applemusic/applemusic/chunklist_w422916913.m3u8",
@@ -1538,6 +1479,12 @@
       "logo": "http://jenohdtv.gq/wp-content/uploads/2019/11/Sivan-TV.png"
     },
     {
+      "name": "Rasi Classic",
+      "url": "rtmp://singamcloud.in:1935/rasinetwork/rasiclassic",
+      "category": "Entertainment",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/rasi/rasiclassic.png"
+    },
+    {
       "name": "Sooriyan TV",
       "category": "Local",
       "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/1597387276_soorian.jpg",
@@ -1548,6 +1495,13 @@
       "logo": "http://www.erodesrikrishnatv.com/images/logo.png",
       "url": "http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8",
       "category": "Local"
+    },
+
+    {
+      "name": "Rasi Tamil",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/rasi/rasitamil.png",
+      "url": "rtmp://singamcloud.in:1935/rasinetwork/rasitamil",
+      "category": "Movies"
     },
     {
       "url": "https://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/index.m3u8",
@@ -1585,6 +1539,41 @@
       "logo": "http://mhdtvworld.com/wp-content/uploads/2018/11/rsz_tamil_vision_international1.jpg",
       "category": null
     },
+
+    {
+      "name": "Rasi TV",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/rasi/rasitv.png",
+      "url": "rtmp://singamcloud.in:1935/rasinetwork/rasitv",
+      "category": "Entertainment"
+    },
+
+
+    {
+      "name": "Rasi Lifestyle",
+      "url": "rtmp://singamcloud.in:1935/rasinetwork/cookings",
+      "category": "Entertainment",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/rasi/rasitamil.png"
+    },
+    {
+      "name": "Rasi Telugu",
+      "url": "rtmp://singamcloud.in:1935/rasinetwork/rasitelugu",
+      "category": "Telugu",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/rasi/rasitelugu.png"
+    },
+    {
+      "name": "Rasi Malayalam",
+      "url": "rtmp://singamcloud.in:1935/rasinetwork/rasimalayalam",
+      "category": "Malayalam",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/rasi/rasimalayalam.png"
+    },
+    {
+      "name": "Rasi Hindi",
+      "url": "rtmp://singamcloud.in:1935/rasinetwork/rasihindi",
+      "category": "Hindi",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/rasi/rasihindi.png"
+    },
+
+
     {
       "name": "Thanthi TV",
       "url": "https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/playlist.m3u8",
@@ -1626,6 +1615,12 @@
       "url": "https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8",
       "logo": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png",
       "category": null
+    },
+    {
+      "name": "Rasi Movies",
+      "url": "rtmp://singamcloud.in:1935/rasinetwork/rasimovies",
+      "category": "Entertainment",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/rasi/rasimovies.png"
     },
     {
       "name": "VAC TV",
@@ -1730,6 +1725,12 @@
       "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/21.png"
     },
     {
+      "name": "Rasi Hollywood",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/rasi/rasihollywood.png",
+      "url": "rtmp://singamcloud.in:1935/rasinetwork/rasihollywood",
+      "category": "Movies"
+    },
+    {
       "name": "Digital TV",
       "category": "Local",
       "url": "rtmp://bmlive.net:1935/digitaltv/digitaltv",
@@ -1800,6 +1801,12 @@
       "category": "Local",
       "url": "rtmp://210.18.155.135:1935/live/srtv",
       "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/83.png"
+    },
+    {
+      "name": "Rasi Music",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/rasi/rasimusic.png",
+      "url": "rtmp://singamcloud.in:1935/rasinetwork/rasimusic",
+      "category": "Music"
     },
     {
       "name": "Zara TV",
