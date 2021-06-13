@@ -1,7 +1,6 @@
 {
   "showLogo": true,
   "channels": [
-
     {
       "category": "Local",
       "url": "http://bmlive.net:8000/Raja/rajacbe/bms.m3u8",
