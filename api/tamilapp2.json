@@ -1,7 +1,12 @@
 {
   "showLogo": true,
   "channels": [
-
+    {
+      "category": "Local",
+      "url": "rtmp://bmlive.net:1935/Vetri/vtv",
+      "name": "Vetri TV Cuddalore",
+      "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/vetritvcuddalore.png"
+    },
     {
       "category": "Entertainment",
       "url": "http://live.singamcloud.in:1935/applemusic/applemusic/chunklist_w422916913.m3u8",
