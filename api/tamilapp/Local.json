@@ -1,6 +1,78 @@
 [
   {
     "category": "Local",
+    "url": "http://bmlive.net:8000/Moviefiveapplive/moviefive/bms.m3u8",
+    "name": "Movie Five TV",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/124.png"
+  },
+  {
+    "category": "Local",
+    "url": "http://bmlive.net:8000/sjstv/sjstv/bms.m3u8",
+    "name": "SJS TV",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/124.png"
+  },
+  {
+    "category": "Local",
+    "url": "http://bmlive.net:8000/penguintv/penguintv/bms.m3u8",
+    "name": "Penguin TV",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/111.png"
+  },
+  {
+    "category": "Local",
+    "url": "http://bmlive.net:8000/udhayamtv/udhayamtv/bms.m3u8",
+    "name": "Udhyam TV Nagarcoil",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/153.png"
+  },
+  {
+    "category": "Local",
+    "url": "http://bmlive.net:8000/gtv/gtv/bms.m3u8",
+    "name": "VIP HD",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/152.png"
+  },
+  {
+    "category": "Local",
+    "url": "http://bmlive.net:8000/jcvtv/jcvtv/bms.m3u8",
+    "name": "JCV HD",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/150.png"
+  },
+  {
+    "category": "Local",
+    "url": "rtmp://bmlive.net:1935/kktdctv/kktdctv",
+    "name": "KKTDC Cabel TV",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/146.png"
+  },
+  {
+    "category": "Local",
+    "url": "http://bmlive.net:8000/digitaltv/digitaltv/bms.m3u8",
+    "name": "Digital TV",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/145.png"
+  },
+  {
+    "category": "Local",
+    "url": "http://bmlive.net:8000/samyukthahd/samyukthahd/bms.m3u8",
+    "name": "Samyuktha HD",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/155.png"
+  },
+  {
+    "category": "Local",
+    "url": "http://bmlive.net:8000/Raja/rajacbe/bms.m3u8",
+    "name": "Mullai HD",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/160.png"
+  },
+  {
+    "category": "Local",
+    "url": "http://bmlive.net:8000/vasanthtvngl/vasanthtvngl/bms.m3u8",
+    "name": "Vasanth TV",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/109.png"
+  },
+  {
+    "category": "Local",
+    "url": "http://bmlive.net:8000/selfeetv/selfeetv/bms.m3u8",
+    "name": "Selfie TV",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/89.png"
+  },
+  {
+    "category": "Local",
     "name": "Nivi TV",
     "url": "http://media.7starcloud.com:1935/live/nivitvlive/playlist.m3u8",
     "logo": "http://7starcloud.in/tamilcloud/uploads/images/channel_IMG86627.png"
@@ -887,7 +959,6 @@
     "url": "https://stream.meenakshitv.com/LiveApp/streams/737506415855638572426221.m3u8",
     "category": "Local"
   },
-
   {
     "name": "Moon TV",
     "logo": "http://www.moontvlive.com/images/logo.png",

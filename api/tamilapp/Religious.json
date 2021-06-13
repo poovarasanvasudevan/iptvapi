@@ -1,5 +1,34 @@
 [
   {
+    "category": "Religious",
+    "name": "Krubai TV",
+    "url": "http://bmlive.net:8000/kirubaitv/kirubaitv/bms.m3u8",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/161.png"
+  },
+  {  "category": "Religious",
+    "url": "rtmp://bmlive.net:1935/samanwayavision/samanwayavision",
+    "name": "Samanwaya Vision",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/158.png"
+  },
+  {
+    "category": "Religious",
+    "url": "rtmp://bmlive.net:1935/praisetv/praisetv",
+    "name": "Praise TV",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/108.png"
+  },
+  {
+    "category": "Religious",
+    "url": "http://bmlive.net:8000/smyrnatv/smyrnatv/bms.m3u8",
+    "name": "SMYRNA TV",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/110.png"
+  },
+  {
+    "category": "Religious",
+    "url": "http://jaeppiyar.livebox.co.in/jeevaolitvhls/live.m3u8",
+    "name": "JeevaOli TV",
+    "logo": "https://raw.githubusercontent.com/poovarasanvasudevan/iptvapi/main/extras/images/jeevaoli.webp"
+  },
+  {
     "name": "Vinmeen TV",
     "url": "http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8",
     "category": "Religious",
