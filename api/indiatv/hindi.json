@@ -1,5 +1,17 @@
 [
   {
+    "url": "https://penindia.in/broadcasting/",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/1/17/Bflix_Movies.jpeg/revision/latest?cb=20191222183430",
+    "title": "Blix movies",
+    "stream": "https://dreamtv.livebox.co.in/bflixouthls/live.m3u8"
+  },
+  {
+    "url": "https://penindia.in/broadcasting/",
+    "logo": "https://penindia.in/wp-content/uploads/2019/12/canva-photo-editor-1.png",
+    "title": "iLove Music",
+    "stream": "https://ilove.livebox.co.in/wowinhls/live.m3u8"
+  },
+  {
     "url": "https://www.mxplayer.in/live-tv/9xm-live-channel-03069xmin?language=hi",
     "logo": "https://qqcdnpictest.mxplay.com/pic/0306.9XM.in/en/1x1/208x208/test_pic1545220990615.jpg",
     "title": "9XM",
