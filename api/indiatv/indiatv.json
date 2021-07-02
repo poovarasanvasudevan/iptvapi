@@ -1,5 +1,19 @@
 [
   {
+    "url": "https://penindia.in/broadcasting/",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/1/17/Bflix_Movies.jpeg/revision/latest?cb=20191222183430",
+    "title": "Blix movies",
+    "stream": "https://dreamtv.livebox.co.in/bflixouthls/live.m3u8",
+    "language": "HINDI"
+  },
+  {
+    "url": "https://penindia.in/broadcasting/",
+    "logo": "https://penindia.in/wp-content/uploads/2019/12/canva-photo-editor-1.png",
+    "title": "iLove Music",
+    "stream": "https://ilove.livebox.co.in/wowinhls/live.m3u8",
+    "language": "HINDI"
+  },
+  {
     "url": "http://stream1.livebox.co.in/kbcreationhls/live.m3u8",
     "stream": "http://stream1.livebox.co.in/kbcreationhls/live.m3u8",
     "title": "Aamar Bangla",
