@@ -1,5 +1,12 @@
 [
   {
+    "stream": "https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8",
+    "url": "https://github.com/iltehab/iltehab/blob/310f4fde8fb802f338eaecf993dea28bc45509eb/Personal.m3u",
+    "title": "B4u Music",
+    "logo": "https://tavapi.inditechman.com/extras/images/b4umusic.png",
+    "language": "HINDI"
+  },
+  {
     "url": "https://penindia.in/broadcasting/",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/1/17/Bflix_Movies.jpeg/revision/latest?cb=20191222183430",
     "title": "Blix movies",
