@@ -1,5 +1,36 @@
 [
   {
+    "stream": "http://45.122.123.58:8080/hls/bharata2z/index.m3u8",
+    "url": "gmail",
+    "title": "Bharat a2z news",
+    "logo": "https://tavapi.inditechman.com/extras/images/a2znews.jpg",
+    "language": "HINDI"
+  },
+
+  {
+    "stream": "https://stream.auvtech.in/hls/morus2.m3u8",
+    "url": "gmail",
+    "title": "Lok Jan sandesh",
+    "logo": "https://tavapi.inditechman.com/extras/images/jan.jpg",
+    "language": "HINDI"
+  },
+  {
+    "stream": "https://stream.auvtech.in/hls/morus3.m3u8",
+    "url": "gmail",
+    "title": "Ntv news",
+    "logo": "https://tavapi.inditechman.com/extras/images/ntvnews.jpg",
+    "language": "HINDI"
+  },
+  {
+    "stream": "http://genesys.livebox.co.in/vardannewshls/live.m3u8",
+    "url": "gmail",
+    "title": "Vardan news",
+    "logo": "https://tavapi.inditechman.com/extras/images/vnews.jpg",
+    "language": "HINDI"
+  },
+
+
+  {
     "stream": "https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8",
     "url": "https://github.com/iltehab/iltehab/blob/310f4fde8fb802f338eaecf993dea28bc45509eb/Personal.m3u",
     "title": "B4u Music",
