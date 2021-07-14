@@ -1,6 +1,6 @@
 [
   {
-    "stream": "https://stream.auvtech.in/hls/morus2.m3u8",
+    "stream": "http://stream.auvtech.in/hls/morus2.m3u8",
     "url": "gmail",
     "title": "Vibor News",
     "logo": "https://tavapi.inditechman.com/extras/images/vibor.jpg"
@@ -13,13 +13,13 @@
   },
 
   {
-    "stream": "https://stream.auvtech.in/hls/morus2.m3u8",
+    "stream": "http://stream.auvtech.in/hls/morus2.m3u8",
     "url": "gmail",
     "title": "Lok Jan sandesh",
     "logo": "https://tavapi.inditechman.com/extras/images/jan.jpg"
   },
   {
-    "stream": "https://stream.auvtech.in/hls/morus3.m3u8",
+    "stream": "http://stream.auvtech.in/hls/morus3.m3u8",
     "url": "gmail",
     "title": "Ntv news",
     "logo": "https://tavapi.inditechman.com/extras/images/ntvnews.jpg"
