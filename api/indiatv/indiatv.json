@@ -1,5 +1,12 @@
 [
   {
+    "stream": "https://stream.auvtech.in/hls/morus2.m3u8",
+    "url": "gmail",
+    "title": "Vibor News",
+    "logo": "https://tavapi.inditechman.com/extras/images/vibor.jpg",
+    "language": "HINDI"
+  },
+  {
     "stream": "http://45.122.123.58:8080/hls/bharata2z/index.m3u8",
     "url": "gmail",
     "title": "Bharat a2z news",
