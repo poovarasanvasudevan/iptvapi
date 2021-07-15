@@ -1,5 +1,12 @@
 [
   {
+    "stream": "rtmp://103.164.26.34:1935/tv30india/tv30india",
+    "url": "gmail",
+    "title": "TV 30 India",
+    "logo": "https://tavapi.inditechman.com/extras/images/tv30.jpg",
+    "language": "HINDI"
+  },
+  {
     "stream": "http://stream.auvtech.in/hls/morus1.m3u8",
     "url": "gmail",
     "title": "TV Uday Vibor",
