@@ -1,5 +1,12 @@
 [
   {
+    "stream": "http://streaming.agcom.in:8080/channel/9bharat/index.m3u8",
+    "url": "gmail",
+    "title": "9 Bharat Samachar",
+    "logo": "https://tavapi.inditechman.com/extras/images/1b.jpg",
+    "language": "HINDI"
+  },
+  {
     "stream": "rtmp://103.164.26.34:1935/tv30india/tv30india",
     "url": "gmail",
     "title": "TV 30 India",
